@@ -1,8 +1,8 @@
-//Date: 2/8/2024 以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//Date: 2/8/2024 - 以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
   "warningText": "永久免费",
   "sites": [
-  {
+    {
       "key": "豆豆",
       "name": "豆瓣推荐",
       "type": 3,
@@ -75,9 +75,23 @@
         "喜剧片"
       ]
     },
-    {"key":"闪电资源","name":"闪电┃资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"光速资源","name":"光速┃资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-   {
+    {
+      "key": "闪电资源",
+      "name": "闪电┃资源",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "光速资源",
+      "name": "光速┃资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "cjzy_暴风资源",
       "name": "🎈┃暴风┃影视",
       "type": 1,
@@ -85,10 +99,11 @@
       "playUrl": "",
       "categories": [
         "国产剧",
-        "香港剧",
-        "台湾剧",
+        "韩国剧",
         "日本剧",
         "欧美剧",
+        "香港剧",
+        "台湾剧",
         "泰国剧",
         "国产动漫",
         "大陆综艺",
@@ -139,35 +154,35 @@
       ]
     },
     {
-            "key":"快车资源",
-            "name":"快车资源",
-            "type":1,
-            "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
-            "playUrl":"",
-            "searchable":1,
-            "quickSearch":1,
-            "categories":[
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "伦理片",
-                "动画片",
-                "国产剧",
-                "香港剧",
-                "台湾剧",
-                "欧美剧",
-                "韩国剧",
-                "日本剧",
-                "海外剧",
-                "动漫",
-                "国产动漫",
-                "日本动漫"
-            ]
-   },
-   {
+      "key": "快车资源",
+      "name": "快车┃资源",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "海外剧",
+        "香港剧",
+        "台湾剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "伦理片",
+        "动画片",
+        "动漫",
+        "国产动漫",
+        "日本动漫"
+      ]
+    },
+    {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃2K",
       "type": 3,
@@ -180,24 +195,25 @@
       "key": "JOJO",
       "name": "🕊︎JOJO┃直连",
       "type": 3,
-       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "api": "csp_JOJO",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-            {"key":"csp_JianPian",
-            "name":"🔨荐片",
-            "type":3,
-            "api":"csp_JianPian",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://ownjpykxttjzuhy.jiesiwa.com",
-            "jar":"https://jihulab.com/clear1/yingmi/-/raw/main/jar/custom_spider.jar;md5;355a6227d33a26924bdbd795ae58955f"
-            },
-         {
+    {
+      "key": "csp_JianPian",
+      "name": "🔨荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com",
+      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/custom_spider.jar;md5;355a6227d33a26924bdbd795ae58955f"
+    },
+    {
       "key": "南坊",
       "name": "☀南坊┃App",
       "type": 3,
@@ -205,7 +221,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
     },
     {
@@ -228,7 +244,7 @@
       "filterable": 0,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/zb.json"
     },
-      {
+    {
       "key": "Czsapp",
       "name": "📔┃厂长┃4K",
       "type": 3,
@@ -293,7 +309,7 @@
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA8MND2wVtbm3ykpXXJ3bqXTQ0QXY5aa4ACm9djOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgqdPQKDtPWh4fhHsOhoVtp+X5gHQWNAPTdwLiEUYrQOCBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr04e951VEYXUQxQnysQQADx838e6ihlgsUzqcr1mU0wSCBZ7aw6em0LlqCi8Q2ZRdrz8zKIuN+nXZTeZx8nXbWlSFUw2O9lf2Hs4Pf87vf+g9Nk7qRCAHwQDsY62lPCqruUDkfKGV1FS0Afdl8L/QzvvsosjOb3hmPGhg+HCK8hhvjIhBORqTqs6sYW1iHeqkkm7Unr+KNC1+2stfYOhbvQ8Xxg51KdMMnDPSh0OX+opaZ8+5n5Wfc1laahI7hJ"
     },
-     {
+    {
       "key": "速映",
       "name": "🏍┃速映┃4K",
       "type": 3,
@@ -318,7 +334,7 @@
         "播放链接": "href=\"&&\""
       }
     },
-     {
+    {
       "key": "毛驴",
       "name": "🦒┃小驴┃4K",
       "type": 3,
@@ -339,8 +355,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/x6v.js"
     },
-     
-     {
+    {
       "key": "子子",
       "name": "🗽┃子子┃2K",
       "type": 3,
@@ -348,7 +363,7 @@
       "jar": "http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b",
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext":"https://jihulab.com/dimaston1/4k/-/raw/main/json/子子.json"
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/子子.json"
     },
     {
       "key": "csp_XBPQ_haoxi",
@@ -382,16 +397,16 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/348影视.json"
     },
-     {
-            "key": "蝴蝶",
-            "name": "蝴蝶┃App",
-            "type": 3,
-            "api": "csp_Hudie",
-            "playerType": 2,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
-        },
-     {
+    {
+      "key": "蝴蝶",
+      "name": "蝴蝶┃App",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+    },
+    {
       "key": "yqkan_open",
       "name": "🛁┃一起┃2K",
       "type": 3,
@@ -401,150 +416,150 @@
       "filterable": 0,
       "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
     },
-{
-            "key": "蜂鸟",
-            "name": "蜂鸟┃App",
-            "type": 3,
-            "api": "csp_Skapp",
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/fengniao"
-        },
-        {
-            "key": "君离",
-            "name": "君离┃App",
-            "type": 3,
-            "api": "csp_Skapp",
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/junli"
-        },
-        {
-            "key": "极光",
-            "name": "极光┃App",
-            "type": 3,
-            "api": "csp_Skapp",
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
-        },
-        {
-            "key": "tvbsk",
-            "name": "TVB云播┃App",
-            "type": 3,
-            "api": "csp_Skapp",
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"
-        },
-        {
-            "key": "嘶哩",
-            "name": "嘶哩┃App",
-            "type": 3,
-            "api": "csp_Skapp",
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/sili"
-        },
-        {
-            "key": "嘿嘿",
-            "name": "嘿嘿┃App",
-            "type": 3,
-            "api": "csp_qiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
-        },
-        {
-            "key": "超神",
-            "name": "超神┃App",
-            "type": 3,
-            "api": "csp_qiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
-        },
-        {
-            "key": "老虎",
-            "name": "老虎┃App",
-            "type": 3,
-            "api": "csp_qiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
-        },
-        {
-            "key": "樱花",
-            "name": "樱花┃App",
-            "type": 3,
-            "api": "csp_qiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/yinghua"
-        },
-        {
-            "key": "星星",
-            "name": "星星┃App",
-            "type": 3,
-            "api": "csp_qiao",
-            "playerType": 2,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/xingxing"
-        },
-        {
-            "key": "星星",
-            "name": "星星┃App",
-            "type": 3,
-            "api": "csp_qiao",
-            "playerType": 2,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
-        },
-        {
-            "key": "K影",
-            "name": "K影院┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "playerType": 2,
-            "ext": "http://iosa.xn--654a.cc/api.php/app/"
-        },
-        {
-            "key": "天天",
-            "name": "天天┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "playerType": 1,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "ext": "http://op.ysdqjs.cn"
-        },
-        {
-            "key": "南瓜",
-            "name": "南瓜┃App",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1,
-            "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-            "ext": ""
-        },
+    {
+      "key": "蜂鸟",
+      "name": "蜂鸟┃App",
+      "type": 3,
+      "api": "csp_Skapp",
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/fengniao"
+    },
+    {
+      "key": "君离",
+      "name": "君离┃App",
+      "type": 3,
+      "api": "csp_Skapp",
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/junli"
+    },
+    {
+      "key": "极光",
+      "name": "极光┃App",
+      "type": 3,
+      "api": "csp_Skapp",
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
+    },
+    {
+      "key": "tvbsk",
+      "name": "TVB云播┃App",
+      "type": 3,
+      "api": "csp_Skapp",
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"
+    },
+    {
+      "key": "嘶哩",
+      "name": "嘶哩┃App",
+      "type": 3,
+      "api": "csp_Skapp",
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/sili"
+    },
+    {
+      "key": "嘿嘿",
+      "name": "嘿嘿┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
+    },
+    {
+      "key": "超神",
+      "name": "超神┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
+    },
+    {
+      "key": "老虎",
+      "name": "老虎┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
+    },
+    {
+      "key": "樱花",
+      "name": "樱花┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/yinghua"
+    },
+    {
+      "key": "星星",
+      "name": "星星┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "playerType": 2,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/xingxing"
+    },
+    {
+      "key": "星星",
+      "name": "星星┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "playerType": 2,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
+    },
+    {
+      "key": "K影",
+      "name": "K影院┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "playerType": 2,
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
+    },
+    {
+      "key": "天天",
+      "name": "天天┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "ext": "http://op.ysdqjs.cn"
+    },
+    {
+      "key": "南瓜",
+      "name": "南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+      "ext": ""
+    },
     {
       "key": "蜗牛弹幕",
       "name": "🐌┃蜗牛┃2K",
@@ -569,7 +584,7 @@
         "电影"
       ]
     },
-     {
+    {
       "key": "鑫鑫影视",
       "name": "🐼┃鑫鑫┃影视",
       "type": 3,
@@ -659,7 +674,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/圣城影视.json"
     },
-      {
+    {
       "key": "csp_威士",
       "name": "⛱┃VSY┃2K",
       "type": 3,
@@ -669,7 +684,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/vs影视.json"
     },
-     {
+    {
       "key": "csp_xBPQ_奇优",
       "name": "🌝┃奇优┃2K",
       "type": 3,
@@ -706,7 +721,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/B站影视.js"
     },
-     {
+    {
       "key": "🌡csp_米爱影视",
       "name": "🌡┃米爱┃2K",
       "type": 3,
@@ -716,7 +731,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/米爱.json"
     },
-     {
+    {
       "key": "js_mogu",
       "name": "🍄┃蘑菇┃影视",
       "type": 3,
@@ -726,7 +741,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/蘑菇.js"
     },
-     {
+    {
       "key": "西门影视",
       "name": "👺┃西门┃影视",
       "type": 3,
@@ -736,7 +751,7 @@
       "filterable": 1,
       "ext": "http://111.230.51.151:6969/api.php/app/"
     },
-      {
+    {
       "key": "csp_AppMr",
       "name": "👻┃明明┃影视",
       "type": 3,
@@ -745,7 +760,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-      {
+    {
       "key": "Qtv",
       "name": "🐧┃企鹅┃官源",
       "type": 3,
@@ -816,7 +831,7 @@
         "动漫"
       ]
     },
-     {
+    {
       "key": "探探",
       "name": "🏄┃影探┃4K",
       "type": 3,
@@ -838,7 +853,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/新6v.json"
     },
-     
     {
       "key": "49zy",
       "name": "🗼┃49Z┃2K",
@@ -964,7 +978,7 @@
         "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
     },
-     {
+    {
       "key": "7️⃣csp_七月影视",
       "name": "7️⃣┃柒月┃2K",
       "type": 3,
@@ -1120,7 +1134,7 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/%e6%9e%81%e5%bd%b1%e7%bd%91.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
     },
-      {
+    {
       "key": "csp_歪片",
       "name": "🌋┃歪片┃2K",
       "type": 3,
@@ -1130,7 +1144,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/歪片星球.json"
     },
-      {
+    {
       "key": "影图",
       "name": "⛺┃影图┃2K",
       "type": 1,
@@ -1149,7 +1163,7 @@
       "changeable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
-     {
+    {
       "key": "csp_Alistxy",
       "name": "🚤┃小雅┃4K",
       "type": 3,
@@ -1159,7 +1173,6 @@
       "ext": "http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/Alistxy.json",
       "jar": "http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/AListxy.jar"
     },
-   
     {
       "key": "drpy_js_首播影院",
       "name": "👌┃首播┃2K",
@@ -1207,7 +1220,6 @@
       "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
       "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
     },
-
     {
       "key": "apv2_瑞丰",
       "name": "⛄┃瑞丰┃2K",
@@ -1289,7 +1301,7 @@
         "ratio": 3.8
       }
     },
-      {
+    {
       "key": "XBPQ_葡萄",
       "name": "🎦┃短剧┃葡萄",
       "type": 3,
@@ -1334,7 +1346,7 @@
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
       }
     },
-     {
+    {
       "key": "js_荐片",
       "name": "🏩┃推荐┃2K",
       "type": 3,
@@ -1345,7 +1357,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  
     {
       "key": "童趣",
       "name": "🍭┃童趣┃儿童",
@@ -1736,13 +1747,13 @@
   "spider": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
   "lives": [
     {
-      "name":"IPv4",
-      "type":0,
-      "url":"http://124.223.177.85:88/svip/直播挺快.txt",
-      "ua":"okhttp/3.12.13",
-      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://epg.112114.xyz/logo/{name}.png"
-      }
+      "name": "IPv4",
+      "type": 0,
+      "url": "http://124.223.177.85:88/svip/直播挺快.txt",
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
   ],
   "flags": [
     "youku",
@@ -1920,16 +1931,16 @@
       ]
     }
   ],
-   "rules": [
-{
-            "name": "jianpian",
-            "hosts": [
-                "tvbox-xg"
-            ],
-            "regex": [
-                "0-10000"
-            ]
-        },
+  "rules": [
+    {
+      "name": "jianpian",
+      "hosts": [
+        "tvbox-xg"
+      ],
+      "regex": [
+        "0-10000"
+      ]
+    },
     {
       "name": "lz",
       "hosts": [
