@@ -170,6 +170,30 @@
             ]
     },
     {
+      "key": "Jable",
+      "name": "❤Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
+    },
+    {
+      "key": "MissAV",
+      "name": "❤MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
+    },
+    {
+      "key": "Supjav",
+      "name": "❤Supjav",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
+    },
+    {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃2K",
       "type": 3,
