@@ -1,4 +1,4 @@
-//2/8/1014-以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//Date: 2/8/1014 以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
   "warningText": "永久免费",
   "sites": [
@@ -77,9 +77,7 @@
     },
     {"key":"闪电资源","name":"闪电┃资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"光速资源","name":"光速┃资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
-    {
+   {
       "key": "cjzy_暴风资源",
       "name": "🎈┃暴风┃影视",
       "type": 1,
@@ -168,32 +166,8 @@
                 "国产动漫",
                 "日本动漫"
             ]
-    },
-    {
-      "key": "Jable",
-      "name": "❤Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
-    },
-    {
-      "key": "MissAV",
-      "name": "❤MissAV",
-      "type": 3,
-      "api": "csp_Miss",
-      "searchable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
-    },
-    {
-      "key": "Supjav",
-      "name": "❤Supjav",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
-    },
-    {
+   },
+   {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃2K",
       "type": 3,
