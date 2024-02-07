@@ -77,7 +77,7 @@
     },
     {
       "key": "闪电资源",
-      "name": "闪电┃资源",
+      "name": "⚡┃闪电┃资源",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -85,7 +85,7 @@
     },
     {
       "key": "光速资源",
-      "name": "光速┃资源",
+      "name": "🔦┃光速┃资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -190,7 +190,7 @@
     },
     {
       "key": "快车资源",
-      "name": "快车┃资源",
+      "name": "🚗┃快车┃资源",
       "type": 1,
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "playUrl": "",
