@@ -1,5 +1,5 @@
-//Date: 2/8/2024 - 所有内容仅供学习使用，请勿用于违法用途。
 {
+  "//Date": "2/8/2024",
   "warningText": "永久免费",
   "sites": [
     {
@@ -353,7 +353,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    }
   ],
   "parses": [
     {
