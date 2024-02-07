@@ -76,6 +76,15 @@
       ]
     },
     {
+      "key": "独播库",
+      "name": "独播库",
+      "type": "4",
+      "api": "https://tang.run.goorm.app/duboku",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1"
+    },
+    {
       "key": "闪电资源",
       "name": "闪电┃资源",
       "type": 1,
