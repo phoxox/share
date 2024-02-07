@@ -141,15 +141,6 @@
       ]
     },
     {
-      "key": "csp_Bttoo",
-      "name": "🍄┃比特┃2K",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
             "key":"快车资源",
             "name":"快车资源",
             "type":1,
@@ -177,6 +168,15 @@
                 "国产动漫",
                 "日本动漫"
             ]
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🍄┃比特┃2K",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "JOJO",
