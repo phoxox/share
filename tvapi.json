@@ -109,7 +109,27 @@
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "海外剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "悬疑片",
+        "犯罪片"
+      ]
     },
     {
       "key": "csp_SNzy",
@@ -148,7 +168,7 @@
     },
     {
       "key": "cjzy_暴风资源",
-      "name": "🎈暴风┃影视",
+      "name": "🍃暴风┃影视",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
