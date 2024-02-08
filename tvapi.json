@@ -2,15 +2,15 @@
   "modifyDate": "2/8/2024",
   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://raw.githubusercontent.com/phoxox/share/main/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
+  "spider": "https://raw.githubusercontent.com/phoxox/share/main/yoursmile.jar;md5;A8F322DE8C93FBECBE209A4009D3F0DF",
   "sites": [
     {
       "key": "豆豆",
       "name": "豆瓣推荐",
       "type": 3,
       "api": "csp_DouDou",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1
     },
     {
@@ -501,7 +501,7 @@
           }
         ],
         "url": {
-          "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2023"
+          "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2023,2024"
         }
       },
       "response": {
