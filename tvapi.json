@@ -8,11 +8,10 @@
       "key": "豆豆",
       "name": "豆瓣推荐",
       "type": 3,
-      "jar": "https://raw.githubusercontent.com/phoxox/share/main/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "量子资源",
@@ -144,9 +143,9 @@
       "categories": [
         "国产剧",
         "欧美剧",
-        "港剧",
         "韩剧",
         "日剧",
+        "港剧",
         "台剧",
         "泰剧",
         "动作片",
@@ -174,6 +173,8 @@
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
       "categories": [
         "国产剧",
         "韩国剧",
