@@ -2,7 +2,8 @@
   "editDate": "2/8/2024",
   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
+  //"spider": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
+  "spider": "./jar/Butterfly.jar;md5;6695B4FE705A1EEDCAE352ABE5412640",
   "sites": [
     {
       "key": "csp_DouDou",
@@ -11,16 +12,7 @@
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+      "filterable": 0
     },
     {
       "key": "量子资源",
@@ -396,6 +388,15 @@
       ]
     },
     {
+      "key": "泥巴",
+      "name": "泥巴视频",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+    },
+    {
       "key": "csp_Bttoo",
       "name": "比特-2K",
       "type": 3,
@@ -748,6 +749,42 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
         "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "v.cdnlz",
+        "hd.lz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "暴风",
+      "hosts": [
+        "bfzy",
+        "s5.bfzycdn"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
     {
