@@ -382,11 +382,9 @@
     {
       "key": "樱花资源",
       "name": "樱花资源",
-      "type": 1,
-      "api": "https://jx.yhzybf.com/player/jx.php?url=",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "泥巴",
