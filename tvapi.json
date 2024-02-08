@@ -383,7 +383,7 @@
       "key": "樱花资源",
       "name": "樱花资源",
       "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "api": "https://jx.yhzybf.com/player/jx.php?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
