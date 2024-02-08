@@ -386,7 +386,26 @@
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "内地剧",
+        "韩国剧",
+        "日本剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "马泰剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片"
+      ]
     },
     {
       "key": "泥巴",
