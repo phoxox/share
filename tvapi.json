@@ -5,6 +5,15 @@
   "spider": "https://raw.githubusercontent.com/phoxox/share/main/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
   "sites": [
     {
+      "key": "豆豆",
+      "name": "豆瓣推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "量子资源",
       "name": "量子资源",
       "type": 1,
@@ -387,6 +396,15 @@
       "searchable": 1,
       "changeable": 1,
       "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "比特资源",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
@@ -484,6 +502,81 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "recommend": [
+    {
+      "name": "豆瓣推荐",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Referer",
+            "value": "https://movie.douban.com/"
+          }
+        ],
+        "url": {
+          "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2023"
+        }
+      },
+      "response": {
+        "result": "$.data",
+        "data": [
+          {
+            "key": "name",
+            "value": "title"
+          },
+          {
+            "key": "note",
+            "value": "rate"
+          },
+          {
+            "key": "pic",
+            "value": "cover"
+          }
+        ]
+      },
+      "expires": "86400"
+    }
+  ],
+  "rating": [
+    {
+      "name": "豆瓣评分",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "https://douban.cyao.tk/search?q={name}&limit=1"
+        }
+      },
+      "response": {
+        "result": "this",
+        "data": [
+          {
+            "key": "rating",
+            "value": "rating"
+          }
+        ]
+      }
+    }
+  ],
+  "association": [
+    {
+      "name": "iqiyi",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "https://suggest.video.iqiyi.com/?if=mobile&key={query}"
+        }
+      },
+      "response": {
+        "result": "$.data",
+        "data": [
+          {
+            "key": "keyword",
+            "value": "name"
+          }
+        ]
+      }
     }
   ],
   "flags": [
