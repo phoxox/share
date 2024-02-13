@@ -465,15 +465,6 @@
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
-      "key": "Nivod",
-      "name": "泥巴视频",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
-    },
-    {
       "key": "BTZY",
       "name": "比特资源",
       "type": 3,
@@ -481,6 +472,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "Nivod",
+      "name": "泥视频|墙外",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
     }
   ],
   "parses": [
