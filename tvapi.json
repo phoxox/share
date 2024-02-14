@@ -455,7 +455,7 @@
       ]
     },
     {
-      "key": "无尽资源",
+      "key": "WujinZY",
       "name": "无尽资源",
       "type": 1,
       "api": "https://api.wujinapi.me/api.php/provide/vod/",
@@ -495,17 +495,19 @@
       ]
     },
     {
-      "key": "YingsZY",
-      "name": "鑫鑫影视",
+      "key": "Czsapp",
+      "name": "厂长影视",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Czsapp",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+      "changeable": 0,
+      "ext": "https://www.czzy55.com/"
     },
     {
-      "key": "利奥影视",
+      "key": "Libvio",
       "name": "利奥影视",
       "type": 3,
       "api": "csp_Libvio",
@@ -514,6 +516,16 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://www.libvio.vip/"
+    },
+    {
+      "key": "YingsZY",
+      "name": "鑫鑫影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
       "key": "BttwooZY",
