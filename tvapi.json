@@ -503,7 +503,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0
+      "changeable": 0,
+      "categories": [
+        "华语剧",
+        "韩剧",
+        "日剧",
+        "欧美剧",
+        "欧美电影",
+        "日韩电影",
+        "华语电影"
+      ]
     },
     {
       "key": "Libvio",
