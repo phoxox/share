@@ -3,8 +3,7 @@
     "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "spider": "https://raw.githubusercontent.com/phoxox/share/main/spiderman.jar;md5;6695B4FE705A1EEDCAE352ABE5412640",
-    "sites":
-    [
+    "sites": [
         {
             "key": "DouDou",
             "name": "豆瓣推荐",
@@ -22,8 +21,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "欧美剧",
                 "韩剧",
@@ -59,8 +57,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "欧美剧",
                 "韩国剧",
@@ -84,8 +81,7 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "changeable": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "韩国剧",
                 "日本剧",
@@ -126,8 +122,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "欧美剧",
                 "韩国剧",
@@ -162,8 +157,7 @@
             "api": "http://ffzy2.tv/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "changeable": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "韩国剧",
                 "日本剧",
@@ -199,8 +193,7 @@
             "api": "https://hhzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "categories":
-            [
+            "categories": [
                 "内地剧",
                 "欧美剧",
                 "韩剧",
@@ -236,8 +229,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "categories":
-            [
+            "categories": [
                 "内地剧",
                 "韩剧",
                 "日剧",
@@ -271,8 +263,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "categories":
-            [
+            "categories": [
                 "大陆剧",
                 "欧美剧",
                 "韩剧",
@@ -301,8 +292,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "欧美剧",
                 "韩国剧",
@@ -347,8 +337,7 @@
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "欧美剧",
                 "韩国剧",
@@ -377,8 +366,7 @@
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "欧美剧",
                 "韩国剧",
@@ -417,8 +405,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "欧美剧",
                 "韩剧",
@@ -446,8 +433,7 @@
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "韩国剧",
                 "日本剧",
@@ -476,8 +462,7 @@
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
-            "categories":
-            [
+            "categories": [
                 "国产剧",
                 "韩国剧",
                 "日本剧",
@@ -519,8 +504,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "categories":
-            [
+            "categories": [
                 "韩剧",
                 "日剧",
                 "欧美剧",
@@ -591,8 +575,7 @@
             "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
         }
     ],
-    "parses":
-    [
+    "parses": [
         {
             "name": "聚合",
             "type": 3,
@@ -607,10 +590,8 @@
             "name": "神秘哥哥",
             "type": 1,
             "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
-            "ext":
-            {
-                "flag":
-                [
+            "ext": {
+                "flag": [
                     "qq",
                     "腾讯",
                     "qiyi",
@@ -644,10 +625,8 @@
             "name": "免费分享",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
-            "ext":
-            {
-                "flag":
-                [
+            "ext": {
+                "flag": [
                     "qq",
                     "腾讯",
                     "qiyi",
@@ -667,15 +646,13 @@
                     "哔哩哔哩",
                     "哔哩"
                 ],
-                "header":
-                {
+                "header": {
                     "User-Agent": "okhttp/4.1.0"
                 }
             }
         }
     ],
-    "lives":
-    [
+    "lives": [
         {
             "name": "live",
             "type": 0,
@@ -695,30 +672,24 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
-    "recommend":
-    [
+    "recommend": [
         {
             "name": "豆瓣推荐",
-            "request":
-            {
+            "request": {
                 "method": "GET",
-                "header":
-                [
+                "header": [
                     {
                         "key": "Referer",
                         "value": "https://movie.douban.com/"
                     }
                 ],
-                "url":
-                {
+                "url": {
                     "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2023,2024"
                 }
             },
-            "response":
-            {
+            "response": {
                 "result": "$.data",
-                "data":
-                [
+                "data": [
                     {
                         "key": "name",
                         "value": "title"
@@ -736,23 +707,18 @@
             "expires": "86400"
         }
     ],
-    "rating":
-    [
+    "rating": [
         {
             "name": "豆瓣评分",
-            "request":
-            {
+            "request": {
                 "method": "GET",
-                "url":
-                {
+                "url": {
                     "raw": "https://douban.cyao.tk/search?q={name}&limit=1"
                 }
             },
-            "response":
-            {
+            "response": {
                 "result": "this",
-                "data":
-                [
+                "data": [
                     {
                         "key": "rating",
                         "value": "rating"
@@ -761,23 +727,18 @@
             }
         }
     ],
-    "association":
-    [
+    "association": [
         {
             "name": "iqiyi",
-            "request":
-            {
+            "request": {
                 "method": "GET",
-                "url":
-                {
+                "url": {
                     "raw": "https://suggest.video.iqiyi.com/?if=mobile&key={query}"
                 }
             },
-            "response":
-            {
+            "response": {
                 "result": "$.data",
-                "data":
-                [
+                "data": [
                     {
                         "key": "keyword",
                         "value": "name"
@@ -786,8 +747,7 @@
             }
         }
     ],
-    "flags":
-    [
+    "flags": [
         "youku",
         "优酷",
         "优酷视频",
@@ -819,16 +779,13 @@
         "renrenmi",
         "m1905"
     ],
-    "rules":
-    [
+    "rules": [
         {
             "name": "索尼",
-            "hosts":
-            [
+            "hosts": [
                 "suonizy"
             ],
-            "regex":
-            [
+            "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
@@ -836,14 +793,12 @@
         },
         {
             "name": "量子",
-            "hosts":
-            [
+            "hosts": [
                 "vip.lz",
                 "v.cdnlz",
                 "hd.lz"
             ],
-            "regex":
-            [
+            "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
@@ -851,13 +806,11 @@
         },
         {
             "name": "非凡",
-            "hosts":
-            [
+            "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
             ],
-            "regex":
-            [
+            "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
@@ -865,24 +818,20 @@
         },
         {
             "name": "暴风",
-            "hosts":
-            [
+            "hosts": [
                 "bfzy",
                 "s5.bfzycdn"
             ],
-            "regex":
-            [
+            "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         }
     ],
-    "ijk":
-    [
+    "ijk": [
         {
             "group": "软解码",
-            "options":
-            [
+            "options": [
                 {
                     "category": 4,
                     "name": "opensles",
@@ -962,8 +911,7 @@
         },
         {
             "group": "硬解码",
-            "options":
-            [
+            "options": [
                 {
                     "category": 4,
                     "name": "opensles",
@@ -1042,8 +990,7 @@
             ]
         }
     ],
-    "ads":
-    [
+    "ads": [
         "ae01.alicdn.com",
         "c.cnzz.com",
         "cdn.bootcss.com",
