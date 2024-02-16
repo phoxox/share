@@ -599,7 +599,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/phoxox/share/main/spider_bak.jar"
+            "changeable": 1,
+            "jar": "https://raw.githubusercontent.com/phoxox/share/main/spider_bak.jar",
+            "ext": ""
         },
         {
             "key": "YingsZY",
