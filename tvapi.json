@@ -495,7 +495,7 @@
             ]
         },
         {
-            "key": "feisuzy.com",
+            "key": "feisuzy",
             "name": "飞速资源",
             "type": 1,
             "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
