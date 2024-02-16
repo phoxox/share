@@ -592,15 +592,14 @@
             "ext": "https://www.libvio.vip/"
         },
         {
-            "key": "NGZY",
+            "key": "南瓜影视",
             "name": "南瓜影视",
             "type": 3,
             "api": "csp_NanGua",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "jar": "https://raw.githubusercontent.com/phoxox/share/main/spider_bak.jar"
         },
         {
             "key": "YingsZY",
