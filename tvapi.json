@@ -597,24 +597,9 @@
             "type": 3,
             "api": "csp_NanGua",
             "playerType": 1,
-            "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "categories": [
-                "大陆剧",
-                "日韩剧",
-                "欧美剧",
-                "港台剧",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "战争片",
-                "喜剧片",
-                "剧情片",
-                "纪录片"
-            ]
+            "changeable": 0
         },
         {
             "key": "YingsZY",
