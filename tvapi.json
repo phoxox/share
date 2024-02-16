@@ -596,7 +596,7 @@
             "name": "南瓜影视",
             "type": 3,
             "api": "csp_NanGua",
-            "playerType": 2,
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
