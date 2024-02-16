@@ -597,9 +597,9 @@
             "type": 3,
             "api": "csp_NanGua",
             "playerType": 1,
+            "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "YingsZY",
