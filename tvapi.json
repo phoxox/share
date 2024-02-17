@@ -638,8 +638,8 @@
             "api": "csp_Tangrenjie",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "jar": "https://raw.githubusercontent.com/phoxox/share/main/spiderfan.jar"
+            "changeable": 1
+            //"jar": "https://raw.githubusercontent.com/phoxox/share/main/spiderfan.jar"
         }
     ],
     "parses": [
