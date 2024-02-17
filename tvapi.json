@@ -638,7 +638,8 @@
             "api": "csp_Tangrenjie",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
         }
     ],
     "parses": [
