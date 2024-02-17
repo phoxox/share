@@ -630,17 +630,6 @@
             "searchable": 1,
             "changeable": 1,
             "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
-        },
-        {
-            "key": "csp_Tangrenjie",
-            "name": "唐人街┃飞",
-            "type": 3,
-            "api": "csp_Tangrenjie",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "",
-            "jar": "https://agit.ai/fenwe/TVBox/raw/branch/master/jar/Tangrenjie.jar"
         }
     ],
     "parses": [
