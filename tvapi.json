@@ -624,12 +624,22 @@
         },
         {
             "key": "Nivod",
-            "name": "泥巴视频",
+            "name": "泥视频┃飞",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 1,
             "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+        },
+        {
+            "key": "csp_trj",
+            "name": "唐人街┃飞",
+            "type": 3,
+            "api": "csp_Tangrenjie",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://raw.githubusercontent.com/phoxox/share/main/spiderfan.jar",
         }
     ],
     "parses": [
