@@ -663,18 +663,6 @@
             "ext": "https://www.libvio.vip/"
         },
         {
-            "key": "南瓜影视",
-            "name": "南瓜影视",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "https://raw.githubusercontent.com/phoxox/share/main/spider_bak.jar",
-            "ext": ""
-        },
-        {
             "key": "YingsZY",
             "name": "鑫鑫影视",
             "type": 3,
