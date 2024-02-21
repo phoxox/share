@@ -632,7 +632,7 @@
         },
         {
             "key": "xiaohuangren",
-            "name": "小黄人资源",
+            "name": "小黄人TV",
             "type": 1,
             "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
         },
