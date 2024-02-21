@@ -631,6 +631,18 @@
             ]
         },
         {
+            "key": "22b29de9a6f08ee88f8e2a5e54235b75",
+            "name": "小黄人",
+            "type": 1,
+            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
+        },
+        {
+            "key": "1da07dd492485c3c8a9eb089cd9e943a",
+            "name": "天空",
+            "type": 1,
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/"
+        },
+        {
             "key": "低端影视",
             "name": "低端影视",
             "type": 3,
