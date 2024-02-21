@@ -634,13 +634,19 @@
             "key": "xiaohuangren",
             "name": "小黄人TV",
             "type": 1,
-            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
+            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "tiankong",
             "name": "天空资源",
             "type": 1,
-            "api": "https://api.tiankongapi.com/api.php/provide/vod/"
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "低端影视",
