@@ -157,6 +157,7 @@
             "playurl": "json:https://svip.ffzyplay.com/?url=",
             "searchable": 1,
             "changeable": 1,
+            "filterable": 1,
             "categories": [
                 "国产剧",
                 "韩国剧",
