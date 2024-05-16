@@ -81,6 +81,7 @@
             "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
             "searchable": 1,
             "changeable": 1,
+            "filterable": 1,
             "categories": [
                 "国产剧",
                 "韩国剧",
