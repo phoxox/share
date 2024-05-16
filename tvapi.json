@@ -154,7 +154,7 @@
             "name": "非凡资源2",
             "type": 1,
             "api": "http://ffzy2.tv/api.php/provide/vod/at/xml/",
-            "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+            "playurl": "json:https://svip.ffzyplay.com/?url=",
             "searchable": 1,
             "changeable": 1,
             "categories": [
