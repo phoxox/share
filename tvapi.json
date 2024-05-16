@@ -153,7 +153,7 @@
             "key": "FFZY",
             "name": "非凡资源",
             "type": 0,
-            "api": "http://ffzy.tv/api.php/provide/vod/at/xml/",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
             "searchable": 1,
             "changeable": 1,
             "filterable": 1,
