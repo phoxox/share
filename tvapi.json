@@ -150,11 +150,10 @@
             ]
         },
         {
-            "key": "FFZY2",
-            "name": "非凡资源2",
-            "type": 1,
-            "api": "http://ffzy2.tv/api.php/provide/vod/at/xml/",
-            "playurl": "json:https://svip.ffzyplay.com/?url=",
+            "key": "FFZY",
+            "name": "非凡资源",
+            "type": 0,
+            "api": "http://ffzy.tv/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "changeable": 1,
             "filterable": 1,
