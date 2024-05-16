@@ -77,7 +77,7 @@
             "key": "LziZY2",
             "name": "量子资源2",
             "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "changeable": 1,
             "categories": [
