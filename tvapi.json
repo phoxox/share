@@ -731,7 +731,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-],
+    ],
     "parses": [
         {
             "name": "聚合",
