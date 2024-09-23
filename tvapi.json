@@ -628,7 +628,7 @@
             "key": "新浪资源",
             "name": "新浪资源",
             "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/?ac=list",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
