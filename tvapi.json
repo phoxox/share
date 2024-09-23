@@ -259,6 +259,15 @@
             ]
         },
         {
+            "key": "xiaohuangren",
+            "name": "小黄人TV",
+            "type": 1,
+            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "GuangsuZY",
             "name": "光速资源",
             "type": 1,
@@ -635,15 +644,6 @@
             ]
         },
         {
-            "key": "xiaohuangren",
-            "name": "小黄人TV",
-            "type": 1,
-            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "tiankong",
             "name": "天空资源",
             "type": 1,
@@ -737,6 +737,9 @@
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "categories": [
                 "爽文短剧",
                 "国产剧",
