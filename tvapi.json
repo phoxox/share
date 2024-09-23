@@ -763,6 +763,8 @@
         "国产综艺"
       ]
     },
+        {"key":"火狐影视","name":"🇾丨火狐影视","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list"},
+        {"key":"虎牙影视","name":"🇾丨虎牙影视","type":1,"searchable":0,"quickSearch":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"},
         {
             "key": "百度",
             "name": "百度采集",
