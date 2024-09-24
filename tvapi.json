@@ -690,7 +690,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "https://jszyapi.com/api.php/provide/vod",
-            "playUrl": "json:https://jsjiexi.com/play/?url=",
+            "playUrl": "json:https://jisjiexi.com/play/?url=",
             "categories": [
                 "内地剧",
                 "韩剧",
