@@ -693,11 +693,13 @@
             ]
         },
         {
-            "key": "m3u8apiyhzy",
-            "name": "樱花",
+            "key": "csp_xml_樱花采集",
+            "name": "樱花采集",
             "type": 1,
-            "api": "./caiji.js",
-            "ext": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json"
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
         },
         {
             "key": "新浪资源",
