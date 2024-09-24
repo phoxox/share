@@ -615,16 +615,6 @@
             "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"
         },
         {
-            "key": "极速影视",
-            "name": "极速影视",
-            "type": 0,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/at/xml"
-        },
-        {
             "key": "collectwolongzyw",
             "name": "卧龙影视",
             "type": 1,
@@ -691,6 +681,16 @@
                 "动漫片",
                 "综艺片"
             ]
+        },
+        {
+            "key": "极速影视",
+            "name": "极速影视",
+            "type": 0,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/at/xml"
         },
         {
             "name": "樱花资源",
