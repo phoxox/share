@@ -693,38 +693,9 @@
             ]
         },
         {
-            "key": "樱花资源",
             "name": "樱花资源",
-            "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "欧美剧",
-                "香港剧",
-                "台湾剧",
-                "泰国剧",
-                "连续剧",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "喜剧片",
-                "动画片",
-                "纪录片",
-                "灾难片",
-                "悬疑片",
-                "惊悚片",
-                "电影片",
-                "动漫片",
-                "综艺片"
-            ]
+            "type": 0,
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml"
         },
         {
             "key": "新浪资源",
