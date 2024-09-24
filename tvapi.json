@@ -260,7 +260,7 @@
         },
         {
             "key": "xiaohuangren",
-            "name": "小黄人TV",
+            "name": "小黄人影视",
             "type": 1,
             "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "searchable": 1,
