@@ -625,6 +625,25 @@
             "api": "https://jszyapi.com/api.php/provide/vod/at/xml"
         },
         {
+            "key": "kuaikan-api",
+            "name": "快看",
+            "type": 1,
+            "api": "https://kuaikan-api.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "collectwolongzyw",
+            "name": "卧龙",
+            "type": 1,
+            "api": "./caiji.js",
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "新浪资源",
             "name": "新浪资源",
             "type": 1,
