@@ -626,7 +626,7 @@
         },
         {
             "key": "collectwolongzyw",
-            "name": "卧龙",
+            "name": "卧龙影视",
             "type": 1,
             "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/json",
             "searchable": 1,
