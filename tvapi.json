@@ -13,7 +13,7 @@
             "filterable": 0
         },
         {
-            "key": "SuoniZY",
+            "key": "Suoni",
             "name": "索尼高清",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
@@ -572,7 +572,7 @@
             "filterable": 1
         },
         {
-            "key": "蚂蚁",
+            "key": "蚂蚁影视",
             "name": "蚂蚁影视",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
@@ -649,7 +649,7 @@
             ]
         },
         {
-            "key": "collectwolongzyw",
+            "key": "wolongzyw",
             "name": "卧龙影视",
             "type": 1,
             "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/json",
