@@ -723,7 +723,30 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
-            "playUrl": "json:https://jx.yhzybf.com/player/jx.php?url="
+            "playUrl": "json:https://jx.yhzybf.com/player/jx.php?url=",
+            "categories": [
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "欧美剧",
+                "香港剧",
+                "海外剧",
+                "伦理片",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "灾难片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+                "电视剧",
+                "电影"
+            ]
         },
         {
             "key": "新浪资源",
