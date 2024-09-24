@@ -760,7 +760,8 @@
             "type": 1,
             "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
-            "filterable": 0,
+            "filterable": 1,
+            "quickSearch": 1,
             "categories": [
                 "大陆剧",
                 "韩剧",
