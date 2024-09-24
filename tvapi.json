@@ -662,7 +662,7 @@
             "key": "m3u8apiyhzy",
             "name": "樱花资源",
             "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "playerType": 2,
             "searchable": 1,
