@@ -685,12 +685,12 @@
         {
             "key": "极速资源",
             "name": "极速资源",
-            "type": 0,
+            "type": 1,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
+            "api": "https://jszyapi.com/api.php/provide/vod",
             "playUrl": "json:https://jsjiexi.com/play/?url=",
             "categories": [
                 "内地剧",
