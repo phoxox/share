@@ -690,7 +690,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/at/xml"
+            "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
+            "playUrl": ""
         },
         {
             "key": "樱花资源",
@@ -700,7 +701,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml"
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
+            "playUrl": ""
         },
         {
             "key": "新浪资源",
