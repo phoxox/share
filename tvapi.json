@@ -693,9 +693,11 @@
             ]
         },
         {
-            "name": "樱花资源",
-            "type": 0,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml"
+            "key": "m3u8apiyhzy",
+            "name": "樱花",
+            "type": 1,
+            "api": "./caiji.js",
+            "ext": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json"
         },
         {
             "key": "新浪资源",
