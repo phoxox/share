@@ -660,9 +660,10 @@
         },
         {
             "key": "m3u8apiyhzy",
-            "name": "樱花影视",
+            "name": "樱花资源",
             "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json",
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
