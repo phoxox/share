@@ -693,6 +693,7 @@
             "api": "https://jszyapi.com/api.php/provide/vod/at/xml"
         },
         {
+            "key": "樱花资源",
             "name": "樱花资源",
             "type": 0,
             "playerType": 2,
