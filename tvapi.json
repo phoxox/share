@@ -659,15 +659,13 @@
             ]
         },
         {
-            "key": "m3u8apiyhzy",
+            "key": "樱花资源",
             "name": "樱花资源",
             "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/",
+            "api": "https://yhzy.cc/api.php/provide/vod/",
             "playUrl": "",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
             "categories": [
                 "国产剧",
                 "韩国剧",
