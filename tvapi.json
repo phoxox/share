@@ -726,7 +726,6 @@
             "key": "虎牙影视",
             "name": "虎牙影视",
             "type": 1,
-            "searchable": 0,
             "quickSearch": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
             "searchable": 1,
