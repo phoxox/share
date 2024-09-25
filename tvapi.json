@@ -711,7 +711,7 @@
             "key": "樱花采集",
             "name": "樱花采集",
             "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod"
         },
         {
             "key": "樱花资源",
