@@ -713,8 +713,7 @@
             "type": 1,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
             "searchable": 1,
-            "changeable": 1,
-            "filterable": 1
+            "changeable": 1
         },
         {
             "key": "樱花资源",
@@ -722,18 +721,16 @@
             "type": 0,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
             "searchable": 1,
-            "changeable": 1,
-            "filterable": 1
+            "changeable": 1
         },
         {
-            "key": "虎牙影视",
-            "name": "虎牙影视",
+            "key": "虎牙采集",
+            "name": "虎牙采集",
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
+            "changeable": 1
         },
         {
             "key": "新浪资源",
