@@ -268,6 +268,43 @@
             "filterable": 1
         },
         {
+            "key": "虎牙采集",
+            "name": "虎牙采集",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "categories": [
+                "内地剧",
+                "韩剧",
+                "日剧",
+                "欧美剧",
+                "香港剧",
+                "台湾剧",
+                "马泰剧",
+                "伦理片",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "综艺",
+                "动漫",
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫",
+                "体育赛事",
+                "电视剧",
+                "电影",
+                "短剧"
+            ]
+        },
+        {
             "key": "GuangsuZY",
             "name": "光速资源",
             "type": 1,
@@ -721,15 +758,6 @@
             "type": 0,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
             "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "虎牙采集",
-            "name": "虎牙采集",
-            "type": 1,
-            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-            "searchable": 1,
-            "quickSearch": 1,
             "changeable": 1
         },
         {
