@@ -633,15 +633,6 @@
             "ext": "https://www.libvio.vip/"
         },
         {
-            "key": "BttwooZY",
-            "name": "比特影视",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "蚂蚁影视",
             "name": "蚂蚁影视",
             "type": 1,
@@ -759,6 +750,15 @@
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "BttwooZY",
+            "name": "比特影视",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "新浪资源",
