@@ -726,6 +726,14 @@
             "quickSearch": 1
         },
         {
+            "key": "虎牙影视",
+            "name": "虎牙影视",
+            "type": 1,
+            "searchable": 0,
+            "quickSearch": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"
+        },
+        {
             "key": "新浪资源",
             "name": "新浪资源",
             "type": 1,
@@ -752,14 +760,6 @@
                 "泰剧",
                 "伦理片"
             ]
-        },
-        {
-            "key": "虎牙影视",
-            "name": "虎牙影视",
-            "type": 1,
-            "searchable": 0,
-            "quickSearch": 1,
-            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"
         },
         {
             "key": "百度资源",
