@@ -265,6 +265,7 @@
             "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1
         },
         {
@@ -622,17 +623,6 @@
             ]
         },
         {
-            "key": "Libvio",
-            "name": "利奥影视",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://www.libvio.vip/"
-        },
-        {
             "key": "蚂蚁影视",
             "name": "蚂蚁影视",
             "type": 1,
@@ -741,7 +731,9 @@
             "type": 1,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
         },
         {
             "key": "樱花资源",
@@ -749,7 +741,20 @@
             "type": 0,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Libvio",
+            "name": "利奥影视",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://www.libvio.vip/"
         },
         {
             "key": "BttwooZY",
@@ -758,6 +763,7 @@
             "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 0,
             "filterable": 1
         },
         {
@@ -766,7 +772,8 @@
             "type": 1,
             "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "百度资源",
@@ -774,7 +781,8 @@
             "type": 1,
             "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "filterable": 1
         }
     ],
     "parses": [
