@@ -767,6 +767,15 @@
             "filterable": 1
         },
         {
+            "key": "haiwaikan",
+            "name": "海外看",
+            "type": 1,
+            "api": "https://haiwaikan.com/api.php/provide/vod",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "新浪资源",
             "name": "新浪资源",
             "type": 1,
@@ -1035,6 +1044,21 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "8.16",
+                "8.1748",
+                "10.0099",
+                "10.3333",
+                "10.85",
+                "12.33",
+                "16.0599"
             ]
         }
     ],
