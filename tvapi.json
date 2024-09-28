@@ -815,6 +815,9 @@
             "playUrl": "json:https://player.dphw8.com/player?url=",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 10,
             "categories": [
                 "国产剧",
                 "韩剧",
