@@ -768,8 +768,8 @@
             "filterable": 1
         },
         {
-            "key": "华为吧",
-            "name": "华为吧]",
+            "key": "华为吧资源",
+            "name": "华为吧资源",
             "type": 1,
             "api": "https://huaweiba.live/api.php/provide/vod/",
             "playUrl": "https://player.dphw8.com/player?url=",
