@@ -810,8 +810,8 @@
         {
             "key": "华为吧资源",
             "name": "华为吧资源",
-            "type": 1,
-            "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+            "type": 0,
+            "api": "https://cjhwba.com/api.php/provide/vod/at/xml/?ac=list",
             "searchable": 1,
             "categories": [
                 "国产剧",
