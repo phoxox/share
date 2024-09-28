@@ -810,9 +810,11 @@
         {
             "key": "华为吧资源",
             "name": "华为吧资源",
-            "type": 0,
-            "api": "https://cjhwba.com/api.php/provide/vod/at/xml/?ac=list",
+            "type": 1,
+            "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+            "playUrl": "json:https://player.dphw8.com/player?url=",
             "searchable": 1,
+            "quickSearch": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
@@ -838,13 +840,9 @@
                 "爱情片",
                 "科幻片",
                 "犯罪片",
-                "经典片",
-                "网络电影",
                 "战争片",
                 "电视剧",
-                "动漫",
                 "综艺",
-                "体育",
                 "纪录片"
             ]
         },
