@@ -812,7 +812,7 @@
             "name": "华为吧资源",
             "type": 1,
             "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
-            "playUrl": "json:https://player.dphw8.com/player?url=",
+            //            "playUrl": "json:https://player.dphw8.com/player?url=",
             "searchable": 1,
             "categories": [
                 "国产剧",
