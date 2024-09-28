@@ -728,7 +728,7 @@
         },
         {
             "key": "飞速资源",
-            "name": "影视 | 飞速资源[直连]",
+            "name": "飞速资源",
             "type": 1,
             "api": "http://www.feisuzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -811,8 +811,8 @@
             "key": "华为吧资源",
             "name": "华为吧资源",
             "type": 1,
-            "api": "https://huaweiba.live/api.php/provide/vod/",
-            "playUrl": "https://player.dphw8.com/player?url=",
+            "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+            "playUrl": "json:https://player.dphw8.com/player?url=",
             "searchable": 1,
             "categories": [
                 "国产剧",
