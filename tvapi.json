@@ -769,9 +769,10 @@
         },
         {
             "key": "华为吧",
-            "name": "影视 | 华为吧]",
+            "name": "华为吧]",
             "type": 1,
             "api": "https://huaweiba.live/api.php/provide/vod/",
+            "playUrl": "https://player.dphw8.com/player?url=",
             "searchable": 1,
             "categories": [
                 "国产剧",
@@ -1086,15 +1087,6 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "卧龙影视",
-            "hosts": [
-                "cdn.wl*"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
