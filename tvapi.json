@@ -849,11 +849,11 @@
             ]
         },
         {
-            "key": "kuaikan-api",
+            "key": "快看资源",
             "name": "快看资源",
             "type": 1,
-            "api": "https://kuaikan-api.com/api.php/provide/vod/at/json",
-            "playUrl": "",
+            "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+            "playUrl": "json:https://kkzyplayer.com/player/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -886,8 +886,7 @@
                 "歌舞片",
                 "同性片",
                 "纪录片",
-                "动画电影",
-                "站内公告"
+                "动画电影"
             ]
         },
         {
