@@ -434,11 +434,11 @@
             "key": "极速资源",
             "name": "极速资源",
             "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+            "playurl": "json:https://jsjiexi.com/play/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/at/json",
-            "playurl": "json:https://jsjiexi.com/play/?url=",
             "categories": [
                 "内地剧",
                 "韩剧",
@@ -469,6 +469,8 @@
             "type": 1,
             "api": "http://www.feisuzyapi.com/api.php/provide/vod/",
             "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
