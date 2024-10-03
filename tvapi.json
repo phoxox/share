@@ -669,27 +669,6 @@
             ]
         },
         {
-            "key": "低端影视",
-            "name": "低端影视",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": 0,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "categories": [
-                "韩剧",
-                "日剧",
-                "欧美剧",
-                "华语剧",
-                "其他地区",
-                "欧美电影",
-                "日韩电影",
-                "华语电影"
-            ]
-        },
-        {
             "key": "蚂蚁影视",
             "name": "蚂蚁影视",
             "type": 1,
@@ -759,6 +738,37 @@
             ]
         },
         {
+            "key": "OK资源",
+            "name": "OK资源",
+            "type": 1,
+            "api": "https://okzyw9.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动画片",
+                "演唱会",
+                "综艺",
+                "动漫"
+            ]
+        },
+        {
             "key": "KCZY",
             "name": "快车采集",
             "type": 1,
@@ -806,27 +816,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Libvio",
-            "name": "利奥影视",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://www.libvio.vip/"
-        },
-        {
-            "key": "BttwooZY",
-            "name": "比特影视",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
             "filterable": 1
         },
         {
@@ -928,6 +917,48 @@
             "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "低端影视",
+            "name": "低端影视",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "categories": [
+                "韩剧",
+                "日剧",
+                "欧美剧",
+                "华语剧",
+                "其他地区",
+                "欧美电影",
+                "日韩电影",
+                "华语电影"
+            ]
+        },
+        {
+            "key": "Libvio",
+            "name": "利奥影视",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://www.libvio.vip/"
+        },
+        {
+            "key": "BttwooZY",
+            "name": "比特影视",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
             "filterable": 1
         }
     ],
