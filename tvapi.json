@@ -736,7 +736,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "timeout": 10,
             "categories": [
                 "国产剧",
                 "韩剧",
@@ -777,7 +776,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "timeout": 10,
             "categories": [
                 "国产剧",
                 "韩国剧",
