@@ -20,6 +20,7 @@
             "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -51,6 +52,7 @@
             "searchable": 1,
             "changeable": 1,
             "filterable": 1,
+            "quickSearch": 1,
             "categories": [
                 "国产剧",
                 "韩国剧",
@@ -80,6 +82,7 @@
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -110,6 +113,7 @@
             "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -140,6 +144,7 @@
             "api": "http://ffzy2.tv/api.php/provide/vod/",
             "playurl": "json:https://svip.ffzyplay.com/?url=",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "categories": [
@@ -182,6 +187,7 @@
             "api": "https://hhzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "内地剧",
@@ -214,6 +220,7 @@
             "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "内地剧",
@@ -247,6 +254,7 @@
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -276,6 +284,7 @@
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "大陆剧",
@@ -337,6 +346,7 @@
             "api": "http://sdzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -369,6 +379,7 @@
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "categories": [
                 "国产剧",
                 "韩国剧",
@@ -404,6 +415,7 @@
             "playurl": "json:https://jsjiexi.com/play/?url=",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "内地剧",
@@ -436,6 +448,7 @@
             "api": "http://www.feisuzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -476,6 +489,7 @@
             "playUrl": "json:https://subojiexi.com/play/?url=",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "大陆剧",
@@ -510,6 +524,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1,
             "categories": [
                 "大陆剧",
                 "韩剧",
@@ -541,6 +556,7 @@
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -574,6 +590,7 @@
             "api": "https://api.ukuapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
@@ -609,6 +626,7 @@
             "api": "https://api.tiankongapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -650,6 +668,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1,
             "categories": [
                 "国产剧",
                 "韩国剧",
@@ -684,6 +703,7 @@
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
@@ -814,6 +834,7 @@
             "api": "https://okzyw9.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -846,6 +867,7 @@
             "playUrl": "json:https://hd.iapijy.com/play?url=",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "内地剧",
@@ -879,6 +901,7 @@
             "api": "https://json.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
@@ -920,6 +943,7 @@
             "playUrl": "json:https://www.360jiexi.com/player/?url=",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
@@ -958,6 +982,7 @@
             "playUrl": "json:https://www.xinlangjiexi.com/m3u8/?url=",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
             "categories": [
                 "大陆剧",
                 "韩剧",
@@ -1016,7 +1041,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://www.libvio.vip/"
         },
         {
@@ -1026,7 +1051,7 @@
             "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
+            "changeable": 1,
             "filterable": 1
         }
     ],
