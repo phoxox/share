@@ -515,17 +515,17 @@
                 "战争片",
                 "纪录片",
                 "伦理片",
+                "电影",
+                "连续剧",
                 "动漫电影",
                 "综艺",
                 "动漫",
-                "电影",
-                "连续剧",
                 "短剧"
             ]
         },
         {
-            "key": "subozy1",
-            "name": "速播资源1",
+            "key": "subocj1",
+            "name": "速播采集1",
             "type": 1,
             "api": "https://subocaiji.com/api.php/provide/vod",
             "playUrl": "json:https://subojiexi.com/play/?url=",
@@ -558,8 +558,8 @@
             ]
         },
         {
-            "key": "subozy2",
-            "name": "速播资源2",
+            "key": "subocj2",
+            "name": "速播采集2",
             "type": 0,
             "api": "https://subocaiji.com/api.php/provide/vod/at/xml",
             "playUrl": "json:https://subojiexi.com/play/?url=",
