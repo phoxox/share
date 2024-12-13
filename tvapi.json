@@ -103,6 +103,16 @@
             ]
         },
         {
+            "key": "xiaohuangren",
+            "name": "小黄人影视",
+            "type": 1,
+            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
+        {
             "key": "FFZY1",
             "name": "非凡资源1",
             "type": 1,
@@ -170,14 +180,36 @@
             ]
         },
         {
-            "key": "xiaohuangren",
-            "name": "小黄人影视",
+            "key": "BFZY",
+            "name": "暴风资源",
             "type": 1,
-            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "filterable": 1
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "欧美剧",
+                "香港剧",
+                "台湾剧",
+                "泰国剧",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "剧情片",
+                "爱情片",
+                "动作片",
+                "恐怖片",
+                "科幻片",
+                "喜剧片",
+                "理论片",
+                "战争片",
+                "纪录片"
+            ]
         },
         {
             "key": "HHZY1",
@@ -245,38 +277,6 @@
                 "冒险片",
                 "记录片",
                 "综艺"
-            ]
-        },
-        {
-            "key": "BFZY",
-            "name": "暴风资源",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "欧美剧",
-                "香港剧",
-                "台湾剧",
-                "泰国剧",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "剧情片",
-                "爱情片",
-                "动作片",
-                "恐怖片",
-                "科幻片",
-                "喜剧片",
-                "理论片",
-                "战争片",
-                "纪录片"
             ]
         },
         {
@@ -490,8 +490,8 @@
             ]
         },
         {
-            "key": "速播资源",
-            "name": "速播资源",
+            "key": "subozy1",
+            "name": "速播资源1",
             "type": 1,
             "api": "https://subocaiji.com/api.php/provide/vod",
             "playUrl": "json:https://subojiexi.com/play/?url=",
@@ -524,8 +524,8 @@
             ]
         },
         {
-            "key": "subozy",
-            "name": "速播采集",
+            "key": "subozy2",
+            "name": "速播资源2",
             "type": 0,
             "api": "https://subocaiji.com/api.php/provide/vod/at/xml",
             "playUrl": "json:https://subojiexi.com/play/?url=",
@@ -737,8 +737,8 @@
             ]
         },
         {
-            "key": "樱花采集",
-            "name": "樱花采集",
+            "key": "樱花资源1",
+            "name": "樱花资源1",
             "type": 1,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
             "searchable": 1,
@@ -747,8 +747,8 @@
             "filterable": 1
         },
         {
-            "key": "樱花资源",
-            "name": "樱花资源",
+            "key": "樱花资源2",
+            "name": "樱花资源2",
             "type": 0,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
             "searchable": 1,
