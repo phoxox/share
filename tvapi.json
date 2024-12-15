@@ -737,26 +737,6 @@
             ]
         },
         {
-            "key": "樱花资源1",
-            "name": "樱花资源1",
-            "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
-        },
-        {
-            "key": "樱花资源2",
-            "name": "樱花资源2",
-            "type": 0,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
-        },
-        {
             "key": "华为吧资源",
             "name": "华为吧资源",
             "type": 1,
