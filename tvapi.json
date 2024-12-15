@@ -4,6 +4,15 @@
     "wallpaper": "https://raw.githubusercontent.com/phoxox/images/main/1280x720-yankees-blue-dark.jpg",
     "sites": [
         {
+            "key": "豆瓣推荐",
+            "name": "豆瓣推荐",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "Suoni",
             "name": "索尼高清",
             "type": 1,
