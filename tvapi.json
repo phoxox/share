@@ -779,79 +779,6 @@
             ]
         },
         {
-            "key": "快看资源",
-            "name": "快看资源",
-            "type": 1,
-            "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
-            "playUrl": "json:https://kkzyplayer.com/player/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "泰剧",
-                "欧美剧",
-                "港台剧",
-                "新马剧",
-                "海外剧",
-                "其他剧",
-                "科幻片",
-                "剧情片",
-                "动作片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "冒险片",
-                "经典片",
-                "伦理片",
-                "歌舞片",
-                "同性片",
-                "纪录片",
-                "动画电影"
-            ]
-        },
-        {
-            "key": "OK资源",
-            "name": "OK资源",
-            "type": 1,
-            "api": "https://okzyw9.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "港剧",
-                "台剧",
-                "泰剧",
-                "欧美剧",
-                "海外剧",
-                "剧情片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "战争片",
-                "伦理片",
-                "纪录片",
-                "动画片",
-                "演唱会",
-                "综艺",
-                "动漫"
-            ]
-        },
-        {
             "key": "金鹰资源",
             "name": "金鹰资源",
             "type": 1,
@@ -995,42 +922,37 @@
             ]
         },
         {
-            "key": "新浪资源",
-            "name": "新浪资源",
+            "key": "OK资源",
+            "name": "OK资源",
             "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-            "playUrl": "",
+            "api": "https://okzyw9.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "filterable": 1,
             "categories": [
-                "大陆剧",
+                "国产剧",
                 "韩剧",
                 "日剧",
-                "港澳剧",
-                "台湾剧",
-                "欧美剧",
+                "港剧",
+                "台剧",
                 "泰剧",
+                "欧美剧",
+                "海外剧",
                 "剧情片",
                 "动作片",
+                "喜剧片",
                 "爱情片",
                 "科幻片",
-                "战争片",
                 "恐怖片",
-                "喜剧片",
-                "动漫电影",
+                "战争片",
+                "伦理片",
                 "纪录片",
-                "伦理片"
+                "动画片",
+                "演唱会",
+                "综艺",
+                "动漫"
             ]
-        },
-        {
-            "key": "百度资源",
-            "name": "百度资源",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         }
     ],
     "parses": [
@@ -1209,17 +1131,12 @@
         "youku",
         "优酷",
         "优酷视频",
-        "qq",
         "腾讯",
         "腾讯视频",
         "iqiyi",
         "qiyi",
         "奇艺",
         "爱奇艺",
-        "m1905",
-        "xigua",
-        "letv",
-        "leshi",
         "乐视",
         "sohu",
         "搜狐",
@@ -1233,9 +1150,7 @@
         "bilibili",
         "哔哩",
         "哔哩哔哩",
-        "B站",
-        "renrenmi",
-        "m1905"
+        "B站"
     ],
     "rules": [
         {
@@ -1283,21 +1198,6 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "海外看",
-            "hosts": [
-                "haiwaikan"
-            ],
-            "regex": [
-                "8.16",
-                "8.1748",
-                "10.0099",
-                "10.3333",
-                "10.85",
-                "12.33",
-                "16.0599"
             ]
         }
     ],
