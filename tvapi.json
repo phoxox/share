@@ -953,6 +953,12 @@
                 "综艺",
                 "动漫"
             ]
+        },
+        {
+            "key": "新浪资源",
+            "name": "新浪资源",
+            "type": 1,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/"
         }
     ],
     "parses": [
