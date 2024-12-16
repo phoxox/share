@@ -665,37 +665,6 @@
             ]
         },
         {
-            "key": "KCZY",
-            "name": "快车采集",
-            "type": 1,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "欧美剧",
-                "海外剧",
-                "港剧",
-                "台剧",
-                "泰剧",
-                "剧情片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "伦理片",
-                "动作片",
-                "动画片",
-                "动漫",
-                "国产动漫",
-                "日韩动漫"
-            ]
-        },
-        {
             "key": "华为吧资源",
             "name": "华为吧资源",
             "type": 1,
@@ -862,6 +831,37 @@
                 "恐怖片",
                 "喜剧片",
                 "倫理片"
+            ]
+        },
+        {
+            "key": "KCZY",
+            "name": "快车采集",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "categories": [
+                "国产剧",
+                "韩剧",
+                "日剧",
+                "欧美剧",
+                "海外剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "剧情片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "伦理片",
+                "动作片",
+                "动画片",
+                "动漫",
+                "国产动漫",
+                "日韩动漫"
             ]
         },
         {
