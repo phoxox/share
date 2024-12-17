@@ -940,6 +940,7 @@
         {
             "key": "Ikun资源",
             "name": "Ikun资源",
+            "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod",
             "searchable": 1,
             "quickSearch": 1,
