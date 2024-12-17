@@ -938,8 +938,8 @@
             ]
         },
         {
-            "key": "Ikun资源",
-            "name": "Ikun资源",
+            "key": "iKun资源",
+            "name": "iKun资源",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "searchable": 1,
