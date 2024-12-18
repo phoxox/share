@@ -1042,6 +1042,14 @@
             ]
         },
         {
+            "key": "步步高资源",
+            "name": "步步高资源",
+            "type": 1,
+            "api": "https://api.yparse.com/api/json",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "龙龙影视",
             "name": "龙龙影视",
             "type": 1,
