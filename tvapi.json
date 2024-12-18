@@ -1042,8 +1042,8 @@
             ]
         },
         {
-            "key": "影图",
-            "name": "影图",
+            "key": "影图资源",
+            "name": "影图资源",
             "type": 1,
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
             "searchable": 1,
