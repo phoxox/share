@@ -969,10 +969,22 @@
             ]
         },
         {
-            "key": "新浪资源",
-            "name": "新浪资源",
+            "key": "八戒采集",
+            "name": "八戒采集",
             "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+            "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
+        },
+        {
+            "key": "飘零",
+            "name": "飘零",
+            "type": 0,
+            "api": "https://p2100.net/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "龙龙影视",
+            "name": "龙龙影视",
+            "type": 1,
+            "api": "http://110.42.99.99:3976/api.php/provide/vod/"
         }
     ],
     "parses": [
