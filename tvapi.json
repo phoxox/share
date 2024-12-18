@@ -347,6 +347,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "filterable": 1,
             "categories": [
                 "内地剧",
                 "韩剧",
@@ -415,6 +416,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "filterable": 1,
             "categories": [
                 "国产剧",
                 "韩国剧",
@@ -555,6 +557,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "filterable": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
@@ -769,6 +772,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "filterable": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
@@ -838,6 +842,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "filterable": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
