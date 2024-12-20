@@ -342,8 +342,8 @@
             ]
         },
         {
-            "key": "虎牙采集",
-            "name": "虎牙采集",
+            "key": "虎牙资源",
+            "name": "虎牙资源",
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
             "searchable": 1,
@@ -413,7 +413,7 @@
             "key": "WujinZY",
             "name": "无尽资源",
             "type": 1,
-            "api": "https://api.wujinapi.me/api.php/provide/vod/",
+            "api": "https://api.wujinapi.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
