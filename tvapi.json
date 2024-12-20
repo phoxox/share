@@ -1187,7 +1187,7 @@
             "request": {
                 "method": "GET",
                 "url": {
-                    "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+                    "raw": "https://api.wmdb.tv/movie/api?id=doubanid"
                 }
             },
             "response": {
@@ -1315,7 +1315,7 @@
             ]
         },
         {
-            "name": "AdGuard",
+            "name": "AdGuardDNS",
             "url": "https://dns.adguard-dns.com/dns-query",
             "ips": [
                 "94.140.14.14",
