@@ -483,8 +483,16 @@
             ]
         },
         {
-            "key": "subocj1",
-            "name": "速播采集1",
+            "key": "快播资源",
+            "name": "快播资源",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "subocj",
+            "name": " 速播资源",
             "type": 1,
             "api": "https://subocaiji.com/api.php/provide/vod/",
             "playUrl": "json:https://subojiexi.com/play/?url=",
@@ -508,41 +516,6 @@
                 "喜剧片",
                 "伦理片",
                 "战争片",
-                "纪录片",
-                "动漫电影",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫",
-                "综艺"
-            ]
-        },
-        {
-            "key": "subocj2",
-            "name": "速播采集2",
-            "type": 0,
-            "api": "https://subocaiji.com/api.php/provide/vod/at/xml",
-            "playUrl": "json:https://subojiexi.com/play/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "categories": [
-                "大陆剧",
-                "韩剧",
-                "日剧",
-                "美剧",
-                "港澳剧",
-                "台湾剧",
-                "泰剧",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "剧情片",
-                "恐怖片",
-                "喜剧片",
-                "伦理片",
-                "战争片",
-                "伦理片",
                 "纪录片",
                 "动漫电影",
                 "中国动漫",
@@ -740,30 +713,6 @@
                 "短剧",
                 "电影",
                 "电视剧"
-            ]
-        },
-        {
-            "key": "xxiang.xyz",
-            "name": "祥祥影视",
-            "type": 1,
-            "api": "http://141.147.146.105/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "韩剧",
-                "欧美剧",
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "爱情片",
-                "灾难片",
-                "综艺",
-                "动漫",
-                "电视剧",
-                "电影"
             ]
         },
         {
@@ -1009,6 +958,34 @@
             ]
         },
         {
+            "key": "四圈影视",
+            "name": "四圈影视",
+            "type": 1,
+            "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "日韩剧",
+                "欧美剧",
+                "海外剧",
+                "港台剧",
+                "连续剧",
+                "综艺",
+                "电影",
+                "动漫",
+                "动漫电影",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "海外动漫",
+                "动画片",
+                "短剧"
+            ]
+        },
+        {
             "key": "飘零影视",
             "name": "飘零影视",
             "type": 0,
@@ -1044,34 +1021,6 @@
             ]
         },
         {
-            "key": "四个圈影视",
-            "name": "四个圈影视",
-            "type": 1,
-            "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "日韩剧",
-                "欧美剧",
-                "海外剧",
-                "港台剧",
-                "连续剧",
-                "综艺",
-                "电影",
-                "动漫",
-                "动漫电影",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "海外动漫",
-                "动画片",
-                "短剧"
-            ]
-        },
-        {
             "key": "影图资源",
             "name": "影图资源",
             "type": 1,
@@ -1080,12 +1029,28 @@
             "quickSearch": 1
         },
         {
-            "key": "艾旦影视",
-            "name": "艾旦影视",
+            "key": "xxiang.xyz",
+            "name": "祥祥影视",
             "type": 1,
-            "api": "https://lovedan.net/api.php/provide/vod/",
+            "api": "http://141.147.146.105/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "韩剧",
+                "欧美剧",
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "爱情片",
+                "灾难片",
+                "综艺",
+                "动漫",
+                "电视剧",
+                "电影"
+            ]
         },
         {
             "key": "龙龙影视",
@@ -1096,6 +1061,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "艾旦影视",
+            "name": "艾旦影视",
+            "type": 1,
+            "api": "https://lovedan.net/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
         }
     ],
     "parses": [
