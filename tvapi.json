@@ -1224,16 +1224,16 @@
         }
     ],
     "flags": [
-        "youku",
-        "qq",
         "iqiyi",
-        "qiyi",
         "letv",
+        "mgtv",
+        "pptv",
+        "qiyi",
+        "qq",
         "sohu",
         "tudou",
-        "pptv",
-        "mgtv",
-        "wasu"
+        "wasu",
+        "youku"
     ],
     "rules": [
         {
@@ -1264,7 +1264,9 @@
             "name": "非凡",
             "hosts": [
                 "vip.ffzy",
-                "hd.ffzy"
+                "hd.ffzy",
+                "ffzy1.tv",
+                "ffzy2.tv"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -1281,6 +1283,47 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "8.16",
+                "8.1748",
+                "10.0099",
+                "10.3333",
+                "10.85",
+                "12.33",
+                "16.0599"
+            ]
+        },
+        {
+            "name": "磁力廣告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "UUE29",
+                "xuu",
+                "全中文AV在线",
+                "哥哥快来",
+                "新片首发",
+                "更多",
+                "更新",
+                "最新",
+                "最新",
+                "有趣",
+                "有趣",
+                "澳门皇冠赌场",
+                "直播",
+                "社区",
+                "社區",
+                "美女荷官",
+                "英皇体育",
+                "裸聊"
             ]
         }
     ],
