@@ -414,7 +414,7 @@
             "name": "无尽资源",
             "type": 1,
             "api": "https://api.wujinapi.com/api.php/provide/vod/",
-            "playUrl": "",
+            "playUrl": "json:https://jx.wujinkk.com/dplayer/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
