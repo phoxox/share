@@ -307,7 +307,9 @@
             "key": "xiaohuangren",
             "name": "小黄人影视",
             "type": 1,
-            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
+            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
         },
         {
             "key": "GuangsuZY",
