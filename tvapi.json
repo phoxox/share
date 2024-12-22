@@ -1025,8 +1025,8 @@
             "changeable": 1
         },
         {
-            "key": "1080zyk",
-            "name": "优质资源",
+            "key": "1080zyku",
+            "name": "优质资源库",
             "type": 1,
             "api": "https://api.1080zyku.com/inc/api.php/provide/vod/",
             "searchable": 1,
