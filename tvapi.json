@@ -1139,6 +1139,16 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1
+        },
+        {
+            "key": "奧斯卡资源",
+            "name": "奧斯卡资源",
+            "type": 1,
+            "api": "https://aosikazy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
         }
     ],
     "parses": [
