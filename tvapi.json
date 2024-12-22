@@ -308,7 +308,9 @@
             "type": 1,
             "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
         },
         {
             "key": "GuangsuZY",
@@ -1008,7 +1010,9 @@
             "type": 1,
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
         },
         {
             "key": "龙龙影视",
@@ -1050,8 +1054,8 @@
         {
             "key": "飘零影视",
             "name": "飘零影视",
-            "type": 0,
-            "api": "https://p2100.net/api.php/provide/vod/at/xml",
+            "type": 1,
+            "api": "https://p2100.net/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -1112,7 +1116,9 @@
             "type": 1,
             "api": "https://lovedan.net/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
         }
     ],
     "parses": [
