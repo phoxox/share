@@ -945,7 +945,7 @@
             "key": "八戒资源",
             "name": "八戒资源",
             "type": 1,
-            "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
+            "api": "http://cj.bajiecaiji.com/inc/api.php",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -1144,38 +1144,6 @@
             ]
         },
         {
-            "key": "猫放采集",
-            "name": "猫放采集",
-            "type": 1,
-            "api": "https://www.mervod.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "xxiang.xyz",
-            "name": "祥祥影视",
-            "type": 1,
-            "api": "http://141.147.146.105/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "韩剧",
-                "欧美剧",
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "爱情片",
-                "灾难片",
-                "综艺",
-                "电视剧",
-                "电影",
-                "动漫"
-            ]
-        },
-        {
             "key": "艾旦影视",
             "name": "艾旦影视",
             "type": 1,
@@ -1214,6 +1182,30 @@
                 "韩国伦理",
                 "西方伦理",
                 "日本伦理"
+            ]
+        },
+        {
+            "key": "xxiang.xyz",
+            "name": "祥祥影视",
+            "type": 1,
+            "api": "http://141.147.146.105/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "韩剧",
+                "欧美剧",
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "爱情片",
+                "灾难片",
+                "综艺",
+                "电视剧",
+                "电影",
+                "动漫"
             ]
         }
     ],
