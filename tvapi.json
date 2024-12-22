@@ -1129,6 +1129,16 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1
+        },
+        {
+            "key": "探探资源",
+            "name": "探探资源",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
         }
     ],
     "parses": [
