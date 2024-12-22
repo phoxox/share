@@ -1125,40 +1125,32 @@
             "name": "奧斯卡资源",
             "type": 1,
             "api": "https://aosikazy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
+            "searchable": 0,
+            "quickSearch": 0
         },
         {
             "key": "老鴨资源",
             "name": "老鴨资源",
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
+            "searchable": 0,
+            "quickSearch": 0
         },
         {
             "key": "探探资源",
             "name": "探探资源",
             "type": 1,
             "api": "https://apittzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
+            "searchable": 0,
+            "quickSearch": 0
         },
         {
             "key": "森林资源",
             "name": "森林资源",
             "type": 1,
             "api": "https://slapibf.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1
+            "searchable": 0,
+            "quickSearch": 0
         }
     ],
     "parses": [
