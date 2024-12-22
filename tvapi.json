@@ -1119,6 +1119,16 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1
+        },
+        {
+            "key": "森林资源",
+            "name": "森林资源",
+            "type": 1,
+            "api": "https://slapibf.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
         }
     ],
     "parses": [
