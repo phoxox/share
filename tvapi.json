@@ -996,16 +996,6 @@
             ]
         },
         {
-            "key": "龙龙影视",
-            "name": "龙龙影视",
-            "type": 1,
-            "api": "http://110.42.99.99:3976/api.php/provide/vod/",
-            "filterable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "1080zyku",
             "name": "优质资源库",
             "type": 1,
@@ -1068,6 +1058,40 @@
             ]
         },
         {
+            "key": "龙龙影视",
+            "name": "龙龙影视",
+            "type": 1,
+            "api": "http://110.42.99.99:3976/api.php/provide/vod/",
+            "filterable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "xxiang.xyz",
+            "name": "祥祥影视",
+            "type": 1,
+            "api": "http://141.147.146.105/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "韩剧",
+                "欧美剧",
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "爱情片",
+                "灾难片",
+                "电视剧",
+                "电影",
+                "综艺",
+                "动漫"
+            ]
+        },
+        {
             "key": "艾旦影视",
             "name": "艾旦影视",
             "type": 1,
@@ -1106,30 +1130,6 @@
                 "韩国伦理",
                 "西方伦理",
                 "日本伦理"
-            ]
-        },
-        {
-            "key": "xxiang.xyz",
-            "name": "祥祥影视",
-            "type": 1,
-            "api": "http://141.147.146.105/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "韩剧",
-                "欧美剧",
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "爱情片",
-                "灾难片",
-                "电视剧",
-                "电影",
-                "综艺",
-                "动漫"
             ]
         }
     ],
