@@ -1249,8 +1249,8 @@
         {
             "key": "新浪资源",
             "name": "新浪资源",
-            "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+            "type": 0,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
             "playurl": "json:https://www.xinlangjiexi.com/m3u8/?url=",
             "filterable": 1,
             "searchable": 1,
