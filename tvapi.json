@@ -171,7 +171,7 @@
         },
         {
             "key": "FFZY3",
-            "name": "非凡资源2",
+            "name": "非凡资源3",
             "type": 1,
             "api": "http://ffzy3.tv/api.php/provide/vod/",
             "playurl": "json:https://svip.ffzyplay.com/?url=",
