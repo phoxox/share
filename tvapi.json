@@ -1058,10 +1058,10 @@
             ]
         },
         {
-            "key": "淘片资源网",
-            "name": "淘片资源网",
-            "type": 0,
-            "api": "https://taopianapi.com/cjapi/ct/vod/xml.html"
+            "key": "壹梦",
+            "name": "壹梦",
+            "type": 1,
+            "api": "http://110.42.99.99:3976/api.php/provide/vod/"
         },
         {
             "key": "龙龙影视",
