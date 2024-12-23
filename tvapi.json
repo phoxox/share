@@ -1061,7 +1061,7 @@
             "key": "淘片资源网",
             "name": "淘片资源网",
             "type": 0,
-            "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
+            "api": "https://taopianapi.com/cjapi/ct/vod/xml.html"
         },
         {
             "key": "龙龙影视",
