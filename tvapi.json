@@ -481,7 +481,6 @@
             "name": "快车采集",
             "type": 1,
             "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "json:https://jiexi.kczyapi.com/m3u8/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -1247,17 +1246,6 @@
                 "西方伦理",
                 "日本伦理"
             ]
-        },
-        {
-            "key": "新浪资源",
-            "name": "新浪资源",
-            "type": 0,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
-            "playurl": "json:https://www.xinlangjiexi.com/m3u8/?url=",
-            "filterable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         }
     ],
     "parses": [
