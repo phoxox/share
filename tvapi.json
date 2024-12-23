@@ -1092,6 +1092,48 @@
             ]
         },
         {
+            "key": "鸭鸭资源",
+            "name": "鸭鸭资源",
+            "type": 1,
+            "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
+            "playurl": "json:https://jx.yayazy.cc/m3u8/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "韩剧",
+                "日剧",
+                "欧美剧",
+                "海外剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "演唱会",
+                "4K电影",
+                "伦理",
+                "港台三级",
+                "日本伦理",
+                "韩国伦理",
+                "西方伦理"
+            ]
+        },
+        {
             "key": "龙龙影视",
             "name": "龙龙影视",
             "type": 1,
@@ -1165,15 +1207,6 @@
                 "西方伦理",
                 "日本伦理"
             ]
-        },
-        {
-            "key": "鸭鸭资源",
-            "name": "鸭鸭资源",
-            "type": 1,
-            "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
-            "playurl": "json:https://jx.yayazy.cc/m3u8/?url=",
-            "searchable": 1,
-            "quickSearch": 1
         }
     ],
     "parses": [
