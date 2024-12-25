@@ -903,6 +903,7 @@
             "name": "OK资源网",
             "type": 1,
             "api": "https://okzyw9.com/api.php/provide/vod/",
+            "playurl": "json:https://jiexi.okzyw.info/m3u8/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
