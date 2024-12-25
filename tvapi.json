@@ -1242,7 +1242,7 @@
             "key": "淘片资源",
             "name": "淘片资源",
             "type": 0,
-            "api": "https://taopianapi.com/cjapi/mc/vod/xml.html",
+            "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
             "searchable": 1,
             "quickSearch": 1
         },
