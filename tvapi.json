@@ -1246,6 +1246,15 @@
             "playurl": "json:https://jx.yhzybf.com/player/jx.php?url=",
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "新浪资源",
+            "name": "新浪资源",
+            "type": 0,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/",
+            "playurl": "json:https://jx.yhzybf.com/player/jx.php?url=",
+            "searchable": 1,
+            "quickSearch": 1
         }
     ],
     "parses": [
