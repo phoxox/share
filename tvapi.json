@@ -899,8 +899,8 @@
             ]
         },
         {
-            "key": "OK资源",
-            "name": "OK资源",
+            "key": "OK资源网",
+            "name": "OK资源网",
             "type": 1,
             "api": "https://okzyw9.com/api.php/provide/vod/",
             "searchable": 1,
