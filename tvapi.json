@@ -1239,11 +1239,10 @@
             ]
         },
         {
-            "key": "樱花资源",
-            "name": "樱花资源",
+            "key": "淘片资源",
+            "name": "淘片资源",
             "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
-            "playurl": "json:https://jx.yhzybf.com/player/jx.php?url=",
+            "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
             "searchable": 1,
             "quickSearch": 1
         },
