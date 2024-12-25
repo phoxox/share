@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "Suoni",
-            "name": "索尼高清",
+            "name": "索尼资源",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
