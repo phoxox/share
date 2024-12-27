@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "SuoniZY",
-            "name": "索尼资源",
+            "name": "索尼资源网",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/",
             "playurl": "json:https://www.snplayer.com/?url=",
