@@ -1166,11 +1166,10 @@
             ]
         },
         {
-            "key": "Taopianapi",
-            "name": "淘片资源",
-            "type": 0,
-            "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
-            "playurl": "json:https://www.tpvod.com/player.html?uri=/player.html?uri='+MacPlayer.PlayUrl+'",
+            "key": "apibdZY",
+            "name": "百度资源",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
