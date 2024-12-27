@@ -1205,6 +1205,22 @@
                 "西方伦理",
                 "日本伦理"
             ]
+        },
+        {
+            "key": "YHZY",
+            "name": "樱花资源",
+            "type": 1,
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "BDZY",
+            "name": "百度云资源",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
         }
     ],
     "parses": [
