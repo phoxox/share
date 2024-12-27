@@ -661,7 +661,7 @@
         },
         {
             "key": "wolongZYW",
-            "name": "卧龙影视",
+            "name": "卧龙资源网",
             "type": 1,
             "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/json",
             "searchable": 1,
