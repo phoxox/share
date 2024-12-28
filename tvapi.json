@@ -211,7 +211,7 @@
         {
             "key": "FFzy",
             "name": "非凡资源网",
-            "type": 1,
+            "type": 0,
             "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
             "playurl": "json:https://svip.ffzyplay.com/?url=",
             "searchable": 1,
@@ -244,7 +244,7 @@
         {
             "key": "FFzy2",
             "name": "非凡资源2",
-            "type": 1,
+            "type": 0,
             "api": "http://ffzy2.tv/api.php/provide/vod/at/xml/",
             "playurl": "json:https://svip.ffzyplay.com/?url=",
             "searchable": 1,
@@ -278,7 +278,7 @@
         {
             "key": "FFzy3",
             "name": "非凡资源3",
-            "type": 1,
+            "type": 0,
             "api": "http://ffzy3.tv/api.php/provide/vod/at/xml/",
             "playurl": "json:https://svip.ffzyplay.com/?url=",
             "searchable": 1,
@@ -312,8 +312,8 @@
         {
             "key": "Tiankong",
             "name": "天空资源站",
-            "type": 1,
-            "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
