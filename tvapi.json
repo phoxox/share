@@ -447,8 +447,8 @@
         {
             "key": "jisuzy.tv",
             "name": "极速资源网",
-            "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
             "playurl": "json:https://jsjiexi.com/play/?url=",
             "searchable": 1,
             "quickSearch": 1,
@@ -1023,8 +1023,8 @@
         {
             "key": "飘零影视",
             "name": "飘零影视",
-            "type": 1,
-            "api": "https://p2100.net/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://p2100.net/api.php/provide/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
