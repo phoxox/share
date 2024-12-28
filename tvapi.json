@@ -3,7 +3,7 @@
     "wallpaper": "https://raw.githubusercontent.com/phoxox/images/main/1280x720-yankees-blue-dark.jpg",
     "sites": [
         {
-            "key": "SuoniZY",
+            "key": "suoniZY",
             "name": "索尼资源网",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/",
@@ -40,7 +40,7 @@
         },
         {
             "key": "LziZY",
-            "name": "量子资源",
+            "name": "量子资源网",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "playurl": "json:https://lziplayer.com/?url=",
@@ -104,8 +104,8 @@
             ]
         },
         {
-            "key": "WujinZY",
-            "name": "无尽资源",
+            "key": "wujinZY",
+            "name": "无尽资源网",
             "type": 1,
             "api": "https://api.wujinapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -140,10 +140,11 @@
             ]
         },
         {
-            "key": "HHzy",
+            "key": "haohuaZY",
             "name": "豪华资源",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/",
+            "playurl": "json:https://hhjiexi.com/play/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -209,7 +210,7 @@
         },
         {
             "key": "FFzy",
-            "name": "非凡资源",
+            "name": "非凡资源网",
             "type": 1,
             "api": "https://api.ffzyapi.com/api.php/provide/vod/",
             "playurl": "json:https://svip.ffzyplay.com/?url=",
@@ -310,7 +311,7 @@
         },
         {
             "key": "Tiankong",
-            "name": "天空资源",
+            "name": "天空资源站",
             "type": 1,
             "api": "https://api.tiankongapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -350,7 +351,7 @@
             ]
         },
         {
-            "key": "BFzy",
+            "key": "bfzy.tv",
             "name": "暴风资源",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/",
@@ -382,7 +383,7 @@
         },
         {
             "key": "SDzy",
-            "name": "闪电资源",
+            "name": "闪电资源网",
             "type": 1,
             "api": "http://sdzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -415,7 +416,7 @@
         },
         {
             "key": "GuangsuZY",
-            "name": "光速资源",
+            "name": "光速资源站",
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -444,8 +445,8 @@
             ]
         },
         {
-            "key": "JSzy",
-            "name": "极速资源",
+            "key": "jisuzy.tv",
+            "name": "极速资源网",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/",
             "playurl": "json:https://jsjiexi.com/play/?url=",
@@ -478,10 +479,11 @@
             ]
         },
         {
-            "key": "SuboZY",
-            "name": " 速播资源",
+            "key": "subozy.com",
+            "name": "速播资源",
             "type": 1,
             "api": "https://subocaiji.com/api.php/provide/vod/",
+            "playurl": "json:https://subojiexi.com/play/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -512,7 +514,7 @@
         },
         {
             "key": "KCzy",
-            "name": "快车资源",
+            "name": "快车资源网",
             "type": 1,
             "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -557,10 +559,11 @@
             ]
         },
         {
-            "key": "HongniuZY",
+            "key": "hongniuziyuan.net",
             "name": "红牛资源",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "playurl": "json:https://www.hnjiexi.com/m3u8/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -591,8 +594,8 @@
             ]
         },
         {
-            "key": "JinyingZY",
-            "name": "金鹰资源",
+            "key": "jinyingzy.net",
+            "name": "金鹰资源网",
             "type": 1,
             "api": "https://jinyingzy.com/provide/vod/",
             "playurl": "json:https://hd.iapijy.com/play?url=",
@@ -626,10 +629,11 @@
             ]
         },
         {
-            "key": "HuyaZY",
-            "name": "虎牙资源",
+            "key": "huyazy.net",
+            "name": "虎牙资源网",
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/",
+            "playurl": "json:https://huyajx.com/play?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -845,8 +849,8 @@
             ]
         },
         {
-            "key": "UkuZY",
-            "name": "U酷资源",
+            "key": "www.ukuzy.com",
+            "name": "U酷资源站",
             "type": 1,
             "api": "https://api.ukuapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -882,8 +886,8 @@
             ]
         },
         {
-            "key": "360zy",
-            "name": "360资源",
+            "key": "360zy.com",
+            "name": "360资源站",
             "type": 1,
             "playerType": 1,
             "api": "https://360zy.com/api.php/provide/vod/",
@@ -922,8 +926,8 @@
             ]
         },
         {
-            "key": "iKunZY",
-            "name": "iKun资源",
+            "key": "ikunzy.net",
+            "name": "ikun资源站",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1052,7 +1056,7 @@
             ]
         },
         {
-            "key": "YayaZY",
+            "key": "yayazy.net",
             "name": "鸭鸭资源",
             "type": 1,
             "api": "https://cj.yayazy.net/api.php/provide/vod/",
@@ -1092,8 +1096,8 @@
             ]
         },
         {
-            "key": "NiuniuZY",
-            "name": "牛牛资源",
+            "key": "niuniuzy.cc",
+            "name": "牛牛资源站",
             "type": 1,
             "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/",
             "playurl": "json:https://jiexi.niuniuzy.org/m3u8/?url=",
