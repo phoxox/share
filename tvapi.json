@@ -3,10 +3,10 @@
     "wallpaper": "https://raw.githubusercontent.com/phoxox/images/main/1280x720-yankees-blue-dark.jpg",
     "sites": [
         {
-            "key": "suoniZY",
+            "key": "suonizy.com",
             "name": "索尼资源网",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
             "playurl": "json:https://www.snplayer.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
@@ -39,10 +39,10 @@
             ]
         },
         {
-            "key": "LziZY",
+            "key": "lzizy.net",
             "name": "量子资源网",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "playurl": "json:https://lziplayer.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
@@ -71,10 +71,10 @@
             ]
         },
         {
-            "key": "Lzim3u8",
+            "key": "lzizym3u8",
             "name": "量子m3u8",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
             "playurl": "json:https://lziplayer.com/?url=",
             "searchable": 1,
             "changeable": 1,
@@ -104,10 +104,11 @@
             ]
         },
         {
-            "key": "wujinZY",
+            "key": "wujinzy.com",
             "name": "无尽资源网",
-            "type": 1,
-            "api": "https://api.wujinapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
+            "playurl": "https://jx.wujinkk.com/dplayer/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -310,10 +311,10 @@
             ]
         },
         {
-            "key": "Tiankong",
+            "key": "tiankongzy.cc",
             "name": "天空资源站",
-            "type": 1,
-            "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/",
             "playurl": "json:https://jx.huishij.com/yun/?url=",
             "searchable": 1,
             "quickSearch": 1,
@@ -448,8 +449,8 @@
         {
             "key": "jisuzy.tv",
             "name": "极速资源网",
-            "type": 0,
-            "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/",
             "playurl": "json:https://jsjiexi.com/play/?url=",
             "searchable": 1,
             "quickSearch": 1,
@@ -1024,8 +1025,8 @@
         {
             "key": "飘零影视",
             "name": "飘零影视",
-            "type": 0,
-            "api": "https://p2100.net/api.php/provide/vod/at/xml",
+            "type": 1,
+            "api": "https://p2100.net/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
