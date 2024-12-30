@@ -7,7 +7,7 @@
             "key": "1080zyku",
             "name": "优质资源",
             "type": 1,
-            "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+            "api": "https://api.yzzy-api.com/inc/apijson.php",
             "playurl": "json:https://vip.zykbf.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
