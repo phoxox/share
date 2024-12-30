@@ -36,6 +36,7 @@
             "name": "暴风资源",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/",
+             "playurl": "json:https://vip.vipuuvip.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -854,8 +855,8 @@
         {
             "key": "wujinzy.com",
             "name": "无尽资源",
-            "type": 0,
-            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
+            "type": 1,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
             "playurl": "https://jx.wujinkk.com/dplayer/?url=",
             "searchable": 1,
             "quickSearch": 1,
