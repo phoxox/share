@@ -272,8 +272,8 @@
             ]
         },
         {
-            "key": "hw8",
-            "name": "华为吧",
+            "key": "huaweiba.live/huawei8.live",
+            "name": "华为吧网",
             "type": 1,
             "api": "https://cjhwba.com/api.php/provide/vod/",
             "playurl": "json:https://player.dphw8.com/player?url=",
@@ -577,7 +577,7 @@
         },
         {
             "key": "OKzyw",
-            "name": "OK资源网",
+            "name": "OK资源",
             "type": 1,
             "api": "https://okzyw9.com/api.php/provide/vod/",
             "playurl": "json:https://jiexi.okzyw.info/m3u8/?url=",
