@@ -904,9 +904,8 @@
         {
             "key": "360zy.com",
             "name": "360资源",
-            "type": 1,
-            "playerType": 1,
-            "api": "https://360zy.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://360zy.com/api.php/provide/vod/at/xml",
             "playurl": "json:https://www.360jiexi.com/player/?url=",
             "searchable": 1,
             "quickSearch": 1,
