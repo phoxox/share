@@ -865,7 +865,7 @@
         },
         {
             "key": "xiaohuangren",
-            "name": "小黄人",
+            "name": "小黄人网",
             "type": 1,
             "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "searchable": 1,
@@ -903,7 +903,7 @@
         },
         {
             "key": "四个圈影视",
-            "name": "四个圈",
+            "name": "四个圈网",
             "type": 1,
             "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
             "searchable": 1,
@@ -929,10 +929,11 @@
             ]
         },
         {
-            "key": "Heimuer",
-            "name": "黑木耳",
-            "type": 1,
-            "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+            "key": "heimuer.tv",
+            "name": "黑木耳tv",
+            "type": 0,
+            "api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/",
+            "playurl": "json:https://hoplayer.com/index.html?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
