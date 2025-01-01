@@ -1122,18 +1122,18 @@
             ]
         },
         {
-            "key": "yhzy",
-            "name": "樱花资源",
+            "key": "aliys.cn:90",
+            "name": "我爱影视",
             "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "api": "http://aliys.cn:90/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
         {
-            "key": "xlyun",
-            "name": "新浪影视",
+            "key": "yhzy",
+            "name": "樱花资源",
             "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         }
