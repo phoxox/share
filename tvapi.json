@@ -1050,14 +1050,6 @@
             ]
         },
         {
-            "key": "百度资源",
-            "name": "百度资源",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "新浪资源",
             "name": "新浪资源",
             "type": 1,
@@ -1079,7 +1071,11 @@
             "type": 1,
             "api": "https://ckzy.me/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "理论片"
+            ]
         }
     ],
     "parses": [
