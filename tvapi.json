@@ -1050,15 +1050,6 @@
             ]
         },
         {
-            "key": "龙龙影视",
-            "name": "龙龙影视",
-            "type": 1,
-            "api": "http://110.42.99.99:3976/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "xxiang.xyz",
             "name": "祥祥影视",
             "type": 1,
