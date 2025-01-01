@@ -939,7 +939,7 @@
         },
         {
             "key": "heimuer.tv",
-            "name": "黑木耳资源",
+            "name": "黑木耳站",
             "type": 1,
             "api": "https://xml.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
