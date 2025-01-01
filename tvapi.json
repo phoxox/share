@@ -1066,7 +1066,7 @@
             "quickSearch": 1
         },
         {
-            "key": "CK资源",
+            "key": "ck资源",
             "name": "桃花资源",
             "type": 1,
             "api": "https://ckzy.me/api.php/provide/vod/",
