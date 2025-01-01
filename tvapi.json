@@ -1074,7 +1074,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
-                "理论片"
+                "理论片",
+                "电视剧",
+                "电影"
             ]
         }
     ],
