@@ -791,15 +791,6 @@
             ]
         },
         {
-            "key": "xiaohuangren",
-            "name": "小黄人网",
-            "type": 1,
-            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "yzzy.tv/hdzyk.com",
             "name": "优质资源",
             "type": 1,
@@ -859,32 +850,6 @@
             ]
         },
         {
-            "key": "pg.fenwe078.cf",
-            "name": "四个圈tv",
-            "type": 1,
-            "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "日韩剧",
-                "欧美剧",
-                "海外剧",
-                "港台剧",
-                "连续剧",
-                "综艺",
-                "电影",
-                "动漫",
-                "动漫电影",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "海外动漫",
-                "动画片"
-            ]
-        },
-        {
             "key": "heimuer.tv",
             "name": "黑木耳tv",
             "type": 1,
@@ -921,28 +886,38 @@
             ]
         },
         {
-            "key": "影图影视",
-            "name": "影图影视",
+            "key": "xiaohuangren",
+            "name": "小黄人网",
             "type": 1,
-            "api": "https://cj.vodimg.top/api.php/provide/vod/",
+            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "pg.fenwe078.cf",
+            "name": "四个圈tv",
+            "type": 1,
+            "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
                 "国产剧",
-                "港台剧",
                 "日韩剧",
                 "欧美剧",
-                "剧情片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "战争片",
+                "海外剧",
+                "港台剧",
                 "连续剧",
+                "综艺",
+                "电影",
                 "动漫",
-                "综艺"
+                "动漫电影",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "海外动漫",
+                "动画片"
             ]
         },
         {
@@ -971,6 +946,31 @@
                 "战争片",
                 "纪录片",
                 "理论片"
+            ]
+        },
+        {
+            "key": "影图影视",
+            "name": "影图影视",
+            "type": 1,
+            "api": "https://cj.vodimg.top/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "剧情片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "战争片",
+                "连续剧",
+                "动漫",
+                "综艺"
             ]
         },
         {
