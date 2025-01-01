@@ -793,8 +793,8 @@
         {
             "key": "xiaohuangren",
             "name": "小黄人网",
-            "type": 0,
-            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/at/xml",
+            "type": 1,
+            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
