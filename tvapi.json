@@ -1072,6 +1072,14 @@
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "CK资源",
+            "name": "桃花资源",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
         }
     ],
     "parses": [
