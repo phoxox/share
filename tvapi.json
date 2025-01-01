@@ -1071,14 +1071,7 @@
             "type": 1,
             "api": "https://ckzy.me/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "理论片",
-                "教程",
-                "电影",
-                "电视剧"
-            ]
+            "quickSearch": 1
         }
     ],
     "parses": [
