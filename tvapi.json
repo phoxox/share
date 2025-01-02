@@ -12,7 +12,7 @@
     "//": "categories 按顺序展示所配置的分类 不配置则默认展示所有分类",
     "sites": [
         {
-            "key": "豆瓣热播",
+            "key": "csp_douban",
             "name": "豆瓣热播",
             "type": 3,
             "api": "csp_Douban",
