@@ -1,5 +1,6 @@
 {
     "warningText": "接口完全免费，切勿付费购买。",
+    "spider": "./jar/custom_spider.jar;md5;41c87635d7592069884a5dafa12acabe",
     "wallpaper": "https://raw.githubusercontent.com/phoxox/images/main/1280x720-yankees-blue-dark.jpg",
     "//": "type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
     "//": "playerType 0-system 1-ijk 2-exo",
@@ -10,6 +11,15 @@
     "//": "filterable 0-不可以 1-可以",
     "//": "categories 按顺序展示所配置的分类 不配置则默认展示所有分类",
     "sites": [
+        {
+            "key": "豆瓣热播",
+            "name": "豆瓣热播",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "./json/douban.json"
+        },
         {
             "key": "360zy.com",
             "name": "360资源",
