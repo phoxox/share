@@ -554,14 +554,6 @@
             ]
         },
         {
-            "key": "墨斗资源",
-            "name": "墨斗资源",
-            "type": 1,
-            "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "moduzy5.com",
             "name": "魔都资源",
             "type": 1,
@@ -899,7 +891,38 @@
             "type": 1,
             "api": "https://api.zuidapi.com/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "韩剧",
+                "日剧",
+                "欧美剧",
+                "海外剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "剧情片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "4K电影",
+                "演唱会",
+                "动画片",
+                "纪录片",
+                "战争片",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "伦理",
+                "韩国伦理",
+                "日本伦理",
+                "西方伦理",
+                "港台三级"
+            ]
         },
         {
             "key": "xiaohuangren",
