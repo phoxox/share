@@ -1152,7 +1152,7 @@
     ],
     "recommend": [
         {
-            "name": "豆瓣推荐",
+            "name": "豆瓣热播",
             "request": {
                 "method": "GET",
                 "header": [
