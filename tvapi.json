@@ -12,7 +12,7 @@
     "//": "categories 按顺序展示所配置的分类 不配置则默认展示所有分类",
     "sites": [
         {
-            "key": "csp_Douban",
+            "key": "豆瓣热播",
             "name": "豆瓣热播",
             "type": 3,
             "api": "csp_Douban",
@@ -1153,7 +1153,7 @@
     ],
     "recommend": [
         {
-            "name": "豆瓣热播",
+            "name": "豆瓣推荐",
             "request": {
                 "method": "GET",
                 "header": [
