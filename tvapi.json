@@ -860,7 +860,7 @@
         },
         {
             "key": "pg.fenwe078.cf",
-            "name": "四个圈tv",
+            "name": "四个圈源",
             "type": 1,
             "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
             "searchable": 1,
@@ -939,7 +939,7 @@
         },
         {
             "key": "heimuer.tv",
-            "name": "黑木耳站",
+            "name": "黑木耳源",
             "type": 1,
             "api": "https://xml.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
