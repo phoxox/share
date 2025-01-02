@@ -895,8 +895,8 @@
             "filterable": 1
         },
         {
-            "key": "pg.fenwe078.cf",
-            "name": "四个圈网",
+            "key": "四个圈影视",
+            "name": "四圈影视",
             "type": 1,
             "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
             "searchable": 1,
