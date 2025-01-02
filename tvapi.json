@@ -926,7 +926,7 @@
         },
         {
             "key": "xiaohuangren",
-            "name": "小黄人网",
+            "name": "小黄人tv",
             "type": 1,
             "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1162,7 +1162,7 @@
                     }
                 ],
                 "url": {
-                    "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2023,2025"
+                    "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,30&tags=&playable=1&start=0&year_range=2023,2025"
                 }
             },
             "response": {
