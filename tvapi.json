@@ -1133,18 +1133,18 @@
     ],
     "lives": [
         {
-            "name": "IPV4",
+            "name": "yanglive",
             "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/itv.m3u",
+            "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "live",
+            "name": "fmmlive",
             "type": 0,
-            "url": "https://raw.fgit.cf/2hacc/TVBox/main/live/live.txt",
+            "url": "https://live.fanmingming.com/tv/m3u/itv.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
