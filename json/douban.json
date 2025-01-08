@@ -1,11 +1,9 @@
 {
-    "hot_gaia":
-    [
+    "hot_gaia": [
         {
             "key": "sort",
             "name": "排序",
-            "value":
-            [
+            "value": [
                 {
                     "n": "热度",
                     "v": "recommend"
@@ -23,8 +21,7 @@
         {
             "key": "area",
             "name": "地区",
-            "value":
-            [
+            "value": [
                 {
                     "n": "全部",
                     "v": "全部"
@@ -48,13 +45,11 @@
             ]
         }
     ],
-    "tv_hot":
-    [
+    "tv_hot": [
         {
             "key": "type",
             "name": "分类",
-            "value":
-            [
+            "value": [
                 {
                     "n": "综合",
                     "v": "tv_hot"
@@ -82,13 +77,11 @@
             ]
         }
     ],
-    "show_hot":
-    [
+    "show_hot": [
         {
             "key": "type",
             "name": "分类",
-            "value":
-            [
+            "value": [
                 {
                     "n": "综合",
                     "v": "show_hot"
@@ -104,13 +97,11 @@
             ]
         }
     ],
-    "movie":
-    [
+    "movie": [
         {
             "key": "类型",
             "name": "类型",
-            "value":
-            [
+            "value": [
                 {
                     "n": "全部类型",
                     "v": ""
@@ -208,8 +199,7 @@
         {
             "key": "地区",
             "name": "地区",
-            "value":
-            [
+            "value": [
                 {
                     "n": "全部地区",
                     "v": ""
@@ -307,8 +297,7 @@
         {
             "key": "sort",
             "name": "排序",
-            "value":
-            [
+            "value": [
                 {
                     "n": "近期热度",
                     "v": "T"
@@ -326,8 +315,7 @@
         {
             "key": "年代",
             "name": "年代",
-            "value":
-            [
+            "value": [
                 {
                     "n": "全部年代",
                     "v": ""
@@ -391,13 +379,11 @@
             ]
         }
     ],
-    "tv":
-    [
+    "tv": [
         {
             "key": "类型",
             "name": "类型",
-            "value":
-            [
+            "value": [
                 {
                     "n": "不限",
                     "v": ""
@@ -415,8 +401,7 @@
         {
             "key": "电视剧形式",
             "name": "电视剧形式",
-            "value":
-            [
+            "value": [
                 {
                     "n": "不限",
                     "v": ""
@@ -510,8 +495,7 @@
         {
             "key": "综艺形式",
             "name": "综艺形式",
-            "value":
-            [
+            "value": [
                 {
                     "n": "不限",
                     "v": ""
@@ -537,8 +521,7 @@
         {
             "key": "地区",
             "name": "地区",
-            "value":
-            [
+            "value": [
                 {
                     "n": "全部地区",
                     "v": ""
@@ -640,8 +623,7 @@
         {
             "key": "sort",
             "name": "排序",
-            "value":
-            [
+            "value": [
                 {
                     "n": "近期热度",
                     "v": "T"
@@ -659,8 +641,7 @@
         {
             "key": "年代",
             "name": "年代",
-            "value":
-            [
+            "value": [
                 {
                     "n": "全部",
                     "v": ""
@@ -726,8 +707,7 @@
         {
             "key": "平台",
             "name": "平台",
-            "value":
-            [
+            "value": [
                 {
                     "n": "全部",
                     "v": ""
@@ -799,13 +779,11 @@
             ]
         }
     ],
-    "rank_list_movie":
-    [
+    "rank_list_movie": [
         {
             "key": "榜单",
             "name": "榜单",
-            "value":
-            [
+            "value": [
                 {
                     "n": "实时热门电影",
                     "v": "movie_real_time_hotest"
@@ -821,13 +799,11 @@
             ]
         }
     ],
-    "rank_list_tv":
-    [
+    "rank_list_tv": [
         {
             "key": "榜单",
             "name": "榜单",
-            "value":
-            [
+            "value": [
                 {
                     "n": "实时热门电视",
                     "v": "tv_real_time_hotest"
