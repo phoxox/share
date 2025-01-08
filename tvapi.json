@@ -841,7 +841,7 @@
             ]
         },
         {
-            "key": "yzzy.tv-hdzyk.com",
+            "key": "yzzy.tv hdzyk.com",
             "name": "优质高清",
             "type": 1,
             "api": "https://api.yzzy-api.com/inc/apijson.php",
