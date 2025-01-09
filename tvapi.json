@@ -1,4 +1,7 @@
 {
+    "warningText": "接口完全免费，切勿付费购买。",
+    "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
+    "spider": "./jar/spiderman.jar?raw=true;md5;41c87635d7592069884a5dafa12acabe",
     "//": [
         "type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
         "api https://www.xxxxxx.com/api.php/provide/vod/",
@@ -9,13 +12,10 @@
         "filterable  0-不可以 1-可以",
         "categories 按顺序展示所配置的分类 不配置则默认展示所有分类"
     ],
-    "warningText": "接口完全免费，切勿付费购买。",
-    "spider": "./jar/spiderman.jar?raw=true;md5;41c87635d7592069884a5dafa12acabe",
-    "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
     "sites": [
         {
-            "key": "豆瓣热播",
-            "name": "豆瓣热播",
+            "key": "豆瓣推荐",
+            "name": "豆瓣推荐",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -1167,7 +1167,7 @@
     ],
     "recommend": [
         {
-            "name": "豆瓣推荐",
+            "name": "豆瓣热播",
             "request":
             {
                 "method": "GET",
@@ -1333,7 +1333,7 @@
             ]
         },
         {
-            "name": "AdGuard",
+            "name": "AdGuard-DNS",
             "url": "https://dns.adguard-dns.com/dns-query",
             "ips": [
                 "94.140.14.14",
