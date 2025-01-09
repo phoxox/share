@@ -1158,14 +1158,6 @@
             "url": "https://tv.iill.top/m3u/Sport",
             "ua": "okhttp/3.15",
             "playerType": 2
-        },
-        {
-            "name": "live-fmm",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/itv.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "recommend": [
