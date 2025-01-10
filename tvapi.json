@@ -1297,15 +1297,14 @@
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy",
-                ".ffzy*",
                 "super.ffzy",
-                "super.ffzy*",
                 "svipsvip.ffzy",
                 "*.ffzy*"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY(?:\n.*?){8}\n#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY(?:\n(?!#EXT-X-DISCONTINUITY).*){10}\n#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {
