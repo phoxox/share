@@ -993,7 +993,7 @@
             "key": "niuniuzy.cc",
             "name": "牛牛资源",
             "type": 1,
-            "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/",
+            "api": "https://api.niuniuzy.me/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
