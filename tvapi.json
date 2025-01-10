@@ -1239,6 +1239,19 @@
             ]
         },
         {
+            "name": "非凡广告",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy",
+                "ffzy*.tv"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
             "name": "量子广告",
             "hosts": [
                 "vip.lz*",
@@ -1253,31 +1266,18 @@
             ]
         },
         {
-            "name": "非凡广告",
+            "name": "ikun广告",
             "hosts": [
-                "vip.ffzy",
-                "hd.ffzy",
-                "ffzy*.tv"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "U酷广告",
-            "hosts": [
-                "ukzy"
+                "bfikuncdn"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
-            "name": "ikun广告",
+            "name": "U酷广告",
             "hosts": [
-                "bfikuncdn"
+                "ukzy"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"
