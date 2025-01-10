@@ -1179,7 +1179,7 @@
                 ],
                 "url":
                 {
-                    "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,20&tags=&playable=1&start=0&year_range=2024,2025"
+                    "raw": "https://movie.douban.com/j/new_search_subjects?type=movie&sort=U&range=0,30&tags=&playable=1&start=0&year_range=2024,2025"
                 }
             },
             "response":
