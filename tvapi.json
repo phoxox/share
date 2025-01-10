@@ -1179,7 +1179,7 @@
                 ],
                 "url":
                 {
-                    "raw": "https://movie.douban.com/j/new_search_subjects?type=movie&sort=U&range=0,30&tags=&playable=1&start=0&year_range=2024,2025"
+                    "raw": "https://movie.douban.com/j/search_subjects?type=tv&tag=%E7%83%AD%E9%97%A8&sort=recommend&page_limit=30&page_start=0"
                 }
             },
             "response":
