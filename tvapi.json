@@ -1159,7 +1159,7 @@
                 ],
                 "url":
                 {
-                    "raw": "https://movie.douban.com/j/search_subjects?type=tv&tag=%E7%83%AD%E9%97%A8&sort=recommend&page_limit=20&page_start=0"
+                    "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,20&tags=&playable=1&start=0"
                 }
             },
             "response":
@@ -1243,32 +1243,6 @@
     ],
     "rules": [
         {
-            "name": "磁力广告",
-            "hosts": [
-                "magnet"
-            ],
-            "regex": [
-                "更多",
-                "社區",
-                "xuu",
-                "最新",
-                "最新",
-                "直播",
-                "更新",
-                "社区",
-                "有趣",
-                "有趣",
-                "英皇体育",
-                "全中文AV在线",
-                "澳门皇冠赌场",
-                "哥哥快来",
-                "美女荷官",
-                "裸聊",
-                "新片首发",
-                "UUE29"
-            ]
-        },
-        {
             "name": "索尼广告",
             "hosts": [
                 "suonizy"
@@ -1341,24 +1315,6 @@
             ],
             "regex": [
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "火山嗅探",
-            "hosts": [
-                "huoshan.com"
-            ],
-            "regex": [
-                "item_id="
-            ]
-        },
-        {
-            "name": "農民嗅探",
-            "hosts": [
-                "toutiaovod.com"
-            ],
-            "regex": [
-                "video/tos/cn"
             ]
         }
     ],
