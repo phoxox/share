@@ -1206,29 +1206,6 @@
             }
         }
     ],
-    "association": [
-        {
-            "name": "iqiyi",
-            "request":
-            {
-                "method": "GET",
-                "url":
-                {
-                    "raw": "https://suggest.video.iqiyi.com/?if=mobile&key={query}"
-                }
-            },
-            "response":
-            {
-                "result": "$.data",
-                "data": [
-                    {
-                        "key": "keyword",
-                        "value": "name"
-                    }
-                ]
-            }
-        }
-    ],
     "flags": [
         "iqiyi",
         "letv",
@@ -1318,50 +1295,6 @@
             ]
         }
     ],
-    "doh": [
-        {
-            "name": "Google",
-            "url": "https://dns.google/dns-query",
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
-            ]
-        },
-        {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
-        },
-        {
-            "name": "AdGuard-DNS",
-            "url": "https://dns.adguard-dns.com/dns-query",
-            "ips": [
-                "94.140.14.14",
-                "94.140.15.15"
-            ]
-        },
-        {
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ]
-        },
-        {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ]
-        }
-    ],
     "ads": [
         "ae01.alicdn.com",
         "c.cnzz.com",
@@ -1409,61 +1342,15 @@
         "xdn.cqqc3.com",
         "xg.gars57.cn",
         "xg.huataisangao.cn",
-        "xg.huataisangao.cn",
         "xg.whsbpw.cn",
         "xomk.jiangjunmh.top",
         "z1.cnzz.com",
-        "z12.cnzz.com",
         "z2.cnzz.com",
         "z3.cnzz.com",
         "z5.cnzz.com",
         "z6.cnzz.com",
         "z7.cnzz.com",
-        "z8.cnzz.com"
-    ],
-    "parseAds": [
-        "0866a0a33e897c6b69d927db8a341e1d",
-        "111.m3u8",
-        "1658315755.m3u8",
-        "20230103dsafdfjhd.m3u8",
-        "2420fc61fb66a16ae22f08cecbd2ff43",
-        "25e538d6ef7c13189646539ab52e5eb4",
-        "44a44566-d7b7-40eb-8b4b-52c3d7d04925.mp4",
-        "606ae058-6c0a-41b8-8711-7e87b660b1f6.m3u8",
-        "88aa085b25d90033a366bf3390289a119bddf429.m3u8",
-        "95d0416b437645942b41de9ec06e63c6.mp4",
-        "a9c81f35-9f12-4242-b65c-cfbb0100101d.mp4",
-        "ae570ecc419c4ac1b227b00e0d6ec138.mp4",
-        "aiku.m3u8",
-        "cache.json.icu",
-        "d740175e67dd70fadfb9d0c4384b4c59",
-        "daoqitixing.m3u8",
-        "fangdao",
-        "fca02fec-85cc-4c03-91f9-29e5957c18c4.mp4",
-        "fd.m3u8",
-        "fd2.m3u8",
-        "feiyun.m3u8",
-        "https://1231231/",
-        "https://api.nxflv.com/Cache/M3u8/",
-        "https://cdn.oss-cn-m3u8.tv-nanjing-chengdu.myqcloud.com.zh188.net",
-        "https://hls.banyung.vip/m3u8.php",
-        "https://k.json.icu/m3u8/",
-        "https://txmov2.a.kwimgs.com/upic/2021/12/08/19/",
-        "https://v9-xg-web-pc.ixigua.com/",
-        "id190.tpddns.cn",
-        "jxjson.cf.m3u8",
-        "milai.mp4",
-        "tjx.m3u8",
-        "txmov2.a.yximgs.com",
-        "xiaohai.mp4",
-        "xiaoxin.m3u8",
-        "xyfd.m3u8",
-        "xyqf.m3u8",
-        "xyrx.mp4",
-        "yuncache.52e.cc",
-        "yuncache.hao7788.cc",
-        "yuncache.hqmbsh.com",
-        "yuncache.hs-mould.cn",
-        "yyyyy.mp4"
+        "z8.cnzz.com",
+        "z12.cnzz.com"
     ]
 }
