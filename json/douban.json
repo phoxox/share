@@ -1,4 +1,52 @@
 {
+    "rank_list_movie": [
+        {
+            "key": "榜单",
+            "name": "榜单",
+            "value": [
+                {
+                    "n": "实时热门电影",
+                    "v": "movie_real_time_hotest"
+                },
+                {
+                    "n": "一周口碑电影榜",
+                    "v": "movie_weekly_best"
+                },
+                {
+                    "n": "豆瓣电影Top250",
+                    "v": "movie_top250"
+                }
+            ]
+        }
+    ],
+    "rank_list_tv": [
+        {
+            "key": "榜单",
+            "name": "榜单",
+            "value": [
+                {
+                    "n": "实时热门电视",
+                    "v": "tv_real_time_hotest"
+                },
+                {
+                    "n": "全球口碑剧集榜",
+                    "v": "tv_global_best_weekly"
+                },
+                {
+                    "n": "华语口碑剧集榜",
+                    "v": "tv_chinese_best_weekly"
+                },
+                {
+                    "n": "国内口碑综艺榜",
+                    "v": "show_chinese_best_weekly"
+                },
+                {
+                    "n": "国外口碑综艺榜",
+                    "v": "show_global_best_weekly"
+                }
+            ]
+        }
+    ],
     "hot_gaia": [
         {
             "key": "sort",
@@ -775,54 +823,6 @@
                 {
                     "n": "NBC",
                     "v": "NBC"
-                }
-            ]
-        }
-    ],
-    "rank_list_movie": [
-        {
-            "key": "榜单",
-            "name": "榜单",
-            "value": [
-                {
-                    "n": "实时热门电影",
-                    "v": "movie_real_time_hotest"
-                },
-                {
-                    "n": "一周口碑电影榜",
-                    "v": "movie_weekly_best"
-                },
-                {
-                    "n": "豆瓣电影Top250",
-                    "v": "movie_top250"
-                }
-            ]
-        }
-    ],
-    "rank_list_tv": [
-        {
-            "key": "榜单",
-            "name": "榜单",
-            "value": [
-                {
-                    "n": "实时热门电视",
-                    "v": "tv_real_time_hotest"
-                },
-                {
-                    "n": "全球口碑剧集榜",
-                    "v": "tv_global_best_weekly"
-                },
-                {
-                    "n": "华语口碑剧集榜",
-                    "v": "tv_chinese_best_weekly"
-                },
-                {
-                    "n": "国内口碑综艺榜",
-                    "v": "show_chinese_best_weekly"
-                },
-                {
-                    "n": "国外口碑综艺榜",
-                    "v": "show_global_best_weekly"
                 }
             ]
         }
