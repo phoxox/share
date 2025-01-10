@@ -1082,7 +1082,12 @@
     ],
     "parses": [
         {
-            "name": "解析聚合",
+            "name": "Json聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Web聚合",
             "type": 3,
             "url": "Web"
         },
@@ -1103,20 +1108,24 @@
             "ext":
             {
                 "flag": [
-                    "iqiyi",
-                    "letv",
-                    "mgtv",
-                    "pptv",
-                    "qiyi",
                     "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
                     "sohu",
-                    "tudou",
-                    "wasu",
-                    "youku"
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
                 ],
                 "header":
                 {
-                    "User-Agent": "okhttp/3.15"
+                    "User-Agent": "okhttp/4.1.0"
                 }
             }
         }
