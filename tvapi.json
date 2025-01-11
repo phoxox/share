@@ -84,10 +84,10 @@
             ]
         },
         {
-            "key": "ffzy5.tv",
+            "key": "ffzy.tv",
             "name": "非凡资源",
             "type": 1,
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+            "api": "https://api.ffzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -117,7 +117,7 @@
             "key": "FFzy_m3u8",
             "name": "非凡串流",
             "type": 1,
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+            "api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -843,7 +843,7 @@
             ]
         },
         {
-            "key": "yzzy.tv hdzyk.com",
+            "key": "yzzy.tv_hdzyk.com",
             "name": "优质高清",
             "type": 1,
             "api": "https://api.yzzy-api.com/inc/apijson.php",
@@ -909,7 +909,7 @@
             "key": "xiaohuangren",
             "name": "小黄人tv",
             "type": 1,
-            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+            "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -1137,7 +1137,7 @@
             "url": "https://tv.iill.top/m3u/Gather",
             "ua": "okhttp/3.15",
             "playerType": 2,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "YanG-直播",
