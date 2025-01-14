@@ -117,7 +117,7 @@
             "key": "FFzy_m3u8",
             "name": "非凡串流",
             "type": 1,
-            "api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+            "api": "http://ffzy2.tv/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -1243,12 +1243,14 @@
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy",
-                "ffzy*.tv"
+                "ffzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "25.0666",
+                "25.08",
+                "20.52",
+                "25.1",
+                "25.1999"
             ]
         },
         {
