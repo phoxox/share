@@ -811,7 +811,7 @@
             ]
         },
         {
-            "key": "yzzy.tv_hdzyk.com",
+            "key": "yzzy.tv",
             "name": "优质资源",
             "type": 1,
             "api": "https://api.yzzy-api.com/inc/apijson.php",
@@ -836,7 +836,7 @@
             ]
         },
         {
-            "key": "yzzy.tv_hdzyk.com",
+            "key": "1080zyk1.com",
             "name": "优质备用",
             "type": 1,
             "api": "https://1080zyk1.com/inc/apijson.php",
