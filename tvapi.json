@@ -23,6 +23,15 @@
             "ext": "./json/douban.json"
         },
         {
+            "key": "独播库tv",
+            "name": "独播库tv",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/duboku.json"
+        },
+        {
             "key": "360zy.com",
             "name": "360资源",
             "type": 1,
