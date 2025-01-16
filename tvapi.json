@@ -87,7 +87,7 @@
             "key": "ffzy.tv",
             "name": "非凡资源",
             "type": 1,
-            "api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+            "api": "https://api.ffzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
