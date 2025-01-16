@@ -23,13 +23,12 @@
             "ext": "./json/douban.json"
         },
         {
-            "key": "独播库tv",
-            "name": "独播库tv",
+            "key": "櫻花csp",
+            "name": "櫻花csp",
             "type": 3,
-            "api": "csp_XPathMacFilter",
+            "api": "csp_Ying",
             "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/duboku.json"
+            "changeable": 1
         },
         {
             "key": "360zy.com",
