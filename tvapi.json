@@ -677,7 +677,7 @@
             ]
         },
         {
-            "key": "suonizy.com",
+            "key": "suonizy_xml",
             "name": "索尼备用",
             "type": 0,
             "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
