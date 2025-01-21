@@ -23,16 +23,6 @@
             "ext": "./json/douban.json"
         },
         {
-            "key": "独播库tv",
-            "name": "独播库tv",
-            "type": 3,
-            "playerType": 0,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/duboku.json"
-        },
-        {
             "key": "360zy.com",
             "name": "360资源",
             "type": 1,
@@ -1286,26 +1276,6 @@
         "youku"
     ],
     "rules": [
-        {
-            "name": "proxy",
-            "hosts": [
-                "raw.githubusercontent.com",
-                "googlevideo.com",
-                "googleapis.com",
-                "cdn.v82u1l.com",
-                "cdn.iz8qkg.com",
-                "cdn.kin6c1.com",
-                "c.biggggg.com",
-                "c.olddddd.com",
-                "haiwaikan.com",
-                "www.histar.tv",
-                "youtube.com",
-                "uhibo.com",
-                ".*boku.*",
-                ".*nivod.*",
-                ".*ulivetv.*"
-            ]
-        },
         {
             "name": "索尼广告",
             "hosts": [
