@@ -970,6 +970,14 @@
             "quickSearch": 1
         },
         {
+            "key": "xiaohuang",
+            "name": "小黄备用",
+            "type": 1,
+            "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "四个圈影视",
             "name": "四圈影视",
             "type": 1,
