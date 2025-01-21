@@ -26,6 +26,7 @@
             "key": "独播库tv",
             "name": "独播库tv",
             "type": 3,
+            "playerType": 0,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
