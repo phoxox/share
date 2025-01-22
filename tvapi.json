@@ -1188,26 +1188,12 @@
     ],
     "lives": [
         {
-            "name": "YanG-综合",
+            "name": "YanG-1989",
             "type": 0,
             "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
             "ua": "okhttp/3.15",
             "playerType": 2,
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "YanG-直播",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Live",
-            "ua": "okhttp/3.15",
-            "playerType": 2
-        },
-        {
-            "name": "YanG-体育",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Sport",
-            "ua": "okhttp/3.15",
-            "playerType": 2
         }
     ],
     "recommend": [
