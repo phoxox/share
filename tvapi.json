@@ -1,7 +1,7 @@
 {
     "warningText": "接口完全免费,切勿付费购买",
     "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
-    "spider": "./jar/spiderman.jar?raw=true;md5;41c87635d7592069884a5dafa12acabe",
+    "spider": "./jar/spiderman.jar?raw=true;md5;673f167382cae9e4fad7bb6283f650e2",
     "//": [
         "type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
         "api https://www.xxxxxx.com/api.php/provide/vod/",
@@ -1166,6 +1166,26 @@
         }
     ],
     "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "googleapis.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
         {
             "name": "索尼广告",
             "hosts": [
