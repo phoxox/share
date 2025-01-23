@@ -1143,6 +1143,18 @@
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
+    "flags": [
+        "iqiyi",
+        "letv",
+        "mgtv",
+        "pptv",
+        "qiyi",
+        "qq",
+        "sohu",
+        "tudou",
+        "wasu",
+        "youku"
+    ],
     "parses": [
         {
             "name": "Web聚合",
@@ -1264,18 +1276,6 @@
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
             ]
         }
-    ],
-    "flags": [
-        "iqiyi",
-        "letv",
-        "mgtv",
-        "pptv",
-        "qiyi",
-        "qq",
-        "sohu",
-        "tudou",
-        "wasu",
-        "youku"
     ],
     "ads": [
         "ae01.alicdn.com",
