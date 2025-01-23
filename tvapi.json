@@ -229,7 +229,7 @@
         },
         {
             "key": "heimuer.tv",
-            "name": "黑木耳源",
+            "name": "黑木耳tv",
             "type": 1,
             "api": "https://xml.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
@@ -643,8 +643,8 @@
         {
             "key": "suonizy.com",
             "name": "索尼资源",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "type": 0,
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
             "quickSearch": 1,
             "searchable": 1,
             "categories": [
@@ -676,8 +676,8 @@
         {
             "key": "suonizy_xml",
             "name": "索尼备用",
-            "type": 0,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/",
             "quickSearch": 1,
             "searchable": 1,
             "categories": [
