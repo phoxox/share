@@ -5,12 +5,9 @@
     "//": [
         "type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
         "api https://www.xxxxxx.com/api.php/provide/vod/",
-        "playUrl 站点播放地址",
         "playerType  0-system 1-ijk 2-exo",
-        "quickSearch 0-不可以 1-可以",
-        "searchable  0-不可以 1-可以",
-        "filterable  0-不可以 1-可以",
-        "categories 按顺序展示所配置的分类 不配置则默认展示所有分类"
+        "quickSearch 0-No 1-Yes",
+        "searchable  0-No 1-Yes"
     ],
     "sites": [
         {
@@ -1136,6 +1133,16 @@
             "quickSearch": 1
         }
     ],
+    "lives": [
+        {
+            "name": "Ftindy_IPTV",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
+            "ua": "okhttp/4.1.0",
+            "playerType": 2,
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+        }
+    ],
     "parses": [
         {
             "name": "Web聚合",
@@ -1157,89 +1164,6 @@
             "type": 2,
             "url": "Sequence"
         }
-    ],
-    "lives": [
-        {
-            "name": "Ftindy_IPTV",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
-            "ua": "okhttp/4.1.0",
-            "playerType": 2,
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        }
-    ],
-    "recommend": [
-        {
-            "name": "豆瓣热播",
-            "request":
-            {
-                "method": "GET",
-                "header": [
-                    {
-                        "key": "Referer",
-                        "value": "https://movie.douban.com/"
-                    }
-                ],
-                "url":
-                {
-                    "raw": "https://movie.douban.com/j/search_subjects?type=movie&tag=%E7%83%AD%E9%97%A8&sort=recommend&page_limit=20&page_start=0"
-                }
-            },
-            "response":
-            {
-                "result": "$.data",
-                "data": [
-                    {
-                        "key": "name",
-                        "value": "title"
-                    },
-                    {
-                        "key": "note",
-                        "value": "rate"
-                    },
-                    {
-                        "key": "pic",
-                        "value": "cover"
-                    }
-                ]
-            },
-            "expires": "86400"
-        }
-    ],
-    "rating": [
-        {
-            "name": "rating",
-            "request":
-            {
-                "method": "GET",
-                "url":
-                {
-                    "raw": "https://api.wmdb.tv/movie/api?id=doubanid"
-                }
-            },
-            "response":
-            {
-                "result": "this",
-                "data": [
-                    {
-                        "key": "rating",
-                        "value": "doubanRating"
-                    }
-                ]
-            }
-        }
-    ],
-    "flags": [
-        "iqiyi",
-        "letv",
-        "mgtv",
-        "pptv",
-        "qiyi",
-        "qq",
-        "sohu",
-        "tudou",
-        "wasu",
-        "youku"
     ],
     "rules": [
         {
@@ -1320,6 +1244,18 @@
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
             ]
         }
+    ],
+    "flags": [
+        "iqiyi",
+        "letv",
+        "mgtv",
+        "pptv",
+        "qiyi",
+        "qq",
+        "sohu",
+        "tudou",
+        "wasu",
+        "youku"
     ],
     "ads": [
         "ae01.alicdn.com",
