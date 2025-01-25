@@ -1135,17 +1135,17 @@
     ],
     "lives": [
         {
-            "name": "fanmingming",
+            "name": "Ftindy",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u",
+            "url": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
             "ua": "okhttp/4.1.0",
             "playerType": 2,
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
-            "name": "Ftindy",
+            "name": "fanmingming",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
+            "url": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u",
             "ua": "okhttp/4.1.0",
             "playerType": 2,
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
