@@ -643,8 +643,8 @@
         {
             "key": "suonizy.com",
             "name": "索尼资源",
-            "type": 0,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/",
             "quickSearch": 1,
             "searchable": 1,
             "categories": [
@@ -674,10 +674,10 @@
             ]
         },
         {
-            "key": "suonizy_xml",
+            "key": "suonizy_m3u",
             "name": "索尼备用",
             "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
             "quickSearch": 1,
             "searchable": 1,
             "categories": [
