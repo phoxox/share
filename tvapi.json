@@ -81,7 +81,7 @@
             ]
         },
         {
-            "key": "ffzy.tv",
+            "key": "http://ffzy.tv/help/",
             "name": "非凡资源",
             "type": 0,
             "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
