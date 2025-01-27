@@ -16,6 +16,7 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
+            "quickSearch": 0,
             "changeable": 1,
             "ext": "./json/douban.json"
         },
