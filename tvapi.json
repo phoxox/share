@@ -32,6 +32,22 @@
             "timeout": 30
         },
         {
+            "key": "泥巴tv",
+            "name": "泥巴tv",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "星星tv",
+            "name": "星星tv",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "360zy.com",
             "name": "360资源",
             "type": 1,
