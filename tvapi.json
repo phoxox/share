@@ -23,8 +23,8 @@
             "ext": "./json/douban.json"
         },
         {
-            "key": "新版6V电影",
-            "name": "新版6V电影",
+            "key": "新6V电影",
+            "name": "新6V电影",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
