@@ -27,8 +27,8 @@
             "name": "新6V电影",
             "type": 3,
             "api": "csp_Xb6v",
-            "searchable": 1,
-            "changeable": 0
+            "searchable": 0,
+            "changeable": 1
         },
         {
             "key": "360zy.com",
