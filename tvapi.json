@@ -23,8 +23,8 @@
             "ext": "./json/douban.json"
         },
         {
-            "key": "新6V",
-            "name": "新6V",
+            "key": "新版6V",
+            "name": "新版6V",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
