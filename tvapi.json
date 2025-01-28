@@ -1,10 +1,8 @@
 {
     "warningText": "接口完全免费,切勿付费购买",
     "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
+    "spider": "./jar/spiderman.jar?md5;41c87635d7592069884a5dafa12acabe",
     "//_comments_": [
-        {
-            "spider": "./jar/spiderman.jar?md5;41c87635d7592069884a5dafa12acabe"
-        },
         {
             "type": "0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
             "api": "https://www.xxx.com/api.php/provide/vod/",
@@ -12,7 +10,9 @@
             "changeable": "是否換源 預設值 1 0-關閉 1-啟用",
             "searchable": "是否搜索 預設值 1 0-關閉 1-啟用",
             "quickSearch": "0-No 1-Yes"
-        },
+        }
+    ],
+    "sites": [
         {
             "key": "豆瓣推荐",
             "name": "豆瓣推荐",
@@ -21,9 +21,16 @@
             "searchable": 0,
             "changeable": 1,
             "ext": "./json/douban.json"
-        }
-    ],
-    "sites": [
+        },
+        {
+            "key": "新6V",
+            "name": "新6V",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "changeable": 0,
+            "timeout": 30
+        },
         {
             "key": "360zy.com",
             "name": "360资源",
