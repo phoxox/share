@@ -2,7 +2,7 @@
     "warningText": "接口完全免费,切勿付费购买",
     "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
     "spider": "./jar/spiderman.jar?md5;41c87635d7592069884a5dafa12acabe",
-    "//_comments_": [
+    "//": [
         {
             "type": "0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
             "api": "https://www.xxx.com/api.php/provide/vod/",
@@ -1209,8 +1209,7 @@
     "recommend": [
         {
             "name": "豆瓣热播",
-            "request":
-            {
+            "request": {
                 "method": "GET",
                 "header": [
                     {
@@ -1218,13 +1217,11 @@
                         "value": "https://movie.douban.com/"
                     }
                 ],
-                "url":
-                {
+                "url": {
                     "raw": "https://movie.douban.com/j/search_subjects?type=movie&tag=%E7%83%AD%E9%97%A8&sort=recommend&page_limit=20&page_start=0"
                 }
             },
-            "response":
-            {
+            "response": {
                 "result": "$.data",
                 "data": [
                     {
@@ -1247,16 +1244,13 @@
     "rating": [
         {
             "name": "rating",
-            "request":
-            {
+            "request": {
                 "method": "GET",
-                "url":
-                {
+                "url": {
                     "raw": "https://api.wmdb.tv/movie/api?id=doubanid"
                 }
             },
-            "response":
-            {
+            "response": {
                 "result": "this",
                 "data": [
                     {
