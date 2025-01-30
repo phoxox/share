@@ -1095,18 +1095,6 @@
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
-    "flags": [
-        "iqiyi",
-        "letv",
-        "mgtv",
-        "pptv",
-        "qiyi",
-        "qq",
-        "sohu",
-        "tudou",
-        "wasu",
-        "youku"
-    ],
     "recommend": [
         {
             "name": "豆瓣热播",
@@ -1166,28 +1154,6 @@
                     }
                 ]
             }
-        }
-    ],
-    "parses": [
-        {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
-            "name": "Json聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
         }
     ],
     "rules": [
