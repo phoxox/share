@@ -18,9 +18,9 @@
             "name": "豆瓣推荐",
             "type": 3,
             "api": "csp_Douban",
+            "ext": "./json/douban.json",
             "searchable": 0,
-            "changeable": 1,
-            "ext": "./json/douban.json"
+            "changeable": 1
         },
         {
             "key": "新6V电影",
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "key": "https://ffzy.tv/",
+            "key": "https://ffzy.tv",
             "name": "非凡资源",
             "type": 1,
             "api": "https://api.ffzyapi.com/api.php/provide/vod/",
@@ -122,7 +122,7 @@
             ]
         },
         {
-            "key": "http://ffzy.tv/",
+            "key": "http://ffzy.tv",
             "name": "非凡备用",
             "type": 1,
             "api": "http://api.ffzyapi.com/api.php/provide/vod/",
