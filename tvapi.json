@@ -9,7 +9,8 @@
             "playerType": "0-system 1-ijk 2-exo",
             "changeable": "是否換源 預設值 1 0-關閉 1-啟用",
             "searchable": "是否搜索 預設值 1 0-關閉 1-啟用",
-            "quickSearch": "0-No 1-Yes"
+            "quickSearch": "0-No 1-Yes",
+            "rules": "新增配置 proxy 判斷 host 是否走代理"
         }
     ],
     "sites": [
@@ -1096,6 +1097,25 @@
         }
     ],
     "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "googlevideo.com",
+                "googleapis.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
         {
             "name": "索尼广告",
             "hosts": [
