@@ -834,6 +834,47 @@
             "quickSearch": 1
         },
         {
+            "key": "www.ibaopian.com",
+            "name": "宝片视频",
+            "type": 1,
+            "api": "https://zpsps.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "快鹰影视",
+            "name": "快鹰影视",
+            "type": 1,
+            "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/",
+            "playUrl": "https://stray.serv00.net/ky.php?url=",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "艾旦影视",
+            "name": "艾旦影视",
+            "type": 1,
+            "api": "https://www.lovedan.net/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "天翼影视",
+            "name": "天翼影视",
+            "type": 1,
+            "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "淘片影视",
+            "name": "淘片影视",
+            "type": 1,
+            "api": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
             "key": "四个圈影视",
             "name": "四圈影视",
             "type": 1,
