@@ -283,10 +283,10 @@
             ]
         },
         {
-            "key": "huyazy.net",
+            "key": "huyazy.com",
             "name": "虎牙资源",
             "type": 1,
-            "api": "https://www.huyaapi.com/api.php/provide/vod/",
+            "api": "https://www.huyaapi.com/api.php/provide/vod/at/json/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -574,8 +574,8 @@
         {
             "key": "shandianzy.com",
             "name": "闪电资源",
-            "type": 1,
-            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -606,7 +606,7 @@
             "key": "suonizy.com",
             "name": "索尼资源",
             "type": 0,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
             "quickSearch": 1,
             "searchable": 1,
             "categories": [
@@ -768,7 +768,7 @@
             "key": "wujinzy.com",
             "name": "无尽资源",
             "type": 1,
-            "api": "https://api.wujinapi.me/api.php/provide/vod/",
+            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
