@@ -97,7 +97,7 @@
             "key": "dbzy.tv",
             "name": "豆瓣资源",
             "type": 1,
-            "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn/",
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
