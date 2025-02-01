@@ -986,8 +986,8 @@
         {
             "key": "bdzy.tv",
             "name": "百度资源",
-            "type": 0,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/",
             "searchable": 1,
             "quickSearch": 1
         },
