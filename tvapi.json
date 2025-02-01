@@ -664,14 +664,6 @@
             ]
         },
         {
-            "key": "www.taopianzy.com",
-            "name": "淘片资源",
-            "type": 0,
-            "api": "https://taopianapi.com/cjapi/mc/vod/xml.html",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "www.ukuzy.com/help/",
             "name": "U酷资源",
             "type": 1,
@@ -989,14 +981,6 @@
                 "西方伦理",
                 "港台三级"
             ]
-        },
-        {
-            "key": "ckzy.me",
-            "name": "桃花资源",
-            "type": 1,
-            "api": "https://ckzy.me/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
         }
     ],
     "lives": [
