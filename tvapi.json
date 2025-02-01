@@ -1056,6 +1056,29 @@
             ]
         },
         {
+            "name": "磁力廣告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "UUE29",
+                "xuu",
+                "全中文AV在线",
+                "哥哥快来",
+                "新片首发",
+                "更多",
+                "更新",
+                "最新",
+                "有趣",
+                "澳门皇冠赌场",
+                "直播",
+                "社区",
+                "美女荷官",
+                "英皇体育",
+                "裸聊"
+            ]
+        },
+        {
             "name": "索尼广告",
             "hosts": [
                 "suonizy"
@@ -1131,6 +1154,60 @@
             ],
             "regex": [
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "農民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "夜市點擊",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驢點擊",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
             ]
         }
     ],
