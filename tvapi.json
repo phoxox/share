@@ -1019,20 +1019,62 @@
         }
     ],
     "flags": [
-        "youku",
-        "qq",
+        "bilibili",
         "iqiyi",
         "qiyi",
         "letv",
+        "m1905",
+        "mgtv",
+        "pptv",
+        "qq",
         "sohu",
         "tudou",
-        "pptv",
-        "mgtv",
         "wasu",
-        "bilibili",
-        "wjyun",
-        "lajiao",
-        "kbzy"
+        "xigua",
+        "xmm",
+        "youku"
+    ],
+    "parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "夜幕",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url="
+        },
+        {
+            "name": "虾米",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "M3U8TV",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "m1907",
+            "type": 0,
+            "url": "https://im1907.top/?jx="
+        }
     ],
     "rules": [
         {
