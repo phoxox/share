@@ -10,7 +10,7 @@
             "changeable": "是否換源? 預設值 1 0-關閉 1-啟用",
             "searchable": "是否搜索? 預設值 1 0-關閉 1-啟用",
             "quickSearch": "可快速搜索? 0-不可以 1-可以",
-            "rules": "新增配置 proxy 判斷 host 是否走代理",
+            "rules": "新增配置proxy判斷host是否走代理",
             "ads": "设置解析播放时webview过滤的广告"
         }
     ],
