@@ -664,6 +664,14 @@
             ]
         },
         {
+            "key": "www.taopianzy.com",
+            "name": "淘片资源",
+            "type": 0,
+            "api": "https://taopianapi.com/cjapi/mc/vod/xml.html",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "www.ukuzy.com/help/",
             "name": "U酷资源",
             "type": 1,
