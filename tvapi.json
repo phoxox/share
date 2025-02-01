@@ -25,7 +25,7 @@
             "changeable": 1
         },
         {
-            "key": "新6V电影",
+            "key": "www.xb6v.com",
             "name": "新6V电影",
             "type": 3,
             "api": "csp_Xb6v",
@@ -834,8 +834,8 @@
             "quickSearch": 1
         },
         {
-            "key": "四个圈影视",
-            "name": "四圈影视",
+            "key": "四个圈资源",
+            "name": "四圈资源",
             "type": 1,
             "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
             "searchable": 1,
