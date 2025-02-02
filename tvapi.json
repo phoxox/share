@@ -134,8 +134,8 @@
         {
             "key": "http://ffzy.tv",
             "name": "非凡资源",
-            "type": 0,
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+            "type": 1,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -164,8 +164,8 @@
         {
             "key": "guangsuzy.com",
             "name": "光速资源",
-            "type": 0,
-            "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -259,8 +259,8 @@
         {
             "key": "hongniuziyuan.com",
             "name": "红牛资源",
-            "type": 0,
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -350,8 +350,8 @@
         {
             "key": "ikunzy.com",
             "name": "iKun资源",
-            "type": 0,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml/",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -439,8 +439,8 @@
         {
             "key": "kuaichezy.com",
             "name": "快车资源",
-            "type": 0,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml/",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -477,8 +477,8 @@
         {
             "key": "lzizy.net",
             "name": "量子资源",
-            "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -506,8 +506,8 @@
         {
             "key": "moduzy.cc",
             "name": "魔都资源",
-            "type": 0,
-            "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -574,8 +574,8 @@
         {
             "key": "shandianzy.com",
             "name": "闪电资源",
-            "type": 0,
-            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml/",
+            "type": 1,
+            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -605,8 +605,8 @@
         {
             "key": "suonizy.com",
             "name": "索尼资源",
-            "type": 0,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
             "quickSearch": 1,
             "searchable": 0,
             "categories": [
@@ -1022,8 +1022,8 @@
         {
             "key": "bdzy.tv[需要代理]",
             "name": "百度资源",
-            "type": 0,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
