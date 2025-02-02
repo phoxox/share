@@ -348,10 +348,10 @@
             ]
         },
         {
-            "key": "ikunzy.net",
+            "key": "ikunzy.com",
             "name": "iKun资源",
-            "type": 1,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -606,9 +606,9 @@
             "key": "suonizy.com",
             "name": "索尼资源",
             "type": 0,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
             "quickSearch": 1,
-            "searchable": 1,
+            "searchable": 0,
             "categories": [
                 "国产剧",
                 "韩剧",
@@ -702,7 +702,7 @@
             ]
         },
         {
-            "key": "www.ukuzy.com/help/",
+            "key": "ukuzy.com/help/",
             "name": "U酷资源",
             "type": 1,
             "api": "https://api.ukuapi88.com/api.php/provide/vod/",
