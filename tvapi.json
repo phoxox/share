@@ -1,10 +1,6 @@
 {
     "warningText": "接口完全免费,切勿付费购买",
-    "wallpaper": [
-        "./wallpaper/1280x720-yankees-blue-dark.jpg",
-        "./wallpaper/1280x720-yankees-blue-bk.jpg",
-        "./wallpaper/1280x720-smoky-black.jpg"
-    ],
+    "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
     "spider": "./jar/spiderman.jar?md5;41c87635d7592069884a5dafa12acabe",
     "//": [
         {
