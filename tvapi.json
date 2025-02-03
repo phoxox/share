@@ -22,15 +22,6 @@
             "api": "csp_Douban",
             "ext": "./json/douban.json",
             "searchable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_豆瓣",
-            "name": "豆瓣[js]",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/drpy.js",
-            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
         },
