@@ -1000,22 +1000,6 @@
                 "西方伦理",
                 "港台三级"
             ]
-        },
-        {
-            "key": "bdzy.tv[需要代理]",
-            "name": "百度资源",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "yhzy.cc[需要代理]",
-            "name": "樱花资源",
-            "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
         }
     ],
     "lives": [
