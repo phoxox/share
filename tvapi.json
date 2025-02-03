@@ -15,15 +15,6 @@
     ],
     "sites": [
         {
-            "key": "www.xb6v.com",
-            "name": "新6V电影",
-            "type": 3,
-            "api": "csp_Xb6v",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "360zy.com",
             "name": "360资源",
             "type": 1,
