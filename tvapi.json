@@ -590,7 +590,7 @@
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
             "quickSearch": 1,
-            "searchable": 0,
+            "searchable": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
