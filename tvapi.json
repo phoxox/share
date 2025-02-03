@@ -1,6 +1,7 @@
 {
     "warningText": "接口完全免费,切勿付费购买",
     "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
+    "spider": "./jar/bugs.jar;md5;fcd3be29030c912a28d7a205a88f749d",
     "//": [
         {
             "type": "0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
@@ -14,6 +15,15 @@
         }
     ],
     "sites": [
+        {
+            "key": "豆瓣热播",
+            "name": "豆瓣热播",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
         {
             "key": "360zy.com",
             "name": "360资源",
