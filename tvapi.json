@@ -25,6 +25,17 @@
             "filterable": 0
         },
         {
+            "key": "新6V",
+            "name": "新6V磁力",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.xb6v.com/",
+            "timeout": 60
+        },
+        {
             "key": "360zy.com",
             "name": "360资源",
             "type": 1,
