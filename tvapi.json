@@ -135,8 +135,8 @@
         {
             "key": "http://ffzy.tv",
             "name": "非凡资源",
-            "type": 1,
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+            "type": 0,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -986,8 +986,8 @@
         {
             "key": "yayazy.net",
             "name": "鸭鸭资源",
-            "type": 1,
-            "api": "https://cj.yayazy.net/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/at/xml",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
