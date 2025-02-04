@@ -96,7 +96,7 @@
         },
         {
             "key": "dbzy.tv",
-            "name": "📺豆瓣资源",
+            "name": "🌶️豆瓣资源",
             "type": 1,
             "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/",
             "searchable": 1,
@@ -192,7 +192,7 @@
         },
         {
             "key": "heimuer.tv",
-            "name": "🐨黑木耳tv",
+            "name": "🐼黑木耳tv",
             "type": 1,
             "api": "https://xml.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
@@ -313,7 +313,7 @@
         },
         {
             "key": "huaweiba.live/help/",
-            "name": "🐼华为吧源",
+            "name": "🦀华为吧源",
             "type": 1,
             "api": "https://cjhwba.com/api.php/provide/vod/",
             "searchable": 1,
@@ -410,7 +410,7 @@
         },
         {
             "key": "jisuzy.tv",
-            "name": "🛰️极速资源",
+            "name": "✈极速资源",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -574,7 +574,7 @@
         },
         {
             "key": "shandianzy.com",
-            "name": "⛈闪电资源",
+            "name": "⚡闪电资源",
             "type": 1,
             "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/",
             "searchable": 1,
@@ -733,7 +733,7 @@
         },
         {
             "key": "wolongzy.cc",
-            "name": "🐉卧龙资源",
+            "name": "🐲卧龙资源",
             "type": 1,
             "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
             "searchable": 1,
@@ -948,7 +948,7 @@
         },
         {
             "key": "niuniuzy.cc",
-            "name": "🐄牛牛资源",
+            "name": "🐮牛牛资源",
             "type": 1,
             "api": "https://api.niuniuzy.me/api.php/provide/vod/",
             "searchable": 1,
