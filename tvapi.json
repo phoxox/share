@@ -136,7 +136,7 @@
             "key": "http://ffzy.tv",
             "name": "非凡资源",
             "type": 0,
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -478,8 +478,8 @@
         {
             "key": "lzizy.net",
             "name": "量子资源",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -606,8 +606,8 @@
         {
             "key": "suonizy.com",
             "name": "索尼资源",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "type": 0,
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
             "quickSearch": 1,
             "searchable": 1,
             "categories": [
