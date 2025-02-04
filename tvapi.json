@@ -26,7 +26,7 @@
         },
         {
             "key": "新6V",
-            "name": "新6V磁力",
+            "name": "🧲新6V磁力",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
@@ -67,7 +67,7 @@
         },
         {
             "key": "publish.bfzy.tv",
-            "name": "暴风资源",
+            "name": "🌪️暴风资源",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -134,7 +134,7 @@
         },
         {
             "key": "http://ffzy.tv",
-            "name": "非凡资源",
+            "name": "🥗非凡资源",
             "type": 0,
             "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml",
             "searchable": 1,
@@ -227,7 +227,7 @@
         },
         {
             "key": "hhzyapi.com/help/",
-            "name": "豪华资源",
+            "name": "🦊豪华资源",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -285,7 +285,7 @@
         },
         {
             "key": "huyazy.com",
-            "name": "虎牙资源",
+            "name": "🐯虎牙资源",
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/at/json/",
             "searchable": 1,
@@ -477,7 +477,7 @@
         },
         {
             "key": "lzizy.net",
-            "name": "量子资源",
+            "name": "🥑量子资源",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
@@ -605,7 +605,7 @@
         },
         {
             "key": "suonizy.com",
-            "name": "索尼资源",
+            "name": "🐉索尼资源",
             "type": 0,
             "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
             "quickSearch": 1,
