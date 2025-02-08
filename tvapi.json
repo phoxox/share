@@ -22,6 +22,7 @@
             "api": "csp_Douban",
             "ext": "./json/douban.json",
             "searchable": 0,
+            "quickSearch": 1,
             "changeable": 1
         },
         {
@@ -30,6 +31,7 @@
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
             "timeout": 60
         },
