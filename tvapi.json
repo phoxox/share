@@ -22,17 +22,15 @@
             "api": "csp_Douban",
             "ext": "./json/douban.json",
             "searchable": 0,
-            "quickSearch": 1,
-            "changeable": 1
+            "quickSearch": 1
         },
         {
             "key": "新6V",
             "name": "🧲新6V磁力",
             "type": 3,
             "api": "csp_Xb6v",
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 1,
-            "changeable": 0,
             "timeout": 60
         },
         {
