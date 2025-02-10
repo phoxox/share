@@ -1019,6 +1019,14 @@
                 "西方伦理",
                 "港台三级"
             ]
+        },
+        {
+            "key": "百度资源",
+            "name": "🐾百度资源",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8",
+            "searchable": 1,
+            "quickSearch": 1
         }
     ],
     "flags": [
