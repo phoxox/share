@@ -1123,7 +1123,7 @@
             ]
         },
         {
-            "name": "DNS.Watch",
+            "name": "DNS-Watch",
             "url": "https://resolver2.dns.watch/dns-query",
             "ips": [
                 "84.200.69.80",
