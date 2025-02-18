@@ -135,8 +135,9 @@
         {
             "key": "http://ffzy.tv",
             "name": "🛸非凡资源",
-            "type": 1,
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "playUrl": "json:https://svip.ffzyplay.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
