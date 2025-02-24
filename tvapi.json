@@ -1113,7 +1113,7 @@
             ]
         },
         {
-            "name": "Google",
+            "name": "Google-DNS",
             "url": "https://dns.google/dns-query",
             "ips": [
                 "8.8.4.4",
