@@ -1105,6 +1105,22 @@
     ],
     "doh": [
         {
+            "name": "阿里DNS",
+            "url": "https://dns.alidns.com/dns-query",
+            "ips": [
+                "223.5.5.5",
+                "223.6.6.6"
+            ]
+        },
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
             "name": "Cloudflare",
             "url": "https://cloudflare-dns.com/dns-query",
             "ips": [
