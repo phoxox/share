@@ -1038,6 +1038,14 @@
             ]
         },
         {
+            "key": "天翼资源",
+            "name": "🛩️天翼资源",
+            "type": 1,
+            "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
             "key": "百度资源",
             "name": "🐾百度资源",
             "type": 0,
