@@ -1072,6 +1072,14 @@
                 "西方伦理",
                 "港台三级"
             ]
+        },
+        {
+            "key": "xinlangapi.com",
+            "name": "🌊新浪资源",
+            "type": 0,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1
         }
     ],
     "flags": [
