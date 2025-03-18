@@ -201,7 +201,7 @@
         },
         {
             "key": "guangsuzy.com",
-            "name": "🚀光速资源",
+            "name": "☄光速资源",
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -447,7 +447,7 @@
         },
         {
             "key": "jisuzy.tv",
-            "name": "✈极速资源",
+            "name": "🚀极速资源",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/",
             "searchable": 1,
