@@ -1074,6 +1074,14 @@
             ]
         },
         {
+            "key": "lovedan.net",
+            "name": "🏉艾旦影视",
+            "type": 1,
+            "api": "https://www.lovedan.net/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
             "key": "xinlangapi.com",
             "name": "🌊新浪资源",
             "type": 0,
