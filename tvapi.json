@@ -1078,8 +1078,16 @@
             "name": "🏉艾旦影视",
             "type": 1,
             "api": "https://www.lovedan.net/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "fczy888.com",
+            "name": "🐝蜂巢片库",
+            "type": 1,
+            "api": "https://api.fczy888.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
         },
         {
             "key": "xinlangapi.com",
