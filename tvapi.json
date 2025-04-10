@@ -790,6 +790,14 @@
             ]
         },
         {
+            "key": "tianyi",
+            "name": "🛰️天翼",
+            "type": 1,
+            "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "ukuzy.com/help/",
             "name": "👉U酷资源",
             "type": 1,
