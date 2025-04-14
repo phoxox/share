@@ -1154,6 +1154,14 @@
             "quickSearch": 1
         },
         {
+            "key": "wuxianzy.com",
+            "name": "🔭无线资源",
+            "type": 0,
+            "api": "https://api.wuxianzy.net/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "xinlangapi.com",
             "name": "🌊新浪资源",
             "type": 0,
