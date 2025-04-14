@@ -1146,6 +1146,14 @@
             "quickSearch": 1
         },
         {
+            "key": "jinchan",
+            "name": "🐞金蝉官采",
+            "type": 1,
+            "api": "http://jczy.jinchan.pro/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "xinlangapi.com",
             "name": "🌊新浪资源",
             "type": 0,
