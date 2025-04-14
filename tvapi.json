@@ -35,6 +35,15 @@
             "timeout": 60
         },
         {
+            "key": "獨播",
+            "name": "獨播",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/duboku.json"
+        },
+        {
             "key": "360zy.com",
             "name": "⭕360资源",
             "type": 1,
