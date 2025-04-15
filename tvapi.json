@@ -548,7 +548,7 @@
         },
         {
             "key": "lzizy.net",
-            "name": "☢💫量子资源",
+            "name": "💫量子资源",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
@@ -653,7 +653,7 @@
         },
         {
             "key": "如意资源",
-            "name": "🥐🍡如意资源",
+            "name": "🍡如意资源",
             "type": 0,
             "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
@@ -1139,7 +1139,7 @@
         },
         {
             "key": "lovedan.net",
-            "name": "🏉🐣🥚艾旦影视",
+            "name": "🐣艾旦影视",
             "type": 1,
             "api": "https://www.lovedan.net/api.php/provide/vod/",
             "searchable": 1,
