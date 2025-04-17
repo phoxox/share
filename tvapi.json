@@ -511,8 +511,8 @@
         {
             "key": "kuaichezy.com",
             "name": "🚕快车资源",
-            "type": 1,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
+            "type": 0,
+            "api": "https://caiji.kuaichezy.org/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -1138,14 +1138,6 @@
             ]
         },
         {
-            "key": "lovedan.net",
-            "name": "🐣艾旦影视",
-            "type": 1,
-            "api": "https://www.lovedan.net/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "jinchan",
             "name": "🐞金蝉官采",
             "type": 1,
@@ -1158,6 +1150,14 @@
             "name": "🔭无线资源",
             "type": 0,
             "api": "https://api.wuxianzy.net/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "lovedan.net",
+            "name": "🐣艾旦影视",
+            "type": 1,
+            "api": "https://www.lovedan.net/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
