@@ -510,7 +510,7 @@
         },
         {
             "key": "kuaichezy.com",
-            "name": "🚗快车资源",
+            "name": "🚕快车资源",
             "type": 1,
             "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
             "searchable": 1,
