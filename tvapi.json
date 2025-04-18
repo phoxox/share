@@ -132,10 +132,10 @@
             ]
         },
         {
-            "key": "dbzy.tv",
-            "name": "🥒豆瓣资源",
+            "key": "doubanziyuan.com",
+            "name": "📺豆瓣资源",
             "type": 1,
-            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/",
+            "api": "https://caiji.doubanziyuan.com/api.php/provide/vod/from/dbm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
