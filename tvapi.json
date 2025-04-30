@@ -208,6 +208,7 @@
             "name": "🛸非凡资源",
             "type": 0,
             "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "playurl": "json:https://svip.ffzyplay.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
