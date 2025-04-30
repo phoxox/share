@@ -208,7 +208,7 @@
             "name": "🛸非凡资源",
             "type": 0,
             "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
-            "playurl": "json:https://svip.ffzyplay.com/?url=",
+            "playUrl": "https://svip.ffzyplay.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -552,7 +552,7 @@
             "name": "💫量子资源",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "playurl": "json:https://lziplayer.com/?url=",
+            "playUrl": "https://lziplayer.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
