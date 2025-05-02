@@ -1329,14 +1329,15 @@
                 "bfengbf"
             ],
             "regex": [
-                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
-            "name": "非凡去广告",
+            "name": "非凡广告",
             "hosts": [
                 "vip.ffzy",
-                "hd.ffzy"
+                "hd.ffzy",
+                "ffzy"
             ],
             "regex": [
                 "6.666667",
@@ -1347,33 +1348,17 @@
             ]
         },
         {
-            "name": "非凡广告",
-            "hosts": [
-                "vip.ffzy",
-                "hd.ffzy",
-                ".ffzy*",
-                "super.ffzy",
-                "super.ffzy*",
-                "svipsvip.ffzy",
-                "*.ffzy*"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY(?:\n.*?){8}\n#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY(?:\n(?!#EXT-X-DISCONTINUITY).*){10}\n#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
             "name": "量子广告",
             "hosts": [
-                "vip.lz*",
-                "hd.lz*",
-                ".cdnlz",
-                ".cdnlz*"
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz",
+                "yzzy1.play"
             ],
             "regex": [
-                "#EXTINF.*?\\s+[a-z0-9]{18,}\\.ts",
-                "[a-z0-9]{18,}\\.ts\\s+",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18,}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "18.5333",
+                "19.52",
+                "18.6666"
             ]
         },
         {
