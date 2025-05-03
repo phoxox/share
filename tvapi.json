@@ -239,7 +239,7 @@
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "categories": [
                 "大陆剧",
                 "韩剧",
@@ -302,7 +302,7 @@
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "categories": [
                 "内地剧",
                 "韩剧",
@@ -360,7 +360,7 @@
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/at/json/",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "categories": [
                 "内地剧",
                 "韩剧",
@@ -458,7 +458,7 @@
             "type": 1,
             "api": "https://jyzyapi.com/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "categories": [
                 "内地剧",
                 "韩剧",
