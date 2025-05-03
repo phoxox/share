@@ -1,8 +1,10 @@
 {
     "warningText": "资源接口完全免费,切勿付费购买",
     "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
-    "spider": "./jar/spiderman.jar;md5;41c87635d7592069884a5dafa12acabe",
-    "//": [
+    "//comments": [
+        {
+            "spider": "./jar/spiderman.jar;md5;41c87635d7592069884a5dafa12acabe"
+        },
         {
             "type": "0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
             "api": "https://www.xxx.com/api.php/provide/vod/",
@@ -13,9 +15,7 @@
             "indexs": "是否聚搜? 0-预设值 0-关闭 1-启用",
             "rules": "新增配置proxy,判断host是否走代理",
             "ads": "设置解析播放时webview过滤的广告"
-        }
-    ],
-    "sites": [
+        },
         {
             "key": "豆瓣热播",
             "name": "🏆豆瓣热播",
@@ -33,7 +33,9 @@
             "searchable": 0,
             "quickSearch": 1,
             "timeout": 60
-        },
+        }
+    ],
+    "sites": [
         {
             "key": "360zy.com",
             "name": "⭕360资源",
