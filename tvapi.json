@@ -3,9 +3,7 @@
     "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
     "//comments": [
         {
-            "spider": "./jar/spiderman.jar;md5;41c87635d7592069884a5dafa12acabe"
-        },
-        {
+            "spider": "./jar/spiderman.jar;md5;41c87635d7592069884a5dafa12acabe",
             "type": "0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
             "api": "https://www.xxx.com/api.php/provide/vod/",
             "playerType": "0-system 1-ijk 2-exo",
@@ -15,24 +13,6 @@
             "indexs": "是否聚搜? 0-预设值 0-关闭 1-启用",
             "rules": "新增配置proxy,判断host是否走代理",
             "ads": "设置解析播放时webview过滤的广告"
-        },
-        {
-            "key": "豆瓣热播",
-            "name": "🏆豆瓣热播",
-            "type": 3,
-            "api": "csp_Douban",
-            "ext": "./json/douban.json",
-            "searchable": 0,
-            "quickSearch": 1
-        },
-        {
-            "key": "新6V",
-            "name": "🧲新6V磁力",
-            "type": 3,
-            "api": "csp_Xb6v",
-            "searchable": 0,
-            "quickSearch": 1,
-            "timeout": 60
         }
     ],
     "sites": [
@@ -134,10 +114,10 @@
             ]
         },
         {
-            "key": "doubanziyuan.com",
+            "key": "dbzy.com",
             "name": "📺豆瓣资源",
             "type": 1,
-            "api": "https://caiji.doubanziyuan.com/api.php/provide/vod/from/dbm3u8/",
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -1180,6 +1160,14 @@
             "quickSearch": 1
         },
         {
+            "key": "mtzy.me",
+            "name": "🍷茅台资源",
+            "type": 0,
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "wuxianzy.com",
             "name": "🔭无线资源",
             "type": 0,
@@ -1192,30 +1180,6 @@
             "name": "🐣艾旦影视",
             "type": 1,
             "api": "https://www.lovedan.net/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "mtzy.me",
-            "name": "🍷茅台资源",
-            "type": 0,
-            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "yhzy.cc",
-            "name": "🌸樱花资源",
-            "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "xinlangapi.com",
-            "name": "🌊新浪资源",
-            "type": 0,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1
         }
