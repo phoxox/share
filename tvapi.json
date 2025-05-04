@@ -738,8 +738,8 @@
         {
             "key": "如意资源",
             "name": "🍡如意资源",
-            "type": 0,
-            "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
