@@ -216,6 +216,36 @@
             ]
         },
         {
+            "key": "ffzy1.tv",
+            "name": "🛸非凡备用",
+            "type": 1,
+            "api": "http://ffzy1.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "欧美剧",
+                "海外剧",
+                "香港剧",
+                "台湾剧",
+                "泰国剧",
+                "剧情片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "动作片",
+                "爱情片",
+                "战争片",
+                "记录片",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "伦理片"
+            ]
+        },
+        {
             "key": "guangsuzy.com",
             "name": "🚀光速资源",
             "type": 1,
@@ -1023,14 +1053,6 @@
             ]
         },
         {
-            "key": "xiaohuangren",
-            "name": "😀小黄人tv",
-            "type": 1,
-            "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "四个圈资源",
             "name": "🥨四圈资源",
             "type": 1,
@@ -1201,6 +1223,14 @@
             "name": "🔭无线资源",
             "type": 0,
             "api": "https://api.wuxianzy.net/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "xiaohuangren",
+            "name": "😀小黄人tv",
+            "type": 1,
+            "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
