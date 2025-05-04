@@ -664,32 +664,41 @@
             "quickSearch": 1
         },
         {
-            "key": "okzyw.vip",
-            "name": "👌ok资源网",
+            "key": "mtzy.me",
+            "name": "🍷茅台资源",
             "type": 1,
-            "api": "https://api.okzy.org/api.php/provide/vod/",
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
                 "国产剧",
                 "韩剧",
-                "日剧",
-                "港剧",
-                "台剧",
-                "泰剧",
+                "日本剧",
                 "欧美剧",
+                "香港剧",
+                "台湾剧",
                 "海外剧",
-                "剧情片",
+                "泰国剧",
                 "动作片",
-                "喜剧片",
                 "爱情片",
+                "喜剧片",
                 "科幻片",
                 "恐怖片",
-                "演唱会",
-                "动画片",
+                "剧情片",
                 "战争片",
+                "惊悚片",
                 "纪录片",
-                "伦理片"
+                "综艺片",
+                "伦理片",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "海外动漫",
+                "演唱会"
             ]
         },
         {
@@ -1211,26 +1220,10 @@
             "quickSearch": 1
         },
         {
-            "key": "mtzy.me",
-            "name": "🍷茅台资源",
-            "type": 0,
-            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "wuxianzy.com",
             "name": "🔭无线资源",
             "type": 0,
             "api": "https://api.wuxianzy.net/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "xiaohuangren",
-            "name": "😀小黄人tv",
-            "type": 1,
-            "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
