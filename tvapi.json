@@ -250,7 +250,7 @@
             "name": "🚀光速资源",
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 0,
             "categories": [
                 "大陆剧",
@@ -313,7 +313,7 @@
             "name": "🦊豪华资源",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 0,
             "categories": [
                 "内地剧",
@@ -371,7 +371,7 @@
             "name": "🐯虎牙资源",
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/at/json/",
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 0,
             "categories": [
                 "内地剧",
@@ -469,7 +469,7 @@
             "name": "🦅金鹰资源",
             "type": 1,
             "api": "https://jyzyapi.com/provide/vod/",
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 0,
             "categories": [
                 "内地剧",
