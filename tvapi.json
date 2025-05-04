@@ -51,8 +51,8 @@
         {
             "key": "bdzy.tv",
             "name": "🥽百度资源",
-            "type": 0,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -188,8 +188,8 @@
         {
             "key": "ffzy.tv",
             "name": "🛸非凡资源",
-            "type": 0,
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -523,8 +523,8 @@
         {
             "key": "kuaichezy.com",
             "name": "🚕快车资源",
-            "type": 0,
-            "api": "https://caiji.kuaichezy.org/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -809,8 +809,8 @@
         {
             "key": "suonizy.com",
             "name": "🎦索尼资源",
-            "type": 0,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/",
             "quickSearch": 1,
             "searchable": 1,
             "categories": [
@@ -1211,8 +1211,8 @@
         {
             "key": "yayazy.net",
             "name": "🦆鸭鸭资源",
-            "type": 0,
-            "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/at/xml",
+            "type": 1,
+            "api": "https://cj.yayazy.net/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -1256,8 +1256,8 @@
         {
             "key": "wuxianzy.com",
             "name": "🔭无线资源",
-            "type": 0,
-            "api": "https://api.wuxianzy.net/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://api.wuxianzy.net/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
