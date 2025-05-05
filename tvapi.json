@@ -666,7 +666,7 @@
         },
         {
             "key": "mozhuazy.com",
-            "name": "🦁魔爪资源",
+            "name": "🕷️魔爪资源",
             "type": 1,
             "api": "https://mozhuazy.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1264,7 +1264,7 @@
         },
         {
             "key": "wuxianzy.com",
-            "name": "🔭无线资源",
+            "name": "📡无线资源",
             "type": 1,
             "api": "https://api.wuxianzy.net/api.php/provide/vod/",
             "searchable": 1,
