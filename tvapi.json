@@ -17,8 +17,8 @@
     ],
     "sites": [
         {
-            "key": "Douban",
-            "name": "豆瓣榜单",
+            "key": "douban",
+            "name": "🥇豆瓣榜单",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
