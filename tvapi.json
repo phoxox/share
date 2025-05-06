@@ -1,30 +1,18 @@
 {
     "warningText": "资源接口完全免费,切勿付费购买",
     "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
-    "spider": "./jar/spiderman.jar;md5;41c87635d7592069884a5dafa12acabe",
-    "//comments": [
+    "//comments//": [
         {
+            "spider": "./jar/spiderman.jar;md5;41c87635d7592069884a5dafa12acabe",
             "type": "0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫",
-            "api": "https://www.xxx.com/api.php/provide/vod/",
+            "api": "https://www.xxx.com/api.php/provide/vod/at/xml/",
             "playerType": "0-system 1-ijk 2-exo",
             "quickSearch": "是否快搜? 1-预设值 0-关闭 1-启用",
             "searchable": "是否搜索? 1-预设值 0-关闭 1-启用",
-            "changeable": "是否换源? 1-预设值 0-关闭 1-启用",
-            "indexs": "是否聚搜? 0-预设值 0-关闭 1-启用",
-            "rules": "新增配置proxy,判断host是否走代理,去广告regex正数代表移除第一次出现的切片组,负数代表最后一次出现的切片组",
-            "ads": "设置解析播放时webview过滤的广告"
+            "changeable": "是否换源? 1-预设值 0-关闭 1-启用"
         }
     ],
     "sites": [
-        {
-            "key": "douban",
-            "name": "🥇豆瓣榜单",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "ext": "./json/douban.json"
-        },
         {
             "key": "360zy.com",
             "name": "⭕360资源",
