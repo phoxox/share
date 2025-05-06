@@ -1271,6 +1271,14 @@
             "quickSearch": 1
         },
         {
+            "key": "http://dyttzyw.tv/",
+            "name": "🎬电影天堂",
+            "type": 0,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "lovedan.net",
             "name": "🐣艾旦影视",
             "type": 1,
