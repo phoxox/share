@@ -1306,8 +1306,8 @@
         {
             "key": "yhzy.cc",
             "name": "🌸樱花资源",
-            "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "type": 0,
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1
         }
