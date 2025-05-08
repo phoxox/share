@@ -1310,7 +1310,35 @@
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/",
             "playUrl": "json:https://jx.yhzybf.com/player/jx.php?url=",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "香港剧",
+                "台湾剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "犯罪片",
+                "纪录片",
+                "战争片",
+                "伦理片",
+                "动画电影",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "海外动漫"
+            ]
         }
     ],
     "flags": [
