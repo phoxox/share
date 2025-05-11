@@ -1365,8 +1365,7 @@
             "name": "非凡广告",
             "hosts": [
                 "vip.ffzy",
-                "hd.ffzy",
-                "ffzy"
+                "hd.ffzy"
             ],
             "regex": [
                 "6.666667",
