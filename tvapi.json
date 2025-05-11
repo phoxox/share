@@ -1362,6 +1362,16 @@
             ]
         },
         {
+            "name": "360",
+            "hosts": [
+                "lyhuicheng"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+                "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
             "name": "暴风广告",
             "hosts": [
                 "bfzy",
@@ -1369,7 +1379,8 @@
                 "bfengbf"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
@@ -1413,14 +1424,12 @@
         {
             "name": "索尼广告",
             "hosts": [
-                "suonizy"
+                "suonizy",
+                "qrssv.com"
             ],
             "regex": [
-                "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
                 "15.1666",
-                "15.2666",
-                "16.3333",
-                "15.266667"
+                "15.2666"
             ]
         },
         {
@@ -1430,6 +1439,19 @@
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "优质广告",
+            "hosts": [
+                "yzzy",
+                "playback"
+            ],
+            "regex": [
+                "16.63",
+                "18.66",
+                "17.66",
+                "19.13"
             ]
         },
         {
