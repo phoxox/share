@@ -8,8 +8,7 @@
             "api": "https://www.xxx.com/api.php/provide/vod/at/xml/",
             "playerType": "0-system 1-ijk 2-exo",
             "quickSearch": "是否快搜? 1-预设值 0-关闭 1-启用",
-            "searchable": "是否搜索? 1-预设值 0-关闭 1-启用",
-            "changeable": "是否换源? 1-预设值 0-关闭 1-启用"
+            "searchable": "是否搜索? 1-预设值 0-关闭 1-启用"
         }
     ],
     "sites": [
@@ -1339,7 +1338,7 @@
             ]
         },
         {
-            "name": "海外看",
+            "name": "海外广告",
             "hosts": [
                 "haiwaikan"
             ],
@@ -1405,9 +1404,10 @@
             ]
         },
         {
-            "name": "qihubf",
+            "name": "博彩广告",
             "hosts": [
-                "qihubf"
+                "qihubf",
+                "qihuibs"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=AES-128",
