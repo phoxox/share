@@ -45,8 +45,8 @@
         {
             "key": "ffzy1.tv",
             "name": "🛸非凡备用",
-            "type": 1,
-            "api": "http://ffzy5.tv/api.php/provide/vod/",
+            "type": 0,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
