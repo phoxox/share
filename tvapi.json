@@ -1325,6 +1325,18 @@
             "url": "https://bd.jx.cn/?url="
         },
         {
+            "name": "无尽",
+            "type": 0,
+            "url": "https://jx.wujinkk.com/dplayer/?url=",
+            "ext":
+            {
+                "header":
+                {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+        {
             "name": "解析2",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
