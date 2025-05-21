@@ -14,7 +14,7 @@
     "sites": [
         {
             "key": "ffzy.tv",
-            "name": "🛸非凡资源",
+            "name": "非凡资源",
             "type": 1,
             "api": "https://api.ffzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -44,7 +44,7 @@
         },
         {
             "key": "ffzy1.tv",
-            "name": "🛸非凡备用",
+            "name": "非凡备用",
             "type": 0,
             "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
             "searchable": 1,
@@ -74,7 +74,7 @@
         },
         {
             "key": "lzizy.net",
-            "name": "💫量子资源",
+            "name": "量子资源",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -103,7 +103,7 @@
         },
         {
             "key": "Lzizy1.com",
-            "name": "💫量子备用",
+            "name": "量子备用",
             "type": 1,
             "api": "https://lzizy1.com/api.php/provide/vod/",
             "searchable": 1,
@@ -132,7 +132,7 @@
         },
         {
             "key": "suonizy.com",
-            "name": "🎦索尼资源",
+            "name": "索尼资源",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/",
             "quickSearch": 1,
@@ -165,7 +165,7 @@
         },
         {
             "key": "ikunzy.com",
-            "name": "🦘iKun资源",
+            "name": "iKun资源",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -198,7 +198,7 @@
         },
         {
             "key": "wolongzy.cc",
-            "name": "🐲卧龙资源",
+            "name": "卧龙资源",
             "type": 1,
             "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
             "searchable": 1,
@@ -232,7 +232,7 @@
         },
         {
             "key": "如意资源",
-            "name": "🍡如意资源",
+            "name": "如意资源",
             "type": 1,
             "api": "https://cj.rycjapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -272,7 +272,7 @@
         },
         {
             "key": "yzzy.tv",
-            "name": "💯优质资源",
+            "name": "优质资源",
             "type": 1,
             "api": "https://api.yzzy-api.com/inc/apijson.php",
             "quickSearch": 1,
@@ -297,7 +297,7 @@
         },
         {
             "key": "ukuzy.com/help/",
-            "name": "👉U酷资源",
+            "name": "U酷资源",
             "type": 1,
             "api": "https://api.ukuapi88.com/api.php/provide/vod/",
             "searchable": 1,
@@ -326,7 +326,7 @@
         },
         {
             "key": "hhzyapi.com/help/",
-            "name": "🦊豪华资源",
+            "name": "豪华资源",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/",
             "searchable": 0,
@@ -358,7 +358,7 @@
         },
         {
             "key": "huaweiba.live/help/",
-            "name": "🦀华为吧源",
+            "name": "华为吧源",
             "type": 1,
             "api": "https://cjhwba.com/api.php/provide/vod/",
             "searchable": 1,
@@ -395,7 +395,7 @@
         },
         {
             "key": "360zy.com",
-            "name": "⭕360资源",
+            "name": "360资源",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod/",
             "searchable": 1,
@@ -427,7 +427,7 @@
         },
         {
             "key": "publish.bfzy.tv",
-            "name": "💨暴风资源",
+            "name": "暴风资源",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -456,7 +456,7 @@
         },
         {
             "key": "mozhuazy.com",
-            "name": "🕷️魔爪资源",
+            "name": "魔爪资源",
             "type": 1,
             "api": "https://mozhuazy.com/api.php/provide/vod/",
             "searchable": 1,
@@ -497,7 +497,7 @@
         },
         {
             "key": "bdzy.tv",
-            "name": "👀百度资源",
+            "name": "百度资源",
             "type": 1,
             "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "searchable": 1,
@@ -533,7 +533,7 @@
         },
         {
             "key": "dbzy.com",
-            "name": "📺豆瓣资源",
+            "name": "豆瓣资源",
             "type": 1,
             "api": "https://caiji.dbzy5.com/api.php/provide/vod/",
             "searchable": 1,
@@ -571,7 +571,7 @@
         },
         {
             "key": "http://dyttzyw.tv/",
-            "name": "🎬电影天堂",
+            "name": "电影天堂",
             "type": 1,
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -608,7 +608,7 @@
         },
         {
             "key": "fczy888.com",
-            "name": "🐝蜂巢片库",
+            "name": "蜂巢片库",
             "type": 1,
             "api": "https://api.fczy888.me/api.php/provide/vod/",
             "searchable": 1,
@@ -642,7 +642,7 @@
         },
         {
             "key": "guangsuzy.com",
-            "name": "🚀光速资源",
+            "name": "光速资源",
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 0,
@@ -670,7 +670,7 @@
         },
         {
             "key": "heimuer.tv",
-            "name": "🐼黑木耳源",
+            "name": "黑木耳源",
             "type": 1,
             "api": "https://xml.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
@@ -705,7 +705,7 @@
         },
         {
             "key": "hongniuziyuan.com",
-            "name": "🐂红牛资源",
+            "name": "红牛资源",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 1,
@@ -731,7 +731,7 @@
         },
         {
             "key": "huyazy.com",
-            "name": "🐯虎牙资源",
+            "name": "虎牙资源",
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/",
             "searchable": 0,
@@ -759,7 +759,7 @@
         },
         {
             "key": "jinyingzy.net",
-            "name": "🦅金鹰资源",
+            "name": "金鹰资源",
             "type": 1,
             "api": "https://jyzyapi.com/provide/vod/",
             "searchable": 0,
@@ -786,7 +786,7 @@
         },
         {
             "key": "jisuzy.tv",
-            "name": "✈️极速资源",
+            "name": "极速资源",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -815,7 +815,7 @@
         },
         {
             "key": "kuaichezy.com",
-            "name": "🚕快车资源",
+            "name": "快车资源",
             "type": 1,
             "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
             "searchable": 1,
@@ -853,7 +853,7 @@
         },
         {
             "key": "moduzy.cc",
-            "name": "🏰魔都资源",
+            "name": "魔都资源",
             "type": 1,
             "api": "https://www.mdzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -892,7 +892,7 @@
         },
         {
             "key": "mtzy.me",
-            "name": "🍷茅台资源",
+            "name": "茅台资源",
             "type": 1,
             "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
             "searchable": 1,
@@ -930,7 +930,7 @@
         },
         {
             "key": "shandianzy.com",
-            "name": "⚡闪电资源",
+            "name": "闪电资源",
             "type": 1,
             "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -961,7 +961,7 @@
         },
         {
             "key": "subozy.com",
-            "name": "📽速播资源",
+            "name": "速播资源",
             "type": 1,
             "api": "https://subocaiji.com/api.php/provide/vod/",
             "searchable": 1,
@@ -992,7 +992,7 @@
         },
         {
             "key": "www.911ysw.top",
-            "name": "🛰️天翼资源",
+            "name": "天翼资源",
             "type": 1,
             "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
             "searchable": 1,
@@ -1022,7 +1022,7 @@
         },
         {
             "key": "wujinzy.com",
-            "name": "♾️无尽资源",
+            "name": "无尽资源",
             "type": 1,
             "api": "https://api.wujinapi.me/api.php/provide/vod/",
             "searchable": 1,
@@ -1056,7 +1056,7 @@
         },
         {
             "key": "zuidazy.com",
-            "name": "🔎最大资源",
+            "name": "最大资源",
             "type": 1,
             "api": "https://api.zuidapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1094,7 +1094,7 @@
         },
         {
             "key": "四个圈资源",
-            "name": "🥨四圈资源",
+            "name": "四圈资源",
             "type": 1,
             "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
             "searchable": 1,
@@ -1119,7 +1119,7 @@
         },
         {
             "key": "飘零影视",
-            "name": "❄飘零影视",
+            "name": "飘零影视",
             "type": 1,
             "api": "https://p2100.net/api.php/provide/vod/",
             "searchable": 1,
@@ -1146,7 +1146,7 @@
         },
         {
             "key": "niuniuzy.cc",
-            "name": "🐮牛牛资源",
+            "name": "牛牛资源",
             "type": 1,
             "api": "https://api.niuniuzy.me/api.php/provide/vod/",
             "searchable": 1,
@@ -1183,7 +1183,7 @@
         },
         {
             "key": "yayazy.net",
-            "name": "🦆鸭鸭资源",
+            "name": "鸭鸭资源",
             "type": 1,
             "api": "https://cj.yayazy.net/api.php/provide/vod/",
             "searchable": 1,
@@ -1220,15 +1220,39 @@
         },
         {
             "key": "wuxianzy.com",
-            "name": "📡无线资源",
+            "name": "无线资源",
             "type": 1,
             "api": "https://api.wuxianzy.net/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
         {
+            "key": "iqiyizyapi.com",
+            "name": "奇艺资源",
+            "type": 1,
+            "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "api.yzzy-api.com",
+            "name": "柚子资源",
+            "type": 0,
+            "api": "https://api.yzzy-api.com/inc/api.php",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "wyvod.com",
+            "name": "无忧资源",
+            "type": 1,
+            "api": "https://www.wyvod.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "lovedan.net",
-            "name": "🐣艾旦影视",
+            "name": "艾旦影视",
             "type": 1,
             "api": "https://www.lovedan.net/api.php/provide/vod/",
             "searchable": 1,
