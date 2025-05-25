@@ -1265,14 +1265,6 @@
             "api": "https://vs.okcdn100.top/api.php/provide/vod/"
         },
         {
-            "key": "haiwaikan",
-            "name": "海外资源",
-            "type": 1,
-            "api": "https://haiwaikan.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "api.yzzy-api.com",
             "name": "柚子资源",
             "type": 0,
