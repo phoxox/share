@@ -1265,6 +1265,12 @@
             "api": "https://vs.okcdn100.top/api.php/provide/vod/"
         },
         {
+            "key": "jmzy.com",
+            "name": "金马资源",
+            "type": 1,
+            "api": "https://api.jmzy.com/api.php/provide/vod/"
+        },
+        {
             "key": "api.yzzy-api.com",
             "name": "柚子资源",
             "type": 0,
