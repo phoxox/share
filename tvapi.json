@@ -1239,7 +1239,6 @@
             "name": "奇艺资源",
             "type": 1,
             "api": "https://www.iqiyizyapi.com/api.php/provide/vod/",
-            "playUrl": "json:https://www.iqiyizyjx.com/?url=",
             "searchable": 1,
             "quickSearch": 1
         },
