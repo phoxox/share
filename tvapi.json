@@ -1219,8 +1219,8 @@
       ]
     },
     {
-      "key": "iqiyizyapi.com",
-      "name": "奇艺资源",
+      "key": "iqiyizy.com",
+      "name": "爱奇艺源",
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod/",
       "searchable": 1,
