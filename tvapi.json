@@ -1285,8 +1285,8 @@
     {
       "key": "taopianapi.com",
       "name": "淘片资源",
-      "type": 0,
-      "api": "https://taopianapi.com/cjapi/sda/vod/xml.html",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
       "searchable": 1,
       "quickSearch": 1
     },
