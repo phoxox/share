@@ -1283,14 +1283,6 @@
       "quickSearch": 1
     },
     {
-      "key": "taopianapi.com",
-      "name": "淘片资源",
-      "type": 1,
-      "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "yhzy.cc",
       "name": "樱花资源",
       "type": 1,
