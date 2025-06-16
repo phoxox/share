@@ -1282,6 +1282,14 @@
       "quickSearch": 1
     },
     {
+      "key": "xinlangzy.com",
+      "name": "新浪资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "yhzy.cc",
       "name": "樱花资源",
       "type": 1,
