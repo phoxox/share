@@ -1326,7 +1326,7 @@
       "key": "xinlangzy.com",
       "name": "新浪资源",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
