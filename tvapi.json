@@ -298,7 +298,7 @@
     },
     {
       "key": "huaweiba.live/help/",
-      "name": "华为吧源",
+      "name": "华为吧资源",
       "type": 1,
       "api": "https://cjhwba.com/api.php/provide/vod/",
       "searchable": 1,
@@ -651,7 +651,7 @@
     },
     {
       "key": "heimuer.tv",
-      "name": "黑木耳源",
+      "name": "黑木耳资源",
       "type": 1,
       "api": "https://xml.heimuer.xyz/api.php/provide/vod/",
       "searchable": 1,
@@ -1198,8 +1198,8 @@
       ]
     },
     {
-      "key": "iqiyizy.com",
-      "name": "爱奇艺源",
+      "key": "www.iqiyizy.com",
+      "name": "爱奇艺资源",
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1316,7 +1316,7 @@
     },
     {
       "key": "okcdn100.top",
-      "name": "小绵羊源",
+      "name": "小绵羊资源",
       "type": 1,
       "api": "https://vs.okcdn100.top/api.php/provide/vod/",
       "searchable": 1,
