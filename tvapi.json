@@ -1307,6 +1307,14 @@
       "quickSearch": 1
     },
     {
+      "key": "wwzy.tv",
+      "name": "旺旺资源",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "lovedan.net",
       "name": "艾旦影视",
       "type": 1,
