@@ -13,14 +13,13 @@
   "lives": [
     {
       "name": "live",
-      "boot": false,
       "type": 0,
-      "url": "./tv.txt",
-      "playerType": 2,
+      "url": "https://epg.pw/test_channels.m3u",
+      "playerType": 1,
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://logo.ugigc.dpdns.org/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
