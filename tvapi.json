@@ -10,6 +10,19 @@
       "searchable": "是否搜索? 1-预设值 0-关闭 1-启用"
     }
   ],
+  "lives": [
+    {
+      "name": "live",
+      "boot": false,
+      "type": 0,
+      "url": "./tv.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://logo.ugigc.dpdns.org/{name}.png"
+    }
+  ],
   "sites": [
     {
       "key": "ffzy.tv",
