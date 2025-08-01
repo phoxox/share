@@ -711,7 +711,7 @@
       "name": "豪华资源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "categories": [
         "内地剧",
@@ -1042,7 +1042,7 @@
       "name": "虎牙资源",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "categories": [
         "内地剧",
@@ -1070,7 +1070,7 @@
       "name": "金鹰资源",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "categories": [
         "内地剧",
@@ -1196,7 +1196,7 @@
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn/",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "categories": [
         "大陆剧",
         "韩剧",
