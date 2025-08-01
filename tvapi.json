@@ -850,7 +850,7 @@
       "name": "光速资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "categories": [
         "大陆剧",
