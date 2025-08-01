@@ -12,7 +12,7 @@
   ],
   "sites": [
     {
-      "key": "ffzy.tv",
+      "key": "ffzy1.tv",
       "name": "非凡资源",
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
@@ -42,10 +42,10 @@
       ]
     },
     {
-      "key": "ffzy1.tv",
+      "key": "ffzy5.tv",
       "name": "非凡备用",
       "type": 1,
-      "api": "http://ffzy1.tv/api.php/provide/vod/",
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
