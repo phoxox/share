@@ -343,7 +343,7 @@
       "key": "360zy.com",
       "name": "360资源",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
+      "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -375,7 +375,7 @@
       "key": "yayazy.net",
       "name": "鸭鸭资源",
       "type": 1,
-      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -528,7 +528,7 @@
       "key": "suonizy.net",
       "name": "索尼资源",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
       "categories": [
@@ -563,7 +563,7 @@
       "key": "ryzy1.tv",
       "name": "如意资源",
       "type": 1,
-      "api": "https://ryzy1.tv/api.php/provide/vod/?ac=list",
+      "api": "https://ryzy1.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -674,7 +674,7 @@
       "key": "wujinzy.com",
       "name": "无尽资源",
       "type": 1,
-      "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -742,7 +742,7 @@
       "key": "ukuzy.com/help/",
       "name": "U酷资源",
       "type": 1,
-      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -912,7 +912,7 @@
       "key": "publish.bfzy.tv",
       "name": "暴风资源",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -941,7 +941,7 @@
       "key": "bdzy.tv",
       "name": "百度资源",
       "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -1096,7 +1096,7 @@
       "key": "jisuzy.tv",
       "name": "极速资源",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -1282,7 +1282,7 @@
       "key": "apiyhzy.com",
       "name": "樱花资源",
       "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     }
