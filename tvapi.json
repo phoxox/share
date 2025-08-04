@@ -15,7 +15,7 @@
       "key": "ffzy1.tv",
       "name": "非凡资源",
       "type": 1,
-      "api": "http://23.224.205.58:4477/api.php/provide/vod/",
+      "api": "http://www.ffzy2.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -45,7 +45,7 @@
       "key": "ffzy5.tv",
       "name": "非凡备用",
       "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "api": "http://www.ffzy5.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
