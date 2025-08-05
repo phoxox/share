@@ -343,7 +343,7 @@
       "key": "360zy.com",
       "name": "360资源",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/",
+      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -528,7 +528,7 @@
       "key": "suonizy.net",
       "name": "索尼资源",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "quickSearch": 1,
       "searchable": 1,
       "categories": [
@@ -603,7 +603,7 @@
       "key": "wolongzy.cc",
       "name": "卧龙资源",
       "type": 1,
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -742,7 +742,7 @@
       "key": "ukuzy.com/help/",
       "name": "U酷资源",
       "type": 1,
-      "api": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -912,7 +912,7 @@
       "key": "publish.bfzy.tv",
       "name": "暴风资源",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -941,7 +941,7 @@
       "key": "bdzy.tv",
       "name": "百度资源",
       "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -1096,7 +1096,7 @@
       "key": "jisuzy.tv",
       "name": "极速资源",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
