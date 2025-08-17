@@ -1279,6 +1279,14 @@
       "quickSearch": 1
     },
     {
+      "key": "maoyanzy.com",
+      "name": "猫眼资源",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "apiyhzy.com",
       "name": "樱花资源",
       "type": 1,
