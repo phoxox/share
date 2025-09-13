@@ -1296,14 +1296,6 @@
       "quickSearch": 0
     },
     {
-      "key": "taopianzy.com",
-      "name": "淘片资源",
-      "type": 1,
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "apiyhzy.com",
       "name": "樱花资源",
       "type": 1,
