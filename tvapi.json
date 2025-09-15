@@ -1043,14 +1043,6 @@
       ]
     },
     {
-      "key": "separator",
-      "name": "-分隔线-",
-      "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "huyazy.com",
       "name": "虎牙资源",
       "type": 1,
