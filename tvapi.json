@@ -1006,6 +1006,62 @@
       ]
     },
     {
+      "key": "wyvod.com",
+      "name": "无忧资源",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "www.911ysw.top",
+      "name": "天翼资源",
+      "type": 1,
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "okcdn100.top",
+      "name": "绵羊资源",
+      "type": 1,
+      "api": "https://vs.okcdn100.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "lovedan.net",
+      "name": "艾旦影视",
+      "type": 1,
+      "api": "https://www.lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "maoyanzy.com",
+      "name": "猫眼资源",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "caiji.jacloud.xyz:2096",
+      "name": "建安资源",
+      "type": 1,
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "apiyhzy.com",
+      "name": "樱花资源",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "huaweiba.live/help/",
       "name": "华为资源",
       "type": 1,
@@ -1246,62 +1302,6 @@
         "战争片",
         "伦理片"
       ]
-    },
-    {
-      "key": "wyvod.com",
-      "name": "无忧资源",
-      "type": 1,
-      "api": "https://www.wyvod.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "www.911ysw.top",
-      "name": "天翼资源",
-      "type": 1,
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "okcdn100.top",
-      "name": "绵羊资源",
-      "type": 1,
-      "api": "https://vs.okcdn100.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "lovedan.net",
-      "name": "艾旦影视",
-      "type": 1,
-      "api": "https://www.lovedan.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "maoyanzy.com",
-      "name": "猫眼资源",
-      "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "caiji.jacloud.xyz:2096",
-      "name": "建安资源",
-      "type": 1,
-      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "apiyhzy.com",
-      "name": "樱花资源",
-      "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 0,
-      "quickSearch": 0
     }
   ],
   "parses": [
