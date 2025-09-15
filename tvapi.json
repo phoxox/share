@@ -73,31 +73,6 @@
       ]
     },
     {
-      "key": "yzzy.tv",
-      "name": "优质资源",
-      "type": 1,
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "泰国剧",
-        "剧情片",
-        "动作片",
-        "恐怖片",
-        "爱情片",
-        "科幻片",
-        "喜剧片",
-        "战争片",
-        "伦理片"
-      ]
-    },
-    {
       "key": "lzizy.net",
       "name": "量子资源",
       "type": 1,
@@ -153,6 +128,31 @@
         "大陆综艺",
         "日韩综艺",
         "港台综艺"
+      ]
+    },
+    {
+      "key": "yzzy.tv",
+      "name": "优质资源",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "泰国剧",
+        "剧情片",
+        "动作片",
+        "恐怖片",
+        "爱情片",
+        "科幻片",
+        "喜剧片",
+        "战争片",
+        "伦理片"
       ]
     },
     {
