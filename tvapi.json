@@ -1046,6 +1046,7 @@
       "key": "separator",
       "name": "-分隔线-",
       "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0
     },
