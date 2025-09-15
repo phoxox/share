@@ -1102,7 +1102,7 @@
       "key": "huyazy.com",
       "name": "虎牙资源",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "api": "http://www.huyaapi.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "categories": [
