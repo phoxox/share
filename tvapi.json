@@ -1278,7 +1278,7 @@
       "key": "jisuzy.tv",
       "name": "极速资源",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "categories": [
