@@ -1136,8 +1136,8 @@
     {
       "key": "huyazy.com",
       "name": "虎牙资源",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "type": 0,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
       "searchable": 0,
       "quickSearch": 0,
       "categories": [
@@ -1164,8 +1164,8 @@
     {
       "key": "hhzyapi.com/help/",
       "name": "豪华资源",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "type": 0,
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 0,
       "quickSearch": 0,
       "categories": [
