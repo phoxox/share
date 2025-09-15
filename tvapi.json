@@ -1043,6 +1043,13 @@
       ]
     },
     {
+      "key": "separator",
+      "name": "-分隔线-",
+      "type": 1,
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "huyazy.com",
       "name": "虎牙资源",
       "type": 1,
