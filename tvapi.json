@@ -1042,7 +1042,7 @@
       "key": "huyazy.com",
       "name": "虎牙资源",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
