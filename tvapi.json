@@ -1042,9 +1042,9 @@
       "key": "huyazy.com",
       "name": "虎牙资源",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
       "categories": [
         "内地剧",
         "韩剧",
