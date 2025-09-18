@@ -1089,6 +1089,14 @@
       "quickSearch": 0
     },
     {
+      "key": "huyazy.com",
+      "name": "虎牙资源",
+      "type": 1,
+      "api": "http://www.huyaapi.com/api.php/provide/vod/at/json",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "apiyhzy.com",
       "name": "樱花资源",
       "type": 1,
