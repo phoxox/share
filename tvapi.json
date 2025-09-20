@@ -768,6 +768,35 @@
       ]
     },
     {
+      "key": "xinlangapi.com",
+      "name": "新浪资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "大陆剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "综艺",
+        "动漫",
+        "电影",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "喜剧片",
+        "纪录片",
+        "伦理片"
+      ]
+    },
+    {
       "key": "mozhuazy.com",
       "name": "魔爪资源",
       "type": 1,
@@ -949,35 +978,6 @@
         "日本动漫",
         "欧美动漫",
         "海外动漫"
-      ]
-    },
-    {
-      "key": "xinlangapi.com",
-      "name": "新浪资源",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "大陆剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "综艺",
-        "动漫",
-        "电影",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "纪录片",
-        "伦理片"
       ]
     },
     {
