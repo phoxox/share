@@ -6,8 +6,11 @@
       "name": "华为资源",
       "type": 1,
       "api": "https://cjhwba.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+      },
       "categories": [
         "国产剧",
         "韩剧",
@@ -36,62 +39,6 @@
         "伦理片",
         "动画电影",
         "综艺"
-      ]
-    },
-    {
-      "key": "huyazy.com",
-      "name": "虎牙资源",
-      "type": 0,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "categories": [
-        "内地剧",
-        "韩剧",
-        "日剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "马泰剧",
-        "动作片",
-        "爱情片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "动画片",
-        "记录片",
-        "战争片",
-        "伦理片",
-        "综艺"
-      ]
-    },
-    {
-      "key": "guangsuzy.com",
-      "name": "光速资源",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "categories": [
-        "大陆剧",
-        "韩剧",
-        "日剧",
-        "欧美剧",
-        "海外剧",
-        "港澳剧",
-        "台湾剧",
-        "泰剧",
-        "剧情片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "动作片",
-        "悬疑片",
-        "犯罪片",
-        "战争片",
-        "伦理片"
       ]
     },
     {
@@ -127,61 +74,6 @@
         "战争片",
         "伦理片",
         "动画电影"
-      ]
-    },
-    {
-      "key": "hongniuziyuan.com",
-      "name": "红牛资源",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "categories": [
-        "国产剧",
-        "韩剧",
-        "日剧",
-        "欧美剧",
-        "港澳剧",
-        "台湾剧",
-        "泰剧",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "动作片",
-        "战争片",
-        "纪录片",
-        "伦理片"
-      ]
-    },
-    {
-      "key": "jisuzy.tv",
-      "name": "极速资源",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "categories": [
-        "内地剧",
-        "韩剧",
-        "日剧",
-        "欧美剧",
-        "香港剧",
-        "马泰剧",
-        "动作片",
-        "爱情片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "灾难片",
-        "悬疑片",
-        "奇幻片",
-        "犯罪片",
-        "记录片",
-        "战争片",
-        "伦理片"
       ]
     }
   ]
