@@ -911,8 +911,8 @@
       "name": "虎牙资源",
       "type": 1,
       "api": "http://www.huyaapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
@@ -1310,8 +1310,8 @@
       "name": "建安资源",
       "type": 1,
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
+      "searchable": 0,
+      "quickSearch": 0
     }
   ],
   "parses": [
