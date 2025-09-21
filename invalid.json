@@ -156,33 +156,6 @@
       ]
     },
     {
-      "key": "jinyingzy.net",
-      "name": "金鹰资源",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "categories": [
-        "内地剧",
-        "韩剧",
-        "日剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "马泰剧",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "动画片",
-        "战争片",
-        "记录片",
-        "伦理片"
-      ]
-    },
-    {
       "key": "jisuzy.tv",
       "name": "极速资源",
       "type": 1,
