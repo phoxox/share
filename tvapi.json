@@ -1099,6 +1099,38 @@
       "quickSearch": 0
     },
     {
+      "key": "hhzyapi.com/help/",
+      "name": "豪华资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "categories": [
+        "内地剧",
+        "韩剧",
+        "日剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "马泰剧",
+        "剧情片",
+        "动作片",
+        "科幻片",
+        "爱情片",
+        "喜剧片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "动画片",
+        "记录片",
+        "战争片",
+        "伦理片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺"
+      ]
+    },
+    {
       "key": "apiyhzy.com",
       "name": "樱花资源",
       "type": 1,
