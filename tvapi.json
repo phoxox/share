@@ -1098,7 +1098,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "header": {
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       }
     },
     {
@@ -1109,7 +1109,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "header": {
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
         "内地剧",
@@ -1144,7 +1144,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "header": {
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
         "内地剧",
@@ -1172,7 +1172,10 @@
       "type": 1,
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
       "searchable": 0,
-      "quickSearch": 0
+      "quickSearch": 0,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+      }
     }
   ],
   "parses": [
