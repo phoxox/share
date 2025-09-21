@@ -1,5 +1,5 @@
 {
-  "warningText": "资源接口完全免费,切勿付费购买",
+  "warningtext": "资源接口完全免费,切勿付费购买",
   "wallpaper": "./wallpaper/1280x720-yankees-blue-dark.jpg",
   "//comments//": [
     {
@@ -911,8 +911,8 @@
       "name": "虎牙资源",
       "type": 1,
       "api": "http://www.huyaapi.com/api.php/provide/vod/at/json",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
