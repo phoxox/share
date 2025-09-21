@@ -1096,7 +1096,10 @@
       "type": 1,
       "api": "http://www.huyaapi.com/api.php/provide/vod/at/json",
       "searchable": 0,
-      "quickSearch": 0
+      "quickSearch": 0,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
     },
     {
       "key": "hhzyapi.com/help/",
@@ -1105,6 +1108,9 @@
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      },
       "categories": [
         "内地剧",
         "韩剧",
@@ -1137,6 +1143,9 @@
       "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      },
       "categories": [
         "内地剧",
         "韩剧",
