@@ -1309,7 +1309,7 @@
       "key": "taopianzy.com",
       "name": "淘片资源",
       "type": 1,
-      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
