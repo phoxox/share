@@ -996,6 +996,9 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      },
       "categories": [
         "大陆剧",
         "韩剧",
