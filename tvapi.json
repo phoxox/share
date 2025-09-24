@@ -334,8 +334,8 @@
       ]
     },
     {
-      "key": "www.iqiyizy.com",
-      "name": "爱奇艺资源",
+      "key": "iqiyizy.com",
+      "name": "奇艺资源",
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -667,9 +667,12 @@
       "key": "xinlangapi.com",
       "name": "新浪资源",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn/",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+      },
       "categories": [
         "大陆剧",
         "韩剧",
