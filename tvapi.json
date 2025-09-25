@@ -228,6 +228,9 @@
       "api": "https://360zy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      },
       "categories": [
         "国产剧",
         "韩国剧",
@@ -602,6 +605,9 @@
       "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      },
       "categories": [
         "国产剧",
         "韩剧",
