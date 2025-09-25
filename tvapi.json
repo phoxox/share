@@ -17,8 +17,8 @@
       "name": "非凡资源",
       "type": 1,
       "api": "http://www.ffzy2.tv/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "categories": [
         "国产剧",
         "韩国剧",
@@ -47,8 +47,8 @@
       "name": "非凡备用",
       "type": 1,
       "api": "http://www.ffzy5.tv/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "categories": [
         "国产剧",
         "韩国剧",
