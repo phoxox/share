@@ -20,8 +20,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "海外剧",
@@ -50,8 +50,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "海外剧",
@@ -80,8 +80,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "台湾剧",
@@ -109,8 +109,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "台湾剧",
@@ -134,16 +134,16 @@
       "key": "yzzy.tv",
       "name": "优质资源",
       "type": 1,
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "api": "https://api.yzzy-api.com/inc/apijson.php?ac=list",
       "quickSearch": 1,
       "searchable": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
+        "欧美剧",
         "香港剧",
         "台湾剧",
-        "欧美剧",
         "泰国剧",
         "剧情片",
         "动作片",
@@ -163,8 +163,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日剧",
         "欧美剧",
         "台剧",
@@ -196,8 +196,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "香港剧",
         "台湾剧",
@@ -232,8 +232,8 @@
         "User-Agent": "Mozilla/5.0"
       },
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "海外剧",
@@ -264,8 +264,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日剧",
         "欧美剧",
         "海外剧",
@@ -304,8 +304,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日剧",
         "欧美剧",
         "海外剧",
@@ -344,8 +344,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "香港剧",
@@ -382,13 +382,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "电视剧",
-        "国产剧",
-        "港台剧",
         "日韩剧",
+        "国产剧",
         "欧美剧",
+        "港台剧",
         "其他剧",
-        "电影",
         "喜剧",
         "爱情",
         "动作",
@@ -423,8 +421,8 @@
       "quickSearch": 1,
       "searchable": 1,
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日剧",
         "欧美剧",
         "港剧",
@@ -458,8 +456,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "香港剧",
@@ -498,8 +496,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "香港剧",
@@ -532,8 +530,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "美国剧",
         "海外剧",
@@ -568,8 +566,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日本剧",
         "香港剧",
         "欧美剧",
@@ -609,8 +607,8 @@
         "User-Agent": "Mozilla/5.0"
       },
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日剧",
         "欧美剧",
         "港澳剧",
@@ -640,8 +638,8 @@
       "filterable": 1,
       "changeable": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "香港剧",
@@ -680,8 +678,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
-        "大陆剧",
         "韩剧",
+        "大陆剧",
         "日剧",
         "泰剧",
         "港澳剧",
@@ -712,8 +710,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
-        "内地剧",
         "韩剧",
+        "内地剧",
         "日剧",
         "欧美剧",
         "香港剧",
@@ -747,8 +745,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
-        "内地剧",
         "韩剧",
+        "内地剧",
         "日剧",
         "欧美剧",
         "香港剧",
@@ -777,8 +775,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
-        "大陆剧",
         "韩剧",
+        "大陆剧",
         "日剧",
         "欧美剧",
         "海外剧",
@@ -808,8 +806,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日剧",
         "欧美剧",
         "港澳剧",
@@ -837,8 +835,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
-        "内地剧",
         "韩剧",
+        "内地剧",
         "日剧",
         "欧美剧",
         "香港剧",
@@ -866,8 +864,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "大陆剧",
         "韩剧",
+        "大陆剧",
         "日剧",
         "美剧",
         "港澳剧",
@@ -897,8 +895,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "香港剧",
@@ -926,8 +924,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "海外剧",
@@ -965,8 +963,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "美国剧",
         "香港剧",
@@ -1009,8 +1007,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
-        "大陆剧",
         "韩剧",
+        "大陆剧",
         "日剧",
         "泰剧",
         "欧美剧",
@@ -1045,8 +1043,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "香港剧",
@@ -1086,8 +1084,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
-        "内地剧",
         "韩剧",
+        "内地剧",
         "日剧",
         "欧美剧",
         "香港剧",
@@ -1117,8 +1115,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "香港剧",
         "台湾剧",
@@ -1149,8 +1147,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日剧",
         "欧美剧",
         "海外剧",
@@ -1186,8 +1184,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩剧",
+        "国产剧",
         "日剧",
         "欧美剧",
         "海外剧",
@@ -1223,8 +1221,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "韩国剧",
+        "国产剧",
         "日本剧",
         "欧美剧",
         "香港剧",
@@ -1250,8 +1248,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "国产剧",
         "日韩剧",
+        "国产剧",
         "欧美剧",
         "港台剧",
         "海外剧",
