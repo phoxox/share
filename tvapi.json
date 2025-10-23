@@ -1281,6 +1281,22 @@
       ]
     },
     {
+      "key": "zy.jinchancaiji.com",
+      "name": "金蝉资源",
+      "type": 1,
+      "api": "http://zy.jinchancaiji.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "zy.sh0o.cn",
+      "name": "山海资源",
+      "type": 1,
+      "api": "https://zy.sh0o.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "wyvod.com",
       "name": "无忧资源",
       "type": 1,
