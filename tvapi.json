@@ -1339,46 +1339,6 @@
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "apiyutu.com",
-      "name": "玉兔资源",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "sex8zy8.com",
-      "name": "杏吧资源",
-      "type": 1,
-      "api": "https://xingba222.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "xzytv.com",
-      "name": "幸资源站",
-      "type": 1,
-      "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "www.xiangjiaozyw.com",
-      "name": "香蕉资源",
-      "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "apilj.com",
-      "name": "辣椒资源",
-      "type": 1,
-      "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
-      "searchable": 0,
-      "quickSearch": 0
     }
   ],
   "parses": [
