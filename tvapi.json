@@ -1339,6 +1339,14 @@
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0
+    },
+    {
+      "key": "xzytv.com",
+      "name": "幸资源站",
+      "type": 1,
+      "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0
     }
   ],
   "parses": [
