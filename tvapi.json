@@ -1341,6 +1341,14 @@
       "quickSearch": 0
     },
     {
+      "key": "apilj.com",
+      "name": "辣椒资源",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "xzytv.com",
       "name": "幸资源站",
       "type": 1,
