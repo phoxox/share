@@ -1341,6 +1341,14 @@
       "quickSearch": 0
     },
     {
+      "key": "apiyutu.com",
+      "name": "玉兔资源",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "sex8zy8.com",
       "name": "杏吧资源",
       "type": 1,
