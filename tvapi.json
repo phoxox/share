@@ -1365,6 +1365,14 @@
       "quickSearch": 0
     },
     {
+      "key": "www.xiangjiaozyw.com",
+      "name": "香蕉资源",
+      "type": 1,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "apilj.com",
       "name": "辣椒资源",
       "type": 1,
