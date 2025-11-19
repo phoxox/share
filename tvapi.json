@@ -1337,6 +1337,9 @@
       "name": "海外資源",
       "type": 1,
       "api": "https://haiwaikan.com/api.php/provide/vod/",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+      },
       "searchable": 1,
       "quickSearch": 1
     },
