@@ -1333,6 +1333,14 @@
       "quickSearch": 1
     },
     {
+      "key": "haiwaikan.com",
+      "name": "海外資源",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "caiji.jacloud.xyz:2096",
       "name": "建安资源",
       "type": 1,
