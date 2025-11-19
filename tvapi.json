@@ -956,47 +956,6 @@
       ]
     },
     {
-      "key": "mozhuazy.com",
-      "name": "魔爪资源",
-      "type": 1,
-      "api": "https://mozhuazy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "韩国剧",
-        "国产剧",
-        "日本剧",
-        "美国剧",
-        "香港剧",
-        "台湾剧",
-        "泰国剧",
-        "海外剧",
-        "剧情片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "悬疑片",
-        "动画片",
-        "犯罪片",
-        "奇幻片",
-        "冒险片",
-        "惊悚片",
-        "战争片",
-        "记录片",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "港台综艺"
-      ]
-    },
-    {
       "key": "bdzy.tv",
       "name": "百度资源",
       "type": 1,
@@ -1325,32 +1284,10 @@
       "quickSearch": 1
     },
     {
-      "key": "www.911ysw.top",
-      "name": "天翼资源",
+      "key": "okzyw.cc",
+      "name": "OK资源",
       "type": 1,
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
-      },
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "caiji.jacloud.xyz:2096",
-      "name": "建安资源",
-      "type": 1,
-      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "haiwaikan.com",
-      "name": "海外資源",
-      "type": 1,
-      "api": "https://haiwaikan.com/api.php/provide/vod/",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
-      },
+      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     }
