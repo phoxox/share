@@ -1309,14 +1309,6 @@
       "quickSearch": 1
     },
     {
-      "key": "www.911ysw.top",
-      "name": "天翼资源",
-      "type": 1,
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "okcdn100.top",
       "name": "绵羊资源",
       "type": 1,
@@ -1333,10 +1325,10 @@
       "quickSearch": 1
     },
     {
-      "key": "haiwaikan.com",
-      "name": "海外資源",
+      "key": "www.911ysw.top",
+      "name": "天翼资源",
       "type": 1,
-      "api": "https://haiwaikan.com/api.php/provide/vod/",
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
@@ -1350,6 +1342,17 @@
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0
+    },
+    {
+      "key": "haiwaikan.com",
+      "name": "海外資源",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod/",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+      },
+      "searchable": 1,
+      "quickSearch": 1
     }
   ],
   "parses": [
