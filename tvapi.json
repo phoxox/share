@@ -1296,7 +1296,7 @@
     },
     {
       "key": "okzyw.cc",
-      "name": "OK资源网",
+      "name": "OK资源",
       "type": 1,
       "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
