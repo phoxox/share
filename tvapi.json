@@ -1064,6 +1064,46 @@
       ]
     },
     {
+      "key": "okzyw.cc",
+      "name": "OK资源",
+      "type": 1,
+      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "韩剧",
+        "国产剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "欧美剧",
+        "海外剧",
+        "Netflix自制剧",
+        "Netflix电影",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "动画片",
+        "演唱会",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "伦理",
+        "日本伦理",
+        "韩国伦理",
+        "港台三级",
+        "西方伦理"
+      ]
+    },
+    {
       "key": "apiyhzy.com",
       "name": "樱花资源",
       "type": 1,
@@ -1291,14 +1331,6 @@
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "okzyw.cc",
-      "name": "OK资源",
-      "type": 1,
-      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     }
