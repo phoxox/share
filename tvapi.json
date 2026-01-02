@@ -1340,6 +1340,14 @@
       "quickSearch": 0
     },
     {
+      "key": "jkunzy.com",
+      "name": "爱坤资源",
+      "type": 1,
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "heiliaozy.com",
       "name": "黑料资源",
       "type": 1,
