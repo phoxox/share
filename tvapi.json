@@ -1322,6 +1322,30 @@
       "api": "https://zy.sh0o.cn/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
+    },
+    {
+      "key": "www.xiangjiaozyw.com",
+      "name": "香蕉资源",
+      "type": 1,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "xzytv.com",
+      "name": "幸资源站",
+      "type": 1,
+      "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "heiliaozy.com",
+      "name": "黑料资源",
+      "type": 1,
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0
     }
   ],
   "parses": [
