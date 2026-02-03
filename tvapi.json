@@ -1284,6 +1284,14 @@
       ]
     },
     {
+      "key": "wsyzy.cc",
+      "name": "无水印网",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "maoyanzy.com",
       "name": "猫眼资源",
       "type": 1,
