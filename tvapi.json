@@ -1285,7 +1285,7 @@
     },
     {
       "key": "wsyzy.cc",
-      "name": "无水印网",
+      "name": "无印资源",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
