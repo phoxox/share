@@ -14,10 +14,9 @@
   "lives": [
     {
       "name": "live",
-      "boot": false,
       "type": 0,
-      "url": "./tv.txt",
-      "playerType": 2,
+      "url": "https://epg.pw/test_channels.m3u",
+      "playerType": 1,
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
