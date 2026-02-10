@@ -21,6 +21,282 @@
       "timeout": 20,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
+    },
+    {
+      "name": "CCTV-1",
+      "urls": [
+        "http://175.8.28.207:9999/tsfile/live/0001_1.m3u8",
+        "http://120.211.62.180:8000/hls/1/index.m3u8",
+        "http://113.90.245.216:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://101.74.28.209:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0",
+        "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8",
+        "http://61.156.228.12:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8",
+        "http://sh.lnott.top:880/dx01.m3u8",
+        "http://115.171.216.84:4000/rtp/225.1.8.33:8002",
+        "http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0"
+      ]
+    },
+    {
+      "name": "CCTV-10",
+      "urls": [
+        "http://ms.fxim.net:808/hls/10/index.m3u8",
+        "http://111.221.137.155:44330/tsfile/live/0010_1.m3u8?key=txiptv",
+        "http://sun135790.x3322.net:9901/tsfile/live/16017_1.m3u8?key=txiptv",
+        "http://175.8.28.207:9999/tsfile/live/0010_1.m3u8",
+        "http://113.90.245.216:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0010_1.m3u8?key=txiptv",
+        "http://144.255.32.94:8288/udp/239.21.1.155:5002",
+        "http://120.211.62.180:8000/hls/10/index.m3u8",
+        "http://222.169.85.8:9901/tsfile/live/0010_1.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-11",
+      "urls": [
+        "http://175.8.28.207:9999/tsfile/live/0011_1.m3u8",
+        "http://sun135790.x3322.net:9901/tsfile/live/16018_1.m3u8?key=txiptv",
+        "http://111.221.137.155:44330/tsfile/live/0011_1.m3u8?key=txiptv",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0011_1.m3u8?key=txiptv",
+        "http://61.156.228.12:8154/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://60.16.0.216:5757/hls/12/index.m3u8",
+        "http://183.237.95.108:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0",
+        "http://123.129.70.178:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://123.129.70.178:9901/tsfile/live/0011_1.m3u8",
+        "http://sh.lnott.top:880/dx11.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-12",
+      "urls": [
+        "http://120.40.39.246:352/newlive/live/hls/13/live.m3u8",
+        "http://sun135790.x3322.net:9901/tsfile/live/16019_1.m3u8?key=txiptv",
+        "http://113.90.245.216:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv",
+        "http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv",
+        "http://218.17.33.178:53290/tsfile/live/1012_1.m3u8",
+        "http://60.16.0.216:5757/hls/13/index.m3u8",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0012_1.m3u8?key=txiptv",
+        "http://120.211.62.180:8000/hls/12/index.m3u8",
+        "http://175.8.28.207:9999/tsfile/live/0012_1.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-13",
+      "urls": [
+        "http://124.228.160.14:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://sun135790.x3322.net:9901/tsfile/live/16020_1.m3u8?key=txiptv",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0013_1.m3u8?key=txiptv",
+        "http://61.156.228.12:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://61.156.228.12:8154/tsfile/live/0013_1.m3u8",
+        "http://sh.lnott.top:880/dx13.m3u8",
+        "http://222.169.85.8:9901/tsfile/live/0013_1.m3u8",
+        "http://120.211.62.180:8000/hls/13/index.m3u8",
+        "http://60.16.0.216:5757/hls/14/index.m3u8",
+        "http://ak6668768.zicp.io:8812/live1013.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-14",
+      "urls": [
+        "http://112.27.235.94:8000/hls/15/index.m3u8",
+        "http://sun135790.x3322.net:9901/tsfile/live/16021_1.m3u8?key=txiptv",
+        "http://113.90.245.216:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://120.211.62.180:8000/hls/14/index.m3u8",
+        "http://60.16.0.216:5757/hls/15/index.m3u8",
+        "http://sh.lnott.top:880/dx14.m3u8",
+        "http://61.156.228.12:8154/tsfile/live/0014_1.m3u8",
+        "http://183.237.95.108:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=0&authid=0",
+        "http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv",
+        "https://play.kankanlive.com/live/1698423575756915.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-15",
+      "urls": [
+        "http://sun135790.x3322.net:9901/tsfile/live/16022_1.m3u8?key=txiptv",
+        "http://115.171.216.84:4000/rtp/225.1.8.74:8136",
+        "http://113.90.245.216:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://111.221.137.155:44330/tsfile/live/0015_1.m3u8?key=txiptv",
+        "http://120.211.62.180:8000/hls/15/index.m3u8",
+        "http://60.16.0.216:5757/hls/16/index.m3u8",
+        "http://115.171.216.39:4000/rtp/225.1.8.74:8136",
+        "http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0015_1.m3u8?key=txiptv",
+        "http://sh.lnott.top:880/dx15.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-16",
+      "urls": [
+        "http://223.198.240.109:4000/rtp/239.253.64.126:5140",
+        "http://171.113.210.161:4022/rtp/239.69.1.249:11136",
+        "https://migu.188766.xyz/",
+        "http://118.180.142.32:65535/udp/239.255.30.88:8231",
+        "http://171.113.210.161:4022/rtp/239.69.1.247:11124",
+        "http://223.198.240.109:4000/rtp/239.253.64.251:5140",
+        "http://114.254.38.27:18888/rtp/239.3.1.184:8001",
+        "http://183.236.43.98:4013/udp/239.77.0.165:5146",
+        "http://106.59.2.80:55555/rtp/239.200.200.194:8780",
+        "http://111.113.88.146:2000/rtp/239.121.4.122:8008"
+      ]
+    },
+    {
+      "name": "CCTV-17",
+      "urls": [
+        "http://sun135790.x3322.net:9901/tsfile/live/16024_1.m3u8?key=txiptv",
+        "http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://222.169.85.8:9901/tsfile/live/0007_1.m3u8",
+        "http://61.156.228.12:8154/tsfile/live/0019_1.m3u8",
+        "http://120.211.62.180:8000/hls/17/index.m3u8",
+        "http://218.13.170.98:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://60.16.0.216:5757/hls/18/index.m3u8",
+        "http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://yp.qqqtv.top/bc/bc.php?id=CCTV-17+农业农村&auth=66615415",
+        "http://123.130.84.106:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0"
+      ]
+    },
+    {
+      "name": "CCTV-2",
+      "urls": [
+        "http://112.123.243.37:50085/tsfile/live/0002_1.m3u8",
+        "http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv",
+        "http://218.17.33.178:53290/tsfile/live/1002_1.m3u8",
+        "http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8",
+        "http://113.90.245.216:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://61.156.228.12:8154/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0002_1.m3u8?key=txiptv",
+        "http://120.211.62.180:8000/hls/2/index.m3u8",
+        "http://sh.lnott.top:880/dx02.m3u8",
+        "http://175.8.28.207:9999/tsfile/live/0002_1.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-3",
+      "urls": [
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0003_1.m3u8?key=txiptv",
+        "http://sun135790.x3322.net:9901/tsfile/live/16010_1.m3u8?key=txiptv",
+        "http://113.90.245.216:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://111.221.137.155:44330/tsfile/live/0003_1.m3u8?key=txiptv",
+        "http://175.8.28.207:9999/tsfile/live/0003_1.m3u8",
+        "http://60.16.0.216:5757/hls/3/index.m3u8",
+        "http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://124.116.183.146:9901/tsfile/live/0003_1.m3u8",
+        "http://sh.lnott.top:880/dx03.m3u8",
+        "http://220.176.218.76:9000/udp/239.252.220.193:5140"
+      ]
+    },
+    {
+      "name": "CCTV-4",
+      "urls": [
+        "http://ldcctvcpudtxy.liveplay.myqcloud.com/ldcctvcpud/udrmldcctv5_1_ud.m3u8",
+        "http://ms.fxim.net:808/hls/4/index.m3u8",
+        "http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv",
+        "http://113.90.245.216:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0004_1.m3u8?key=txiptv",
+        "http://60.16.0.216:5757/hls/4/index.m3u8",
+        "http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://111.221.137.155:44330/tsfile/live/0004_1.m3u8?key=txiptv",
+        "http://124.228.160.14:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://sh.lnott.top:880/dx04.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-5",
+      "urls": [
+        "https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td",
+        "http://124.228.160.14:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8",
+        "http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv",
+        "http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://113.90.245.216:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://60.16.0.216:5757/hls/5/index.m3u8",
+        "http://ak6668768.zicp.io:8804/live1005.m3u8",
+        "http://175.8.28.207:9999/tsfile/live/0005_1.m3u8",
+        "http://120.198.101.106:9901/tsfile/live/1030_1.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-5+",
+      "urls": [
+        "http://sun135790.x3322.net:9901/tsfile/live/16025_1.m3u8?key=txiptv",
+        "http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0016_2.m3u8?key=txiptv",
+        "http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub",
+        "http://115.171.216.84:4000/rtp/225.1.8.20:8004",
+        "http://123.129.70.178:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://120.211.62.180:8000/hls/18/index.m3u8",
+        "http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv",
+        "http://222.169.85.8:9901/tsfile/live/0116_1.m3u8",
+        "http://cssbyd.imwork.net:8082/hls/6/index.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-6",
+      "urls": [
+        "http://ms.fxim.net:808/hls/6/index.m3u8",
+        "http://175.8.28.207:9999/tsfile/live/0006_1.m3u8",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0006_1.m3u8?key=txiptv",
+        "http://111.221.137.155:44330/tsfile/live/0006_1.m3u8?key=txiptv",
+        "http://60.16.0.216:5757/hls/7/index.m3u8",
+        "http://sh.lnott.top:880/dx06.m3u8",
+        "http://183.222.242.31:8088/hls/6/index.m3u8",
+        "http://61.156.228.12:8154/tsfile/live/0006_1.m3u8",
+        "http://sun135790.x3322.net:9901/tsfile/live/16013_1.m3u8?key=txiptv",
+        "http://123.130.84.106:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0"
+      ]
+    },
+    {
+      "name": "CCTV-7",
+      "urls": [
+        "http://115.171.216.39:4000/rtp/225.1.8.7:8104",
+        "http://113.90.245.216:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://60.16.0.216:5757/hls/8/index.m3u8",
+        "http://61.156.228.12:8154/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://111.221.137.155:44330/tsfile/live/0007_1.m3u8?key=txiptv",
+        "http://sun135790.x3322.net:9901/tsfile/live/16014_1.m3u8?key=txiptv",
+        "http://sh.lnott.top:880/dx07.m3u8",
+        "http://123.130.84.106:8154/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://123.130.84.106:8154/tsfile/live/0007_1.m3u8",
+        "http://120.211.62.180:8000/hls/7/index.m3u8"
+      ]
+    },
+    {
+      "name": "CCTV-8",
+      "urls": [
+        "http://113.90.245.216:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://175.8.28.207:9999/tsfile/live/0008_1.m3u8",
+        "http://111.221.137.155:44330/tsfile/live/0008_1.m3u8?key=txiptv",
+        "http://1.31.14.70:54321/hls/14/index.m3u8",
+        "http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv",
+        "http://60.16.0.216:5757/hls/9/index.m3u8",
+        "http://sun135790.x3322.net:9901/tsfile/live/16015_1.m3u8?key=txiptv",
+        "http://sh.lnott.top:880/dx08.m3u8",
+        "http://222.169.85.8:9901/tsfile/live/0008_1.m3u8",
+        "http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub"
+      ]
+    },
+    {
+      "name": "CCTV-9",
+      "urls": [
+        "http://113.90.245.216:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://jiugong.wulinsy.cn:39901/tsfile/live/0009_1.m3u8?key=txiptv",
+        "http://61.156.228.12:8154/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://175.8.28.207:9999/tsfile/live/0009_1.m3u8",
+        "http://111.221.137.155:44330/tsfile/live/0009_1.m3u8?key=txiptv",
+        "http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv",
+        "http://60.16.0.216:5757/hls/10/index.m3u8",
+        "http://sh.lnott.top:880/dx09.m3u8",
+        "http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv",
+        "http://222.169.85.8:9901/tsfile/live/0009_1.m3u8"
+      ]
+    },
+    {
+      "name": "CETV4",
+      "urls": [
+        "http://183.11.239.36:808/hls/73/index.m3u8"
+      ]
     }
   ],
   "sites": [
