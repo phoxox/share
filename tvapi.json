@@ -124,35 +124,6 @@
       ]
     },
     {
-      "key": "lzizy1.com",
-      "name": "量子备用",
-      "type": 1,
-      "api": "https://lzizy1.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "韩国剧",
-        "国产剧",
-        "日本剧",
-        "欧美剧",
-        "台湾剧",
-        "香港剧",
-        "泰国剧",
-        "剧情片",
-        "爱情片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "动作片",
-        "战争片",
-        "记录片",
-        "伦理片",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺"
-      ]
-    },
-    {
       "key": "yzzy.tv",
       "name": "优质资源",
       "type": 1,
@@ -175,39 +146,6 @@
         "喜剧片",
         "战争片",
         "伦理片"
-      ]
-    },
-    {
-      "key": "shandianzy.com",
-      "name": "闪电资源",
-      "type": 1,
-      "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "韩剧",
-        "国产剧",
-        "欧美剧",
-        "日剧",
-        "台剧",
-        "港剧",
-        "泰剧",
-        "海外剧",
-        "Netflix自制剧",
-        "Netflix电影",
-        "剧情片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "动作片",
-        "悬疑片",
-        "犯罪片",
-        "战争片",
-        "伦理片",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺"
       ]
     },
     {
@@ -241,6 +179,75 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
+      ]
+    },
+    {
+      "key": "wujinzy.com",
+      "name": "无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "韩国剧",
+        "国产剧",
+        "日本剧",
+        "美国剧",
+        "海外剧",
+        "香港剧",
+        "台湾剧",
+        "泰剧",
+        "Netflix自制剧",
+        "Netflix电影",
+        "喜剧片",
+        "科幻片",
+        "奇幻片",
+        "爱情片",
+        "动作片",
+        "恐怖片",
+        "剧情片",
+        "悬疑片",
+        "犯罪片",
+        "动画片",
+        "战争片",
+        "纪录片",
+        "伦理片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺"
+      ]
+    },
+    {
+      "key": "shandianzy.com",
+      "name": "闪电资源",
+      "type": 1,
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "韩剧",
+        "国产剧",
+        "欧美剧",
+        "日剧",
+        "台剧",
+        "港剧",
+        "泰剧",
+        "海外剧",
+        "Netflix自制剧",
+        "Netflix电影",
+        "剧情片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "动作片",
+        "悬疑片",
+        "犯罪片",
+        "战争片",
+        "伦理片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺"
       ]
     },
     {
@@ -542,42 +549,6 @@
         "战争片",
         "纪录片",
         "伦理片"
-      ]
-    },
-    {
-      "key": "wujinzy.com",
-      "name": "无尽资源",
-      "type": 1,
-      "api": "https://api.wujinapi.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "韩国剧",
-        "国产剧",
-        "日本剧",
-        "美国剧",
-        "海外剧",
-        "香港剧",
-        "台湾剧",
-        "泰剧",
-        "Netflix自制剧",
-        "Netflix电影",
-        "喜剧片",
-        "科幻片",
-        "奇幻片",
-        "爱情片",
-        "动作片",
-        "恐怖片",
-        "剧情片",
-        "悬疑片",
-        "犯罪片",
-        "动画片",
-        "战争片",
-        "纪录片",
-        "伦理片",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺"
       ]
     },
     {
@@ -1306,14 +1277,6 @@
       ]
     },
     {
-      "key": "wsyzy.cc",
-      "name": "无印资源",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "maoyanzy.com",
       "name": "猫眼资源",
       "type": 1,
@@ -1322,42 +1285,18 @@
       "quickSearch": 1
     },
     {
+      "key": "wsyzy.cc",
+      "name": "无印资源",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "wyvod.com",
       "name": "无忧资源",
       "type": 1,
       "api": "https://www.wyvod.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "zy.jinchancaiji.com",
-      "name": "金蝉资源",
-      "type": 1,
-      "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "okcdn100.top",
-      "name": "绵羊资源",
-      "type": 1,
-      "api": "https://vs.okcdn100.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "www.yparse.com",
-      "name": "云解析源",
-      "type": 1,
-      "api": "https://api.yparse.com/api/json",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "zy.sh0o.cn",
-      "name": "山海资源",
-      "type": 1,
-      "api": "https://zy.sh0o.cn/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     }
