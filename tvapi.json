@@ -457,6 +457,46 @@
       ]
     },
     {
+      "key": "ryzy1.tv",
+      "name": "如意资源",
+      "type": 1,
+      "api": "https://ryzy1.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "韩国剧",
+        "国产剧",
+        "日本剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "泰国剧",
+        "海外剧",
+        "短剧",
+        "剧情片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "喜剧片",
+        "动作片",
+        "战争片",
+        "记录片",
+        "伦理片",
+        "预告片",
+        "动画电影",
+        "电影解说",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+    {
       "key": "lzizy.net",
       "name": "量子资源",
       "type": 1,
@@ -484,6 +524,14 @@
         "日韩综艺",
         "港台综艺"
       ]
+    },
+    {
+      "key": "wyvod.com",
+      "name": "无忧资源",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "shandianzy.com",
@@ -668,46 +716,6 @@
         "韩国伦理",
         "西方伦理",
         "港台三级"
-      ]
-    },
-    {
-      "key": "ryzy1.tv",
-      "name": "如意资源",
-      "type": 1,
-      "api": "https://ryzy1.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "韩国剧",
-        "国产剧",
-        "日本剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "泰国剧",
-        "海外剧",
-        "短剧",
-        "剧情片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "喜剧片",
-        "动作片",
-        "战争片",
-        "记录片",
-        "伦理片",
-        "预告片",
-        "动画电影",
-        "电影解说",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
       ]
     },
     {
@@ -1281,14 +1289,6 @@
       "name": "猫眼资源",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "wyvod.com",
-      "name": "无忧资源",
-      "type": 1,
-      "api": "https://www.wyvod.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
