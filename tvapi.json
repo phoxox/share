@@ -526,14 +526,6 @@
       ]
     },
     {
-      "key": "wyvod.com",
-      "name": "无忧资源",
-      "type": 1,
-      "api": "https://www.wyvod.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "shandianzy.com",
       "name": "闪电资源",
       "type": 1,
@@ -1289,6 +1281,14 @@
       "name": "猫眼资源",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "wyvod.com",
+      "name": "无忧资源",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
