@@ -1322,6 +1322,14 @@
       "quickSearch": 1
     },
     {
+      "key": "wyvod.com",
+      "name": "无忧资源",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "zy.jinchancaiji.com",
       "name": "金蝉资源",
       "type": 1,
@@ -1334,14 +1342,6 @@
       "name": "绵羊资源",
       "type": 1,
       "api": "https://vs.okcdn100.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "wyvod.com",
-      "name": "无忧资源",
-      "type": 1,
-      "api": "https://www.wyvod.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
