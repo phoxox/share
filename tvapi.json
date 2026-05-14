@@ -715,6 +715,9 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+      },
       "categories": [
         "韩剧",
         "国产剧",
@@ -927,7 +930,7 @@
       "key": "iqiyizy.com",
       "name": "爱奇艺源",
       "type": 1,
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://iqiyizy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
