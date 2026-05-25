@@ -1296,6 +1296,14 @@
       "quickSearch": 1
     },
     {
+      "key": "xgzy.tv",
+      "name": "西瓜资源",
+      "type": 1,
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "wsyzy.cc",
       "name": "无印资源",
       "type": 1,
