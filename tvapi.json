@@ -1312,14 +1312,6 @@
       "quickSearch": 0
     },
     {
-      "key": "api.zeqaht.com",
-      "name": "秒播资源",
-      "type": 1,
-      "api": "https://api.zeqaht.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "wsyzy.cc",
       "name": "无印资源",
       "type": 1,
