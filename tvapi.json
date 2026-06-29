@@ -814,14 +814,6 @@
       ]
     },
     {
-      "key": "uuzy.me",
-      "name": "UU资源",
-      "type": 1,
-      "api": "https://uuzy.me/api.php/provide/vod/?ac=list",
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
       "key": "okzyw.cc",
       "name": "OK资源",
       "type": 1,
@@ -1318,6 +1310,14 @@
       "api": "https://taopianapi.com/cjapi/mc/vod/xml.html",
       "searchable": 0,
       "quickSearch": 0
+    },
+    {
+      "key": "uuzy.me",
+      "name": "UU资源",
+      "type": 1,
+      "api": "https://uuzy.me/api.php/provide/vod/?ac=list",
+      "quickSearch": 0,
+      "searchable": 0
     },
     {
       "key": "wsyzy.cc",
