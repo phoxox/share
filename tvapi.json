@@ -814,6 +814,14 @@
       ]
     },
     {
+      "key": "uuzy.me",
+      "name": "UU资源",
+      "type": 1,
+      "api": "https://uuzy.me/api.php/provide/vod/?ac=list",
+      "quickSearch": 1,
+      "searchable": 1
+    },
+    {
       "key": "okzyw.cc",
       "name": "OK资源",
       "type": 1,
