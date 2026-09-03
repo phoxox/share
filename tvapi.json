@@ -570,7 +570,7 @@
       "key": "https://dyttzyw.tv/",
       "name": "电影天堂",
       "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1405,7 +1405,7 @@
     },
     {
       "name": "全民",
-      "url": "http://api.wpsseo.cn/?v=",
+      "url": "https://api.wpsseo.cn/?v=",
       "type": 0,
       "ext": {
         "flag": [
@@ -1484,7 +1484,7 @@
     {
       "name": "巧技",
       "type": 1,
-      "url": "http://pandown.pro/app/kkdy.php?url=",
+      "url": "https://pandown.pro/app/kkdy.php?url=",
       "ext": {
         "flag": [
           "qq",
