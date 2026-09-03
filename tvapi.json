@@ -38,7 +38,7 @@
       "key": "ffzy.tv",
       "name": "非凡资源",
       "type": 1,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -68,7 +68,7 @@
       "key": "ffzy5.tv",
       "name": "非凡备用",
       "type": 1,
-      "api": "http://www.ffzy5.tv/api.php/provide/vod/",
+      "api": "https://www.ffzy5.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -567,7 +567,7 @@
       ]
     },
     {
-      "key": "http://dyttzyw.tv/",
+      "key": "https://dyttzyw.tv/",
       "name": "电影天堂",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
@@ -1072,7 +1072,7 @@
       "key": "huyazy.com",
       "name": "虎牙资源",
       "type": 1,
-      "api": "http://www.huyaapi.com/api.php/provide/vod/at/json",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "header": {
