@@ -1219,6 +1219,14 @@
       "quickSearch": 1
     },
     {
+      "key": "changzhang.tv",
+      "name": "厂长资源",
+      "type": 1,
+      "api": "https://api.changzhang.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "飘零影视",
       "name": "飘零影视",
       "type": 1,
