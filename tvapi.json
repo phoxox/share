@@ -645,7 +645,7 @@
       "name": "暴风资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "categories": [
         "韩国剧",
