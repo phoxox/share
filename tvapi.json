@@ -646,7 +646,7 @@
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "categories": [
         "韩国剧",
         "国产剧",
@@ -755,7 +755,7 @@
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "categories": [
         "韩国剧",
         "国产剧",
