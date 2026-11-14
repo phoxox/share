@@ -228,8 +228,8 @@
       "name": "最大资源",
       "type": 1,
       "api": "https://api.zuidapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "categories": [
         "韩剧",
         "日剧",
