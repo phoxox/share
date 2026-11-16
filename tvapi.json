@@ -1987,6 +1987,11 @@
   ],
   "doh": [
     {
+      "name": "null",
+      "url": "null",
+      "ips": []
+    },
+    {
       "name": "Google",
       "url": "https://dns.google/dns-query",
       "ips": [
