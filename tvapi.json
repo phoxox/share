@@ -1987,11 +1987,6 @@
   ],
   "doh": [
     {
-      "name": "null",
-      "url": "null",
-      "ips": []
-    },
-    {
       "name": "Google",
       "url": "https://dns.google/dns-query",
       "ips": [
@@ -2015,14 +2010,6 @@
       "ips": [
         "94.140.14.140",
         "94.140.14.141"
-      ]
-    },
-    {
-      "name": "DNSWatch",
-      "url": "https://resolver2.dns.watch/dns-query",
-      "ips": [
-        "84.200.69.80",
-        "84.200.70.40"
       ]
     },
     {
